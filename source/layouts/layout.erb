@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!--
+            _
+     __   _(_)_ __   ___
+     \ \ / / | '_ \ / __|
+      \ V /| | | | | (__ 
+       \_/ |_|_| |_|\___|
+
+    -->
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title><%= current_page.data.title || "Vinc.cc" %></title>
+
+    <%= stylesheet_link_tag :site %>
+  </head>
+
+  <body class="<%= page_classes %>">
+    <div class="container">
+
+<%= yield %>
+
+    </div>
+  </body>
+</html>

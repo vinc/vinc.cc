@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: normal;
+  src: url(/fonts/inconsolata-regular.ttf) format(truetype);
+}
+
+@font-face {
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: bold;
+  src: url(/fonts/inconsolata-bold.ttf) format(truetype);
+}
+
+@import "normalize";
+
+$base03:    #002b36;
+$base02:    #073642;
+$base01:    #586e75;
+$base00:    #839496; // base0
+$orange:    #cb4b16;
+$blue:      #268bd2;
+$cyan:      #2aa198;
+
+$background-color:  $base03;
+$title-color:       $orange;
+$text-color:        $base00;
+$code-color:        $base01;
+$link-color:        $blue;
+$active-link-color: $cyan;
+
+body {
+  background: $background-color;
+  color: $text-color;
+  font-family: "Inconsolata", monospace;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.4em;
+  margin: 0 auto;
+  max-width: 640px;
+  padding: 10px;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+h1, h2 {
+  color: $title-color;
+  font-size: 1em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+code {
+  color: $code-color;
+  font-family: "Inconsolata", monospace;
+}
+
+a, a:visited {
+  color: $link-color;
+}
+
+a:hover {
+  color: $active-link-color;
+}
