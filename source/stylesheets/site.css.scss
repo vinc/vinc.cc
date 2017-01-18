@@ -56,6 +56,11 @@ h1, h2 {
   text-transform: uppercase;
 }
 
+pre {
+  line-height: 1em;
+  padding-left: 40px;
+}
+
 code {
   color: $code-color;
   font-family: "Inconsolata", monospace;
