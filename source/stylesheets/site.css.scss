@@ -41,6 +41,7 @@ body {
   margin: 0 auto;
   max-width: 640px;
   padding: 10px;
+  overflow-x: hidden;
 }
 
 @media (max-width: 600px) {
@@ -49,7 +50,7 @@ body {
   }
 }
 
-h1, h2 {
+h1, h2, h3, h4, h5 {
   color: $title-color;
   font-size: 1em;
   font-weight: bold;
@@ -58,7 +59,8 @@ h1, h2 {
 
 pre {
   line-height: 1em;
-  padding-left: 40px;
+  padding-left: 1em;
+  width: 650px;
 }
 
 code {

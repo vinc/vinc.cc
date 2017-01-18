@@ -5,7 +5,8 @@ title: Vinc.cc
 
 # Hi, I'm Vinc
 
-This website is my cyber résumé.
+This webpage is my cyber résumé. The website also hosts the readme file of my
+[personal projects](/projects).
 
 I came to this world 449,947,500 seconds after Unix Epoch at 48.4998763 degrees
 of latitude and -2.7518657 of longitude. I spent my childhood between the sea
