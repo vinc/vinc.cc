@@ -55,7 +55,6 @@ You can find me on [GitHub][1], [Twitter][2] and [Instagram][3]. Or you can
 email me at this domain with its first letter for the username.
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
-    Version: GnuPG v2
 
     mQENBFcTIv8BCADKWDOM446C8vKet6ojv7z2KE+8MeupjfUCPjvomV8shnZtIVuo
     +jfsI4zYPIGUfIso7lV/SztH/PK3HsXpocmFma5tgScZMDEokjCmJCJCEdeCUL4E

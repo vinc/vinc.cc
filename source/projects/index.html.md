@@ -2,20 +2,35 @@
 title: Projects
 ---
 
-# List of projects
 
-- [ansible-playbook-digitalocean](/projects/ansible-playbook-digitalocean.html)
-- [arduino-decimal-clock](/projects/arduino-decimal-clock.html)
-- [dasort](/projects/dasort.html)
+# Projets
+
+This page lists some my programming projects, but many more are published
+on [GitHub](https://github.com/vinc).
+
+
+## Apps
+
 - [forecaster](/projects/forecaster.html)
 - [geodate](/projects/geodate.html)
-- [goelo.eu](/projects/goelo.eu.html)
-- [internet-freedom-list](/projects/internet-freedom-list.html)
 - [littlewing](/projects/littlewing.html)
+- [purplehaze](/projects/purplehaze.html)
 - [memorious](/projects/memorious.html)
 - [oximon](/projects/oximon.html)
+- [dasort](/projects/dasort.html)
+
+
+## Websites
+
 - [pi.ctu.re](/projects/pi.ctu.re.html)
+- [goelo.eu](/projects/goelo.eu.html)
 - [pollen.vinc.cc](/projects/pollen.vinc.cc.html)
-- [purplehaze](/projects/purplehaze.html)
-- [rddt.cc](/projects/rddt.cc.html)
 - [rgb.vinc.cc](/projects/rgb.vinc.cc.html)
+- [rddt.cc](/projects/rddt.cc.html)
+
+
+## Miscellaneous
+
+- [internet-freedom-list](/projects/internet-freedom-list.html)
+- [arduino-decimal-clock](/projects/arduino-decimal-clock.html)
+- [ansible-playbook-digitalocean](/projects/ansible-playbook-digitalocean.html)
