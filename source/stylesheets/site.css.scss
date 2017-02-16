@@ -75,3 +75,8 @@ a, a:visited {
 a:hover {
   color: $active-link-color;
 }
+
+ul {
+  padding-left: 0;
+  list-style-position: inside;
+}
