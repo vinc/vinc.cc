@@ -1,12 +1,11 @@
 ---
-title: Projects
+title: Projects by Vinc
 ---
 
+# Projects by Vinc
 
-# Projets
-
-This page lists some my programming projects, but many more are published
-on [GitHub](https://github.com/vinc).
+This page lists some my personal programming projects, but many more are
+published on [GitHub](https://github.com/vinc).
 
 
 ## Apps
@@ -34,3 +33,8 @@ on [GitHub](https://github.com/vinc).
 - [internet-freedom-list](/projects/internet-freedom-list.html)
 - [arduino-decimal-clock](/projects/arduino-decimal-clock.html)
 - [ansible-playbook-digitalocean](/projects/ansible-playbook-digitalocean.html)
+
+
+## See Also
+
+[home](/), [biography](/biography.html), [contact](/contact.html)

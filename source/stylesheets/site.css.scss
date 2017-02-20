@@ -38,6 +38,10 @@ body {
   font-size: 18px;
   font-weight: normal;
   line-height: 1.4em;
+  min-height: 100vh;
+}
+
+.container {
   margin: 0 auto;
   max-width: 640px;
   padding: 10px;
@@ -79,4 +83,10 @@ a:hover {
 ul {
   padding-left: 0;
   list-style-position: inside;
+}
+
+body.index {
+  display: flex;
+  align-items: center;
+  align-content: center;
 }
