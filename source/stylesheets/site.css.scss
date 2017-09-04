@@ -85,6 +85,10 @@ ul {
   list-style-position: inside;
 }
 
+li li {
+  padding-left: 1em;
+}
+
 body.index {
   display: flex;
   align-items: center;

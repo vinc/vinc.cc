@@ -1,0 +1,210 @@
+{
+  "basics": {
+    "name": "Vincent Ollivier",
+    "label": "Software Engineer",
+    "email": "contact@vincentollivier.com",
+    "website": "https://vincentollivier.com",
+    "summary": "Software engineer with a passion for the web at any level of the stack and a love for clean, secure, and efficient code. Writing Rails APIs, implementing algorithms, discussing caching strategies, and debugging TCP errors during the day. Reading RFCs, playing with microcontrollers, and learning Haskell or Rust during the night.",
+    "location": {
+      "address": "9 rue de pen an run",
+      "postalCode": "22500",
+      "city": "Paimpol",
+      "region": "Bretagne",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vinc",
+        "url": "https://github.com/vinc"
+      },
+      {
+        "network": "Twitter",
+        "username": "vinc686",
+        "url": "https://twitter.com/vinc686"
+      },
+      {
+        "network": "Instagram",
+        "username": "vinc686",
+        "url": "https://instagram.com/vinc686"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Self-Employed",
+      "website": "https://vinua.com",
+      "position": "Freelance Software Engineer",
+      "startDate": "2015-03-01",
+      "summary": "Decided to embrace the digital nomad trend to travel to the last wild places of Earth and work remotely from rural communities. Most of the missions are related to building or maintaining Rails applications with some consulting on data analysis and architecture.",
+      "highlights": [
+        "Worked 7 months from a quasi subantarctic island in winter",
+        "Worked 2 months from a tropical island the next southern winter"
+      ]
+    },
+    {
+      "company": "Slate.fr",
+      "website": "https://slate.fr",
+      "position": "Lead Software Engineer",
+      "startDate": "2013-12-01",
+      "endDate": "2015-02-01",
+      "summary": "Launched Reader.fr, a news aggregator from social networks, and grew a team from 1 to 7 members to work on the project. Built from scratch a Rails API using Redis and MongoDB with Angular in front, hosted on Heroku and AWS.",
+      "highlights": [
+        "Wrote a web crawler to extract content from URLs",
+        "Wrote algorithms to measure the velocity, acceleration, and jerk of URLs on social medias"
+      ]
+    },
+    {
+      "company": "Slate.fr",
+      "website": "https://slate.fr",
+      "location": {
+        "city": "Paris"
+      },
+      "position": "Software Engineer",
+      "startDate": "2011-03-01",
+      "endDate": "2013-12-01",
+      "summary": "Worked at every level of the stack to make Drupal handle the millions of visitors each month on Slate.fr, from optimizing CSS/JavaScript/images assets to adding Varnish in front of Apache and scaling everything horizontally, including the reads on MySQL slave servers. Responsible for the coordination of the dev team with the external ops team managing our dedicated hardware.",
+      "highlights": [
+        "Created an Android app with 100k+ users",
+        "Managed two networks of WordPress blogs used by journalists all over the world",
+        "Created data visualizations and widgets with journalists",
+        "Managed the internal network of a 4 stories building",
+        "Spread the love of FOSS and good coding practices in the dev team",
+        "Introduced Git, Heroku, AWS, Rails, and Angular to the workplace"
+      ]
+    },
+    {
+      "company": "Infotel",
+      "website": "http://infotel.fr",
+      "location": {
+        "city": "Rennes"
+      },
+      "position": "Junior System Administrator",
+      "startDate": "2010-03-01",
+      "endDate": "2010-08-01",
+      "summary": "6 months internship in the sysadmin department of Infotel in Rennes to integrate OpenNMS in a network of 70+ heterogeneous servers, replacing an older monitoring platform based on Nagios.",
+      "highlights": [
+        "Created an Open Source tool written in Python to manage OpenNMS"
+      ]
+    },
+    {
+      "company": "ETC Labs",
+      "position": "Junior System Administrator",
+      "startDate": "2009-06-01",
+      "endDate": "2010-03-01",
+      "summary": "3 months internship to link a single sign-on (SSO) system with NuFW, an authentication firewall. Followed by a year long part time job administrating servers in a local datacenter and doing research and development on embedded systems.",
+      "highlights": [
+        "Designed an embedded controller to remotely open and lock a physical safe"
+      ]
+    },
+    {
+      "company": "Self-Employed",
+      "website": "https://bzhpro.com",
+      "position": "Full Stack Web Developer",
+      "startDate": "2005-01-01",
+      "endDate": "2013-11-01",
+      "summary": "Created many websites in PHP, then Python (Django), and finally a mix of Ruby (Rails, Sinatra) and JavaScript (Express, Angular). Started a web hosting service that grew to fill up a small room in my home until it become virtualised in the cloud.",
+      "highlights": [
+        "Hosted hundreds of (mostly small) websites",
+        "Learned to setup and power network equipments"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Actux",
+      "position": "Vice Secretary",
+      "startDate": "2007",
+      "endDate": "2009",
+      "summary": "Linux user group for the students of Rennes universities"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Rennes I, France",
+      "startDate": "2008",
+      "endDate": "2010",
+      "area": "Network Engineering",
+      "studyType": "Master Degree"
+    },
+    {
+      "institution": "University of Rennes I, France",
+      "startDate": "2004",
+      "endDate": "2007",
+      "area": "Computer Science",
+      "studyType": "Bachelor Degree"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery", "Angular", "Vue"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "Rails",
+        "JavaScript",
+        "Express"
+      ]
+    },
+    {
+      "name": "Systems",
+      "level": "Master",
+      "keywords": [
+        "Docker",
+        "Apache", "Nginx", "Varnish",
+        "MySQL", "PostgreSQL", "MongoDB", "Redis"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Nature",
+      "keywords": [
+        "Climbing",
+        "Hiking",
+        "Camping",
+        "Photography"
+      ]
+    },
+    {
+      "name": "Triathlon",
+      "keywords": [
+        "Swimming",
+        "Cycling",
+        "Running"
+      ]
+    },
+    {
+      "name": "Coding",
+      "keywords": [
+        "Chess Engine",
+        "Robotic",
+        "CTF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Limited working"
+    }
+  ]
+}
