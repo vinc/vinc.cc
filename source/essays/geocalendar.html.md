@@ -33,12 +33,12 @@ calendar.
 
 ### 3.1. Day
 
-At the moment most human beings still live on the surface of the Earth, the
+At the moment most human beings still live on the surface of Earth, the
 third planet orbiting the Sun.
 
 In space, or any environments disconnected from the natural cycles of our
 planet, it could be easier to use only one unit of time. The Metric time, for
-example, uses only the second, and its multiples like the kilosecond or the
+example, uses only the second and its multiples like the kilosecond or the
 megasecond to measure longer stretches of time. But on Earth we can use a few
 simple astronomical observations, like the movement of the Sun, to help us mark
 the passage of time.
@@ -51,14 +51,14 @@ horizon, at midnight. This phenomenon, caused by the rotation of the Earth on
 its axis, give us the day, the main unit of the geographic calendar.
 
 Human beings, like many other animals, adapted to those conditions by sleeping
-during the darkness and by being more active during the day. This long period
-of rest during the night give us the impression of starting a new cycle every
-morning when we wake up and regain consciousness. The change to a new day
-should therefor occurs at or before our awaking. But the moment we wake up is
-subject to variations, as is the sunrise, so a more regular time to mark the
-beginning of the day is midnight: when the Sun is at its lowest point below the
-horizon, or when our position on Earth is at the most opposite side from the
-Sun.
+during the period of darkness and by being more active during the day. This
+long resting time during the night give us the impression of starting a new
+cycle every morning when we wake up and regain consciousness. The change to a
+new day should therefor occurs at or before our awaking. But the moment we wake
+up is subject to variations, as is the sunrise, so a more regular time to mark
+the beginning of the day is midnight: when the Sun is at its lowest point below
+the horizon, or when our position on Earth is at the most opposite side from
+the Sun.
 
 The mean solar day is defined by the yearly average interval of time between
 two midnights during one orbit of the Earth around the Sun, it is about 86,400
