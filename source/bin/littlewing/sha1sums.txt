@@ -1,0 +1,4 @@
+3b9c408c16c8df587117d35cfeaee1285ed4745c  littlewing-v0.2.0-linux-64bit
+9ae23e547ff8f664906b779b3278bf9b5b2ab13c  littlewing-v0.2.0-windows-64bit.exe
+2cc5f19cebf7b7d98253abde97a8ed262ecd4d8d  littlewing-v0.3.0-linux-64bit
+b04cb9994c25977e7bf3c120b0141027f2720c4c  littlewing-v0.3.0-windows-64bit.exe
