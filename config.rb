@@ -1,5 +1,5 @@
 set :markdown_engine, :redcarpet
-set :markdown, :fenced_code_blocks => true, :smartypants => true, :autolink => true
+set :markdown, fenced_code_blocks: true, smartypants: true, autolink: true
 
 activate :syntax
 
@@ -9,3 +9,5 @@ activate :deploy do |deploy|
   deploy.path          = "/home/user-data/www/vinc.cc"
   deploy.user          = "root"
 end
+
+redirect "bin/index.html", to: "/binaries"
