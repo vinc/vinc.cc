@@ -1,8 +1,8 @@
 ---
-title: Projects by Vinc
+title: Projects
 ---
 
-# Projects by Vinc
+# Projects
 
 This page lists some my personal programming projects, but many more are
 published on [GitHub](https://github.com/vinc).
@@ -40,4 +40,4 @@ published on [GitHub](https://github.com/vinc).
 
 ## See Also
 
-[home](/), [biography](/biography.html), [contact](/contact.html)
+[home](/), [about](/about.html), [contact](/contact.html)

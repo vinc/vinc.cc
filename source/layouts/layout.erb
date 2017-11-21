@@ -13,7 +13,7 @@
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title><%= current_page.data.title || "Vinc.cc" %></title>
+    <title><%= current_page.data.title || "Vinc" %></title>
 
     <%= stylesheet_link_tag :syntax %>
     <%= stylesheet_link_tag :site %>
@@ -21,6 +21,12 @@
 
   <body class="<%= page_classes %>">
     <div class="container">
+      <% unless page_classes == "index" %>
+        <nav aria-label="breadcrumb" role="navigation">
+          <%= breadcrumbs(current_page) %>
+        </nav>
+      <% end %>
+
       <%= yield %>
     </div>
 

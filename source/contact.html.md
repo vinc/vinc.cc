@@ -1,8 +1,8 @@
 ---
-title: Contact Vinc
+title: Contact
 ---
 
-# Contact Vinc
+# Contact
 
 You can email me at this domain with its first letter for the username.
 
@@ -47,7 +47,7 @@ I'm also on [GitHub][0], [Twitter][1] and [Instagram][2].
 
 ## See Also
 
-[home](/), [biography](/biography.html), [projects](/projects.html)
+[home](/), [about](/about.html), [projects](/projects)
 
 
 [0]: https://github.com/vinc

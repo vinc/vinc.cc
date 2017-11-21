@@ -1,3 +1,7 @@
+---
+title: Geographic calendar
+---
+
 # Geographic calendar
 
 The geographic calendar or geocalendar is a Earth based lunisolar calendar

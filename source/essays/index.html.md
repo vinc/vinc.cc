@@ -1,11 +1,11 @@
 ---
-title: Essays by Vinc
+title: Essays
 ---
 
-# Essays by Vinc
+# Essays
 
 - [geocalendar](/essays/geocalendar.html)
 
 ## See Also
 
-[home](/), [biography](/biography.html), [projects](/projects), [contact](/contact.html)
+[home](/), [about](/about.html), [projects](/projects), [contact](/contact.html)

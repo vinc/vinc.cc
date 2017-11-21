@@ -1,8 +1,8 @@
 ---
-title: About Vinc
+title: About
 ---
 
-# About Vinc
+# About
 
 I came to this world `449,947,500` seconds after Unix Epoch at `48.4998763`
 degrees of latitude and `-2.7518657` of longitude. I spent my childhood between
@@ -47,7 +47,7 @@ meaningful project in JavaScript, Ruby or Rust, I'd love to hear about it.
 
 ## See Also
 
-[home](/), [projects](/projects/), [contact](/contact.html)
+[home](/), [projects](/projects), [contact](/contact.html)
 
 
 [0]: https://slate.fr

@@ -3,6 +3,8 @@ set :markdown, fenced_code_blocks: true, smartypants: true, autolink: true
 
 activate :syntax
 
+activate :breadcrumbs, separator: " / "
+
 activate :deploy do |deploy|
   deploy.deploy_method = :sftp
   deploy.host          = "vinc.cc"

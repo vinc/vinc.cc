@@ -1,5 +1,5 @@
 ---
-title: Vinc.cc
+title: Vinc
 ---
 
 # Hi, I'm Vinc
