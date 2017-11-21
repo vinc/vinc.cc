@@ -1,13 +1,13 @@
 ---
-title: Biography of Vinc
+title: About Vinc
 ---
 
-# Biography of Vinc
+# About Vinc
 
-I came to this world 449,947,500 seconds after Unix Epoch at 48.4998763 degrees
-of latitude and -2.7518657 of longitude. I spent my childhood between the sea
-and the forest, and I remain, more than a gigasecond later, most at peace when
-I am surrounded by nature.
+I came to this world `449,947,500` seconds after Unix Epoch at `48.4998763`
+degrees of latitude and `-2.7518657` of longitude. I spent my childhood between
+the sea and the forest, and I remain, more than a gigasecond later, most at
+peace when I am surrounded by nature.
 
 
 ## Education

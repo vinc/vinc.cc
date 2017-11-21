@@ -11,3 +11,4 @@ activate :deploy do |deploy|
 end
 
 redirect "bin/index.html", to: "/binaries"
+redirect "biography.html", to: "about.html"

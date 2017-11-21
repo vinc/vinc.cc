@@ -6,7 +6,7 @@ title: Vinc.cc
 
 Welcome to my personal website!
 
-- [biography](/biography.html)
+- [about](/about.html)
 - [essays](/essays/)
 - [projects](/projects/)
 - [contact](/contact.html)
