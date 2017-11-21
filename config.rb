@@ -29,8 +29,8 @@ activate :blog do |blog|
 end
 
 activate :deploy do |deploy|
-  deploy.deploy_method = :sftp
-  deploy.host          = "vinc.cc"
+  deploy.deploy_method = :rsync
+  deploy.host          = "root@vinc.cc"
   deploy.path          = "/home/user-data/www/vinc.cc"
   deploy.user          = "root"
 end
