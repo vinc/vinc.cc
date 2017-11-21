@@ -14,7 +14,6 @@
   src: url(/fonts/inconsolata-bold.ttf) format(truetype);
 }
 
-
 @import "normalize";
 @import "solarized";
 
@@ -42,9 +41,14 @@ body {
   font-size: 20px;
   font-family: "Inconsolata", monospace;
 }
+
 code {
   font-family: "Inconsolata", monospace;
   font-size: 0.9em;
+}
+
+img {
+  max-width: 100%;
 }
 
 .container {

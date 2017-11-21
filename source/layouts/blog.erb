@@ -13,22 +13,35 @@
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title><%= current_page.data.title + " - " unless current_page.data.title.nil? %>Vinc</title>
+    <title><%= current_article.title + " - " unless current_article.nil? %> Vinc</title>
 
     <%= stylesheet_link_tag :syntax %>
     <%= stylesheet_link_tag :site %>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
-
   <body class="<%= page_classes %>">
     <div class="container">
       <% unless page_classes == "index" %>
         <nav aria-label="breadcrumb" role="navigation">
           <%= breadcrumbs(current_page) %>
+          (<%= current_article.date.strftime("%Y-%m-%d") %>)
         </nav>
       <% end %>
 
-      <%= yield %>
+      <article>
+        <%= yield %>
+
+        <p>Tags: <%= current_article.tags.map { |tag| link_to tag, tag_path(tag) }.join(", ") %></p>
+      </article>
+
+      <aside>
+        <h2>Recent Articles</h2>
+        <ul>
+          <% blog.articles[0...10].each do |article| %>
+            <li><%= link_to article.title, article %> (<%= article.date.strftime("%Y-%m-%d") %>)</li>
+          <% end %>
+        </ul>
+      </aside>
     </div>
 
     <footer>
