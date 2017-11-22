@@ -1,7 +1,6 @@
 ---
 title: Goelo.eu
 ---
-
 Goelo.eu
 ========
 

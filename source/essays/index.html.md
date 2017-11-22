@@ -8,4 +8,4 @@ title: Essays
 
 ## See Also
 
-[home](/), [about](/about.html), [projects](/projects), [contact](/contact.html)
+[home](/), [about](/about.html), [projects](/projects/), [contact](/contact.html)

@@ -6,8 +6,8 @@ title: Vinc
 
 Welcome to my personal website!
 
-- [about](/about.html)
-- [blog](/blog)
-- [essays](/essays)
-- [projects](/projects)
-- [contact](/contact.html)
+- [About](/about.html)
+- [Blog](/blog/)
+- [Essays](/essays/)
+- [Projects](/projects/)
+- [Contact](/contact.html)

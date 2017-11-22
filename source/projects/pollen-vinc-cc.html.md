@@ -1,7 +1,6 @@
 ---
-title: Pollen Chart
+title: Pollen.vinc.cc
 ---
-
 Pollen Chart
 ============
 

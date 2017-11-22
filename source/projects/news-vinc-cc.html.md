@@ -1,3 +1,6 @@
+---
+title: News.vinc.cc
+---
 # README
 
 https://news.vinc.cc

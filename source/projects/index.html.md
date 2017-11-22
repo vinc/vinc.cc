@@ -24,13 +24,14 @@ published on [GitHub](https://github.com/vinc).
 
 ## Websites
 
-- [pi.ctu.re](/projects/pi.ctu.re.html)
-- [news.vinc.cc](/projects/news.vinc.cc.html)
-- [goelo.eu](/projects/goelo.eu.html)
-- [pollen.vinc.cc](/projects/pollen.vinc.cc.html)
-- [rddt.cc](/projects/rddt.cc.html)
-- [rgb.vinc.cc](http://rgb.vinc.cc)
-- [ll.vinc.cc](http://ll.vinc.cc)
+- [pi.ctu.re](/projects/pi-ctu-re.html)
+- [geodate.org](/projects/geodate-org.html)
+- [clock.geodate.org](/projects/clock-geodate-org.html)
+- [goelo.eu](/projects/goelo-eu.html)
+- [pollen.vinc.cc](/projects/pollen-vinc-cc.html)
+- [rgb.vinc.cc](http://rgb-vinc-cc)
+- [news.vinc.cc](/projects/news-vinc-cc.html)
+- [rddt.cc](/projects/rddt-cc.html)
 
 
 ## Miscellaneous

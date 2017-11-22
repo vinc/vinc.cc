@@ -7,6 +7,8 @@ page "/*.txt", layout: false
 
 activate :syntax
 
+activate :directory_indexes
+
 activate :breadcrumbs, separator: " / "
 
 activate :blog do |blog|
@@ -36,15 +38,36 @@ activate :deploy do |deploy|
 end
 
 configure :build do
-  # activate :minify_css
-  # activate :minify_javascript
+  activate :minify_css
+  activate :minify_javascript
 end
 
 # Run `touch source/projects/.sync` to update this directory
 if File.exist?("source/projects/.sync")
-  %w[closh pkg forecaster geodate oximon littlewing purplehaze].each do |project|
+  projects = [
+    "closh",
+    "pkg",
+    "forecaster",
+    "geodate",
+    "oximon",
+    "littlewing",
+    "purplehaze",
+    "pi.ctu.re",
+    #"provisioning.sh",
+    "geodate.org",
+    "clock.geodate.org",
+    "goelo.eu",
+    #"ll.vinc.cc",
+    "news.vinc.cc",
+    "pollen.vinc.cc",
+    "rgb.vinc.cc"
+  ]
+
+  projects.each do |project|
     url = "https://raw.githubusercontent.com/vinc/#{project}/master/README.md"
-    path = "source/projects/#{project}.html.md"
+    puts "Fetching '#{url}' ..."
+    name = project.tr(".", "-")
+    path = "source/projects/#{name}.html.md"
     open(path, "w") do |f|
       open(url) do |io|
         f.write("---\ntitle: #{project.capitalize}\n---\n")

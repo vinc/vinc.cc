@@ -7,10 +7,10 @@
   font-family: "Inconsolata";
   font-style: normal;
   font-weight: 400;
-  src: local("Inconsolata Bold"), local("Inconsolata-Bold"),
-       url(/fonts/inconsolata-regular.woff2) format(woff2),
-       url(/fonts/inconsolata-regular.woff) format(woff),
-       url(/fonts/inconsolata-regular.ttf) format(truetype);
+  src: local("Inconsolata Regular"), local("Inconsolata-Regular"),
+       url("../fonts/inconsolata-regular.woff2") format("woff2"),
+       url("../fonts/inconsolata-regular.woff") format("woff"),
+       url("../fonts/inconsolata-regular.ttf") format("truetype");
 }
 
 @font-face {
@@ -18,9 +18,9 @@
   font-style: normal;
   font-weight: 700;
   src: local("Inconsolata Bold"), local("Inconsolata-Bold"),
-       url(/fonts/inconsolata-bold.woff2) format(woff2),
-       url(/fonts/inconsolata-bold.woff) format(woff),
-       url(/fonts/inconsolata-bold.ttf) format(truetype);
+       url("../fonts/inconsolata-bold.woff2") format("woff2"),
+       url("../fonts/inconsolata-bold.woff") format("woff"),
+       url("../fonts/inconsolata-bold.ttf") format("truetype");
 }
 
 .light, .dark {
@@ -67,6 +67,14 @@ img {
 @media (max-width: 600px) {
   body {
     font-size: 18px;
+  }
+  footer {
+    span {
+      display: block;
+    }
+    span.sep {
+      display: none;
+    }
   }
 }
 

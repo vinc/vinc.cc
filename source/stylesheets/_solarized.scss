@@ -18,7 +18,8 @@ $green:     #859900;
 @mixin rebase($rebase03, $rebase02, $rebase01, $rebase00, $rebase0, $rebase1, $rebase2, $rebase3) {
   background-color: $rebase03;
   color: $rebase0;
-  * { color: $rebase0 }
+  //* { color: $rebase0 }
+  button { color: $rebase0 }
   button:hover { color: $rebase1 }
   footer, code { color: $rebase01 }
   pre { background-color: $rebase02 }
