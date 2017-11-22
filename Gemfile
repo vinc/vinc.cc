@@ -5,7 +5,7 @@ source "https://rubygems.org"
 # Middleman Gems
 gem "middleman", "~> 4.2"
 gem "middleman-blog"
-gem "middleman-breadcrumbs"
+gem "middleman-breadcrumbs", git: "https://github.com/vinc/middleman-breadcrumbs", branch: "fix-directory-indexes"
 gem "middleman-deploy", "~> 2.0.0-alpha"
 gem "middleman-syntax"
 

@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/vinc/middleman-breadcrumbs
+  revision: 47bd09da8b75385b3073c2c50c60cf5e7f20457d
+  branch: fix-directory-indexes
+  specs:
+    middleman-breadcrumbs (0.4.1)
+      middleman (>= 4.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -48,8 +56,6 @@ GEM
       addressable (~> 2.3)
       middleman-core (~> 4.0)
       tzinfo (>= 0.3.0)
-    middleman-breadcrumbs (0.4.1)
-      middleman (>= 4.0.0)
     middleman-cli (4.2.1)
       thor (>= 0.17.0, < 2.0)
     middleman-core (4.2.1)
@@ -119,7 +125,7 @@ DEPENDENCIES
   builder (~> 3.0)
   middleman (~> 4.2)
   middleman-blog
-  middleman-breadcrumbs
+  middleman-breadcrumbs!
   middleman-deploy (~> 2.0.0.pre.alpha)
   middleman-syntax
   redcarpet
