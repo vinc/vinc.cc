@@ -1,7 +1,6 @@
 ---
-title: Purple Haze
+title: Purplehaze
 ---
-
 Purple Haze
 ===========
 

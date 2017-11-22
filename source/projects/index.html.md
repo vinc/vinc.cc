@@ -10,6 +10,8 @@ published on [GitHub](https://github.com/vinc).
 
 ## Apps
 
+- [pkg](/projects/pkg.html)
+- [closh](/projects/closh.html)
 - [forecaster](/projects/forecaster.html)
 - [geodate](/projects/geodate.html)
 - [littlewing](/projects/littlewing.html)

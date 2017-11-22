@@ -13,7 +13,7 @@
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title><%= current_page.data.title + " - " unless current_page.data.title.nil? %>Vinc</title>
+    <title><%= [current_page.data.title, "Vinc"].compact.uniq.join(" - ") %></title>
 
     <%= stylesheet_link_tag :syntax %>
     <%= stylesheet_link_tag :site %>

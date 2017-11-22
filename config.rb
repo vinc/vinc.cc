@@ -40,6 +40,21 @@ configure :build do
   # activate :minify_javascript
 end
 
+# Run `touch source/projects/.sync` to update this directory
+if File.exist?("source/projects/.sync")
+  %w[closh pkg forecaster geodate oximon littlewing purplehaze].each do |project|
+    url = "https://raw.githubusercontent.com/vinc/#{project}/master/README.md"
+    path = "source/projects/#{project}.html.md"
+    open(path, "w") do |f|
+      open(url) do |io|
+        f.write("---\ntitle: #{project.capitalize}\n---\n")
+        f.write(io.read)
+      end
+    end
+  end
+  File.unlink("source/projects/.sync")
+end
+
 redirect "bin/index.html", to: "/binaries"
 redirect "biography.html", to: "about.html"
 

@@ -1,6 +1,6 @@
 ---
 title: Hello, world!
-date: 2017-11-01
+date: 2017-10-01
 tags: news
 ---
 
