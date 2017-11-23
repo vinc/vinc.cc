@@ -20,9 +20,9 @@ Every date should be accompanied by a set of geographic coordinates.
 
 ## Example
 
-    14:03:03:71:59 (48.5136, -2.7653)
+    84:03:03:71:59 (48.5136, -2.7653)
 
-This example can be read as 14 years, 3 months, 3 days, 71 centidays, and 54
+This example can be read as 84 years, 3 months, 3 days, 71 centidays, and 54
 dimidays since the beginning of this calendar.
 
 The notation can be split in two parts: this first one representing the date
@@ -165,8 +165,9 @@ years, which is a common multiple of the solar year and the synodic lunar month.
 
 ### Century
 
-One additional unit, the century, is available to keep using only two digits to
-represent the year for future dates. A century is 100 years.
+One additional unit, the century or hectoyear, is available to keep the year
+on two digits. A century is 100 years. It can be omitted and deduced from
+context easily.
 
 
 ## Decimal time
@@ -216,30 +217,37 @@ Chinese calendars.
 
 ## Epoch
 
-The day `00:00:00` of this calendar corresponds to `1970-01-01` of the
-Gregorian calendar. The beginning of this day at midnight along the Greenwich
-meridian is known as the Unix epoch, it is used by modern computers to mark
-the passage of time by counting the number of seconds elapsed since then.
+The day `00:00:00` of this calendar corresponds to `1900-01-01` of the
+Gregorian calendar, because on that day occurred the first new moon since the
+previous solstice. The year is somewhat arbitrarily chosen to make conversion
+between both calendar more convenient.
 
-The previous example, `14:03:03:71:59`, would be translated to `449947500` for
-a computer, which is almost 450 megaseconds since the Unix epoch.
+Another good candidate for the year zero of this calendar would have been the
+day of the first new moon since the solstice of December 1969, which occurred
+one week into the year of 1970, used by modern computers to mark the passage of
+time by counting the number of seconds elapsed since that event known as Unix
+epoch.
 
-The first new moon after the December solstice of the year 1969 in the
-Gregorian calendar happened 215 seconds into the year 1970 at the Greenwich
-meridian, or 215 seconds after Unix epoch. This event marks the exact beginning
-of the geographic calendar. It is interesting to note that the same thing
-happened exactly 44 years later when this calendar was first conceived.
+For instance the date used in the previous example, `84:03:03:71:59`, would be
+translated to `449947500` for a computer, which is almost 450 megaseconds since
+Unix epoch.
 
-    00:00:00:00:00 // 1970-01-01 00:03:35 UTC
-    44:00:00:00:00 // 2014-01-01 00:03:35 UTC
+Unix epoch is also quite close to the date a human first walked on the surface
+of the Moon, symbolizing the beginning of both the Computer Age and the Space
+Age.
 
-The beginning of this calendar is also quite close to the date a human first
-walked on the surface of the Moon.
+One last interesting date is the day of the first new moon since the solstice
+of December 2014, which occurred while this calendar was being conceived.
 
+    00:00:00:00:00:00 // 1900-01-01 00:03:40 UTC ~ Gregorian Epoch
+    00:70:00:00:00:00 // 1970-01-07 00:06:20 UTC ~ Unix Epoch
+    01:14:00:00:00:00 // 2014-01-01 00:03:40 UTC
 
 <!--
 ## Changelog
 
+- 0.2.1 - 1511472799
+  - Fix mistake taking the last quarter moon on Unix epoch for a new moon
 - 0.2.0 - 1490006543
   - Second draft of this document
 - 0.1.0 - 1429401491
