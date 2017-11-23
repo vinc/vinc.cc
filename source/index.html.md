@@ -2,9 +2,7 @@
 title: Vinc
 ---
 
-# Hi, I'm Vinc
-
-Welcome to my personal website!
+# VINC
 
 - [About](/about.html)
 - [Blog](/blog/)

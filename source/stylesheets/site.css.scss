@@ -26,9 +26,13 @@
 .light, .dark {
   a, a:visited {
     color: $blue;
+    text-decoration: none;
+    border-bottom: solid 2px rgba($blue, 0.2);
+    transition: 0.1s ease;
   }
-  a:hover {
-    color: $cyan
+  a:hover, a:active {
+    color: $cyan;
+    border-bottom: solid 2px rgba($cyan, 0.2);
   }
 }
 .dark {
@@ -40,16 +44,18 @@
   background: white;
 }
 
+body, code, button {
+  font-family: "Inconsolata", monospace;
+}
+
 body {
   font-weight: normal;
   line-height: 1.4em;
   min-height: 100vh;
   font-size: 20px;
-  font-family: "Inconsolata", monospace;
 }
 
 code {
-  font-family: "Inconsolata", monospace;
   font-size: 0.9em;
 }
 
@@ -96,13 +102,9 @@ pre {
   border-radius: 5px;
 }
 
-code {
-  font-family: "Inconsolata", monospace;
-}
-
 ul {
   padding-left: 0;
-  list-style-position: inside;
+  margin-left: 1em;
 }
 
 li li {
@@ -119,6 +121,7 @@ button {
   border: none;
   margin: 0;
   padding: 0;
+  outline: none;
 }
 
 body.index,
@@ -128,4 +131,23 @@ body.index .container {
   flex: 1;
   justify-content: center;
   align-items: center;
+}
+body.index .container {
+  flex-direction: row;
+  h1 {
+    font-size: 10em;
+    margin: 0;
+  }
+  ul {
+    margin-left: 2em;
+  }
+}
+@media (max-width: 600px) {
+  body.index .container {
+    h1 {
+      width: 0.5em;
+      overflow: hidden;
+      line-height: 1em;
+    }
+  }
 }
