@@ -47,7 +47,7 @@ I'm also on [GitHub][0], [Twitter][1] and [Instagram][2].
 
 ## See Also
 
-[home](/), [about](/about.html), [projects](/projects/)
+[Home](/), [About](/about.html), [Projects](/projects/)
 
 
 [0]: https://github.com/vinc

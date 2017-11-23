@@ -34,6 +34,9 @@
     color: $cyan;
     border-bottom: solid 2px rgba($cyan, 0.2);
   }
+  a.no-border {
+    border: none;
+  }
 }
 .dark {
   h1, h2, h3, h4, h5 {

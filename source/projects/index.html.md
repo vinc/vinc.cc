@@ -43,4 +43,4 @@ published on [GitHub](https://github.com/vinc).
 
 ## See Also
 
-[home](/), [about](/about.html), [contact](/contact.html)
+[Home](/), [About](/about.html), [Contact](/contact.html)

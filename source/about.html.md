@@ -47,7 +47,7 @@ meaningful project in JavaScript, Ruby or Rust, I'd love to hear about it.
 
 ## See Also
 
-[home](/), [projects](/projects/), [contact](/contact.html)
+[Home](/), [Projects](/projects/), [Contact](/contact.html)
 
 
 [0]: https://slate.fr

@@ -5,6 +5,7 @@
 </footer>
 
 <script>
+  // Switch theme
   var theme = localStorage.getItem("theme") || "dark";
   if (theme === "light") {
     document.getElementById("switch-theme").innerHTML = "dark";
@@ -17,5 +18,11 @@
     theme = theme === "dark" ? "light" : "dark";
     document.documentElement.classList.add(theme); 
     localStorage.setItem("theme", theme);
+  });
+
+  // Remove bottom border on image links
+  var links = document.querySelectorAll("a > img");
+  Array.prototype.forEach.call(links, function(img, i) {
+    img.parentNode.classList.add("no-border");
   });
 </script>

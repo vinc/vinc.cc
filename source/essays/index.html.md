@@ -4,8 +4,8 @@ title: Essays
 
 # Essays
 
-- [geocalendar](/essays/geocalendar.html)
+- [Geocalendar](/essays/geocalendar.html)
 
 ## See Also
 
-[home](/), [about](/about.html), [projects](/projects/), [contact](/contact.html)
+[Home](/), [About](/about.html), [Projects](/projects/), [Contact](/contact.html)
