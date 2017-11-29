@@ -15,6 +15,7 @@
 
     <title><%= [current_page.data.title, "Vinc"].compact.uniq.join(" - ") %></title>
 
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <%= stylesheet_link_tag :syntax %>
     <%= stylesheet_link_tag :site %>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
