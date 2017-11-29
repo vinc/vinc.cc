@@ -12,7 +12,7 @@ account.
 In the meantime I've been using [vinua.net][2] a lot more for my servers on
 various cloud providers and a few days ago I purchased [vinua.fr][3] because
 the business is registered in France. Both domains are configured to redirect
-all traffic to [vinua.com][1], so it's better to have something to show.
+all traffic to [vinua.com][1], so it's better to have something to show there.
 
 [1]: https://vinua.com
 [2]: https://vinua.net

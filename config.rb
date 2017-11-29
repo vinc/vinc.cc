@@ -45,21 +45,22 @@ end
 # Run `touch source/projects/.sync` to update this directory
 if File.exist?("source/projects/.sync")
   projects = [
+    "clock.geodate.org",
     "closh",
-    "pkg",
     "forecaster",
     "geodate",
-    "oximon",
-    "littlewing",
-    "purplehaze",
-    "pi.ctu.re",
-    #"provisioning.sh",
     "geodate.org",
-    "clock.geodate.org",
     "goelo.eu",
+    "littlewing",
     #"ll.vinc.cc",
     "news.vinc.cc",
+    "oximon",
+    "paste.vinc.cc",
+    "pi.ctu.re",
+    "pkg",
     "pollen.vinc.cc",
+    "provisioning.sh",
+    "purplehaze",
     "rgb.vinc.cc"
   ]
 

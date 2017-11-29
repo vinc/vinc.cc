@@ -28,8 +28,10 @@ published on [GitHub](https://github.com/vinc).
 - [geodate.org](/projects/geodate-org.html)
 - [clock.geodate.org](/projects/clock-geodate-org.html)
 - [goelo.eu](/projects/goelo-eu.html)
+- [paste.vinc.cc](/projects/paste-vinc-cc.html)
 - [pollen.vinc.cc](/projects/pollen-vinc-cc.html)
-- [rgb.vinc.cc](http://rgb-vinc-cc)
+- [ll.vinc.cc](https://ll.vinc.cc)
+- [rgb.vinc.cc](https://rgb-vinc-cc)
 - [news.vinc.cc](/projects/news-vinc-cc.html)
 - [rddt.cc](/projects/rddt-cc.html)
 
