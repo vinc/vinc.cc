@@ -4,6 +4,8 @@ date: 2017-11-29
 tags: news
 ---
 
+# Vinua.com reloaded
+
 Today I put some content on [vinua.com][1], the website of my web consulting
 business. I was about time, I've been freelancing full time since 2015 but
 I had no online presence except for this personal website and my LinkedIn
