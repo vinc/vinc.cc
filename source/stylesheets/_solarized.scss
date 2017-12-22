@@ -19,9 +19,9 @@ $green:     #859900;
   background-color: $rebase03;
   color: $rebase0;
   //* { color: $rebase0 }
-  button { color: $rebase0 }
+  button, pre code { color: $rebase0 }
   button:hover { color: $rebase1 }
-  footer, code { color: $rebase01 }
+  footer, p code { color: $rebase01 }
   pre { background-color: $rebase02 }
   h1, h2, h3, h4, h5, h6 { color: $rebase1; border-color: $rebase0 }
   a, a:active, a:visited { color: $rebase1 }
