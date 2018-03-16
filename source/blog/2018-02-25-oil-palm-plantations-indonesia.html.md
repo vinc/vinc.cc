@@ -6,62 +6,57 @@ tags: deforestation, satellite
 
 # Oil palm plantations in Indonesia
 
-<style>
-  iframe {
-    width: 100%;
-    height: 50vh;
-    border: none;
-  }
-</style>
-
-A [recent study published in Current Biology][1] estimates that more than 100
-000 Bornean orangutans were lost between 1999 and 2015, with most severe
+A [recent study published in Current Biology][1] estimates that more than
+100,000 Bornean orangutans were lost between 1999 and 2015, with most severe
 declines occurring in areas in which habitat was removed. Bornean orangutans
 are [critically endangered][2] and this loss represents half of their
 population.
 
-Everything that is red in the following map centered on Summatra, another
-island of Indonesia, are forests that have been cut down between 2000 and 2016.
-Zoom out to see more.
+Deforestation is affecting all the islands of the region. Summatra, the
+largest island of Indonesia, home to orangutans, elephants, rhinoceros, and
+tigers, has lost almost half of its tropical rainforest in the last 35 years. 
 
-<iframe src="https://earthenginepartners.appspot.com/science-2013-global-forest?hl=en&llbox=0.9854%2C0.0736%2C103.1728%2C101.7185&t=HYBRID&layers=6%2Clayer12%2Clayer0%2C3%3A100%2C12%3A100%2C8%3A100&embedded=true" allowfullscreen></iframe>
+The following map of Summatra covers a rectangular area 175 kilometers wide by
+100 kilometers. The red color indicates the forests that have been cut down
+between 2000 and 2016. Click on the image to open Google Earth Engine, and zoom
+out to see the extend of the loss.
 
-The forests have been replaced by [oil palm plantations][3].
+[![Global Forest Change](/images/indonesia-global-forest-change.png)](https://earthenginepartners.appspot.com/science-2013-global-forest?hl=en&llbox=0.9717%2C0.0599%2C103.2181%2C101.7638&t=ROADMAP&layers=6%2Clayer12%2Clayer0%2C3%3A100%2C12%3A100%2C8%3A100)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d7177.326980986142!2d101.96132043843187!3d0.4708793438301179!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sfr!4v1521071305513" allowfullscreen></iframe>
+The forests have been replaced by [oil palm plantations][3] providing about
+half of the global world supply of palm oil.
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1519558703115!6m8!1m7!1sHuFunb4XWvvWyOeOgOpnzw!2m2!1d0.4642321273851107!2d101.9578869788057!3f284.77959566483344!4f10.212084713746307!5f0.7820865974627469" allowfullscreen></iframe>
+[![Google Maps](/images/indonesia-google-maps-1.jpg)](https://www.google.com/maps/@0.4708361,101.96132,3302m/data=!3m1!1e3?hl=en-US)
 
-We can use Google Maps to see them. Zoom in to see the straight lines of palm
-trees, zoom out to have an idea of the scale of those plantations. And take a
-look around in Google Street View.
+[![Google Street View](/images/indonesia-google-street-view-1.jpg)](https://www.google.com/maps/@0.4642321,101.957887,3a,82.2y,291.55h,92.31t/data=!3m6!1e1!3m4!1sHuFunb4XWvvWyOeOgOpnzw!2e0!7i13312!8i6656)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d1796.8921041740527!2d101.65908500000002!3d0.123101!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sfr!4v1521064380187" allowfullscreen></iframe>
+The satellite pictures on this page come from Google Maps. Click on any of them
+and zoom in to see the straight lines of palm trees, zoom out to see of the
+scale of the plantations. And take a look around the same areas from the ground
+with Google Street View.
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1519554813821!6m8!1m7!1sIo24E-C8478ySeTO-JbArw!2m2!1d0.1231008056775817!2d101.6590852390358!3f75.19171043303251!4f6.264695497381638!5f0.7820865974627469" allowfullscreen></iframe>
+[![Google Maps](/images/indonesia-google-maps-2.jpg)](https://www.google.com/maps/@0.1247762,101.6591498,829m/data=!3m1!1e3?hl=en-US)
 
-They are quite easy to spot by their uniformity. The biodiversity loss is
-catastrophic.
+[![Google Street View](/images/indonesia-google-street-view-2.jpg)](https://www.google.com/maps/@0.1231008,101.6590852,3a,82.2y,75.19h,96.26t/data=!3m6!1e1!3m4!1sIo24E-C8478ySeTO-JbArw!2e0!7i13312!8i6656)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d7183.348765523251!2d101.89804806220776!3d0.28278590579571733!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sfr!4v1521064736599" allowfullscreen></iframe>
+The oil palm plantations are quite easy to spot by their uniformity. It's a
+[monoculture][4] on a massive scale, the biodiversity loss is catastrophic.
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1519555308450!6m8!1m7!1swfsDhs7JIo4cgC1Gu18FWg!2m2!1d0.2760998937758904!2d101.897566149075!3f323.181139912692!4f-7.5371314829020974!5f0.7820865974627469" allowfullscreen></iframe>
+[![Google Maps](/images/indonesia-google-maps-3.jpg)](https://www.google.com/maps/@0.2845256,101.8958908,1964m/data=!3m1!1e3?hl=en-US)
 
-The satellite and ground coverage of Google Maps is pretty good on both
-islands. The above locations where picked more or less at random.
+[![Google Street View](/images/indonesia-google-street-view-3.jpg)](https://www.google.com/maps/@0.2760999,101.8975661,3a,82.2y,323.18h,82.46t/data=!3m6!1e1!3m4!1swfsDhs7JIo4cgC1Gu18FWg!2e0!7i13312!8i6656)
 
-Google Earth is also interesting to see older satellite pictures and notice the
-same pattern happening over and over again: first a road is built to cross a
-primary forest, smaller tracks then appears perpendicular to the road, and very
-soon after that the forest is cut down. Finally, some time later, oil palm
-plantations appears.
+The satellite and ground coverage of Google Maps is pretty good on both the
+islands of Borneo and Summatra. The above locations where picked more or less
+at random.
 
-I encourage everyone reading this to have a look for themselves, and think
+I encourage everyone reading this to have a look for themselves, and to think
 about it next time they read "palm oil" in a list of ingredients.
 
-Visit [Global Forest Watch][4] for more data on forest monitoring.
+Visit [Global Forest Watch][5] for more data on forest monitoring.
 
 [1]: http://www.cell.com/current-biology/fulltext/S0960-9822(18)30086-1
 [2]: http://www.iucnredlist.org/details/17975/0
 [3]: https://en.wikipedia.org/wiki/Palm_oil_production_in_Indonesia
-[4]: http://www.globalforestwatch.org/
+[4]: https://en.wikipedia.org/wiki/Monoculture
+[5]: http://www.globalforestwatch.org/
