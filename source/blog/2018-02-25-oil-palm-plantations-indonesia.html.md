@@ -6,11 +6,10 @@ tags: satellite, deforestation, palm oil
 
 # Oil palm plantations in Indonesia
 
-A recent study published in [Current Biology][1] estimates that more than
-100,000 Bornean orangutans were lost between 1999 and 2015, with most severe
-declines occurring in areas in which habitat was removed. Bornean orangutans
-are [critically endangered][2] and this loss represents half of their
-population.
+A [recent study][0] published in [Current Biology][1] estimates that more
+than 100,000 Bornean orangutans were lost between 1999 and 2015, with the most
+severe declines occurring in areas in which habitat was removed. Bornean
+orangutans are now [critically endangered][2].
 
 Deforestation is affecting all of Indonesia. The island of Sumatra, the sixth
 largest island of the planet, home to orangutans, elephants, rhinoceros, and
@@ -43,8 +42,9 @@ with Google Street View.
 [![Google Street View](/images/indonesia-google-street-view-2.jpg)](https://www.google.com/maps/@0.1231008,101.6590852,3a,82.2y,75.19h,96.26t/data=!3m6!1e1!3m4!1sIo24E-C8478ySeTO-JbArw!2e0!7i13312!8i6656)
 
 The oil palm plantations are easy to spot from space with their uniformity and
-straight roads. It's a [monoculture][6] on a massive scale, the biodiversity
-loss is catastrophic.
+long straight roads. This [monoculture][6] on a massive scale has [catastrophic
+effects][7] on biodiversity, greenhouse gas emissions, and indigenous
+communities.
 
 [![Google Maps](/images/indonesia-google-maps-3.jpg)](https://www.google.com/maps/@0.2845256,101.8958908,1964m/data=!3m1!1e3?hl=en-US)
 
@@ -57,12 +57,14 @@ random.
 I encourage everyone reading this to have a look for themselves, and to think
 about it next time they read "palm oil" in a list of ingredients.
 
-Visit [Global Forest Watch][7] for more data on forest monitoring.
+Visit [Global Forest Watch][8] for more data on forest monitoring.
 
+[0]: https://news.nationalgeographic.com/2018/02/orangutan-habitat-loss-hunting-killing-borneo-spd/
 [1]: http://www.cell.com/current-biology/fulltext/S0960-9822(18)30086-1
 [2]: http://www.iucnredlist.org/details/17975/0
 [3]: http://iopscience.iop.org/article/10.1088/1748-9326/7/3/034010
 [4]: http://earthenginepartners.appspot.com/science-2013-global-forest
 [5]: https://en.wikipedia.org/wiki/Palm_oil_production_in_Indonesia
 [6]: https://en.wikipedia.org/wiki/Monoculture
-[7]: http://www.globalforestwatch.org/
+[7]: https://en.wikipedia.org/wiki/Social_and_environmental_impact_of_palm_oil
+[8]: http://www.globalforestwatch.org/
