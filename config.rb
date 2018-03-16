@@ -32,7 +32,7 @@ end
 
 activate :deploy do |deploy|
   deploy.deploy_method = :rsync
-  deploy.host          = "root@vinc.cc"
+  deploy.host          = "root@zifre.org"
   deploy.path          = "/home/user-data/www/vinc.cc"
   deploy.user          = "root"
 end
