@@ -19,5 +19,9 @@ to learn more about the problem and talk about it on social media.
 - https://instagram.com/rememberspecies
 - https://mastodon.social/@rememberspecies
 
+**Note (2018-04-22):** I ran out of big pictures to illustrate the articles.
+It's a bit of a shame that I stopped publishing new entries because of that so
+I'm thinking of using pictures of related living species instead.
+
 [1]: https://extinct.life
 [2]: https://en.wikipedia.org/wiki/Holocene_extinction
