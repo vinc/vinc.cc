@@ -20,6 +20,7 @@
     <%= stylesheet_link_tag :site %>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
+
   <body class="<%= page_classes %>">
     <div class="container">
       <% unless page_classes == "index" %>

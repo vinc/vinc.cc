@@ -1,0 +1,15 @@
+<% if paginate && num_pages > 1 %>
+  <% if prev_page || next_page %>
+    <p>
+      <% if prev_page %>
+        <%= link_to "Previous page", prev_page %>
+      <% end %>
+
+      <% if next_page %>
+        <%= link_to "Next page", next_page %>
+      <% end %>
+    </p>
+  <% end %>
+
+  <p>Page <%= page_number %> of <%= num_pages %></p>
+<% end %>
