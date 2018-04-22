@@ -31,9 +31,9 @@ published on [GitHub](https://github.com/vinc).
 - [paste.vinc.cc](/projects/paste-vinc-cc.html)
 - [pollen.vinc.cc](/projects/pollen-vinc-cc.html)
 - [ll.vinc.cc](https://ll.vinc.cc)
-- [rgb.vinc.cc](https://rgb-vinc-cc)
+- [rgb.vinc.cc](https://rgb.vinc.cc)
 - [news.vinc.cc](/projects/news-vinc-cc.html)
-- [rddt.cc](/projects/rddt-cc.html)
+- [rddt.cc](https://rddt.cc)
 
 
 ## Miscellaneous

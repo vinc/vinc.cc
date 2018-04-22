@@ -5,11 +5,17 @@ Forecaster
 ==========
 
 [![Gem](https://img.shields.io/gem/v/forecaster.svg)](https://rubygems.org/gems/forecaster)
-[![Travis branch](https://img.shields.io/travis/vinc/forecaster/master.svg)](https://travis-ci.org/vinc/forecaster/branches)
+[![Build Status](https://api.travis-ci.org/vinc/forecaster.svg?branch=master)](http://travis-ci.org/vinc/forecaster)
+[![Code Climate](https://codeclimate.com/github/vinc/forecaster.svg)](https://codeclimate.com/github/vinc/forecaster)
+[![Code Coverage](https://codecov.io/gh/vinc/forecaster/branch/master/graph/badge.svg)](https://codecov.io/gh/vinc/forecaster)
 [![Gemnasium](https://img.shields.io/gemnasium/vinc/forecaster.svg)](https://gemnasium.com/github.com/vinc/forecaster)
 
-Ruby wrapper around `wgrib2` to fetch and read data from the Global Forecast
-System (GFS).
+[Forecaster](https://github.com/vinc/forecaster) is a gem wrapping `wgrib2` to
+fetch and read weather data directly from the Global Forecast System.
+
+It comes with a library and a CLI allowing you to type commands like `forecast
+for this afternoon in paris` in your terminal to get the latest weather
+forecast.
 
 [![asciicast](https://asciinema.org/a/146117.png)](https://asciinema.org/a/146117)
 
@@ -24,12 +30,12 @@ Alternatively you can build the gem from its repository:
     $ git clone git://github.com/vinc/forecaster.git
     $ cd forecaster
     $ gem build forecaster.gemspec
-    $ gem install forecaster-0.1.0.gem
+    $ gem install forecaster-1.0.0.gem
 
 In both cases you need to make sure that you have `wgrib2` present in your
 system.
 
-To install the later:
+To install the `wgrib2` from source:
 
     $ wget http://www.ftp.cpc.ncep.noaa.gov/wd51we/wgrib2/wgrib2.tgz
     $ tar -xzvf wgrib2.tgz
@@ -168,4 +174,4 @@ to avoid typing it every time:
 License
 -------
 
-Copyright (C) 2015 Vincent Ollivier. Released under MIT.
+Copyright (c) 2015-2018 Vincent Ollivier. Released under MIT.

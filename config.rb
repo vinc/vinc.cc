@@ -52,7 +52,7 @@ if File.exist?("source/projects/.sync")
     "geodate.org",
     "goelo.eu",
     "littlewing",
-    #"ll.vinc.cc",
+    "memorious",
     "news.vinc.cc",
     "oximon",
     "paste.vinc.cc",
@@ -60,6 +60,7 @@ if File.exist?("source/projects/.sync")
     "pkg",
     "pollen.vinc.cc",
     "provisioning.sh",
+    "provisioning.rb",
     "purplehaze",
     "rgb.vinc.cc"
   ]
