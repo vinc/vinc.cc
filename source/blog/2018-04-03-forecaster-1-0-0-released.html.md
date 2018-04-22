@@ -1,7 +1,7 @@
 ---
 title: Forecaster 1.0.0 released
 date: 2018-04-03
-tags: code
+tags: news, code
 ---
 
 # Forecaster 1.0.0 released
