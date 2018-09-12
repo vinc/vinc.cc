@@ -66,7 +66,7 @@ More options:
     Cloud Shell v0.0.1
     Options:
       -n, --dry-run       Create fake server and run locally
-      -c, --config=<s>    Config file (default: ~/.closh.yaml)
+      -c, --config=<s>    Config file (default: ~/.closh.yml)
       -k, --key=<s>       SSH public key (default: ~/.ssh/id_rsa.pub)
       -r, --resume=<s>    Resume session
       -x, --kill          Kill session at the end
@@ -82,7 +82,7 @@ Configure
 Cloud Shell is based on [Fog](http://fog.io/) under the hood to create compute
 servers.
 
-The configuration is stored in a YAML file (`~/.closh.yaml`). It is divided in
+The configuration is stored in a YAML file (`~/.closh.yml`). It is divided in
 two parts: compute and server. The former being fed to `Fog::Compute.new` and
 the latter to `Fog::Compute::*::Server.new`.
 
@@ -93,16 +93,19 @@ compute:
   provider: AWS
   aws_access_key_id: <%= ENV["AWS_ACCESS_KEY_ID"] %>
   aws_secret_access_key: <%= ENV["AWS_SECRET_ACCESS_KEY"] %>
-  region: us-west-2
+  region: us-east-1
 
 server:
-  image_id: ami-70728c08 # ubuntu 17.04 amd64 hvm:ebs-ssd
+  image_id: ami-b04847cf # Ubuntu 18.04 LTS
   flavor_id: t2.micro
   username: ubuntu
+  groups:
+    - default
+    - ssh
 ```
 
 
 License
 -------
 
-Copyright (C) 2017 Vincent Ollivier. Released under MIT.
+Copyright (c) 2017-2018 Vincent Ollivier. Released under MIT.

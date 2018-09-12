@@ -44,25 +44,25 @@ end
 
 # Run `touch source/projects/.sync` to update this directory
 if File.exist?("source/projects/.sync")
-  projects = [
-    "clock.geodate.org",
-    "closh",
-    "forecaster",
-    "geodate",
-    "geodate.org",
-    "goelo.eu",
-    "littlewing",
-    "memorious",
-    "news.vinc.cc",
-    "oximon",
-    "paste.vinc.cc",
-    "pi.ctu.re",
-    "pkg",
-    "pollen.vinc.cc",
-    "provisioning.sh",
-    "provisioning.rb",
-    "purplehaze",
-    "rgb.vinc.cc"
+  projects = %w[
+    clock.geodate.org
+    closh
+    forecaster
+    geodate
+    geodate.org
+    goelo.eu
+    littlewing
+    memorious
+    news.vinc.cc
+    oximon
+    paste.vinc.cc
+    pi.ctu.re
+    pkg
+    pollen.vinc.cc
+    provisioning.sh
+    provisioning.rb
+    purplehaze
+    rgb.vinc.c
   ]
 
   projects.each do |project|
