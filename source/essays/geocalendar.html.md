@@ -1,11 +1,11 @@
 ---
-title: Geographic calendar
+title: Geocalendar
 ---
 
-# Geographic calendar
+# Geocalendar: a system of date and time closer to nature
 
-The geographic calendar or geocalendar is a Earth based lunisolar calendar
-with decimal time.
+This essay describes a geocalendar, an Earth based lunisolar calendar
+with decimal time, designed to help being closer to nature.
 
 
 ## Notation
@@ -242,14 +242,17 @@ of December 2014, which occurred while this calendar was being conceived.
     00:00:00:00:00:00 // 1900-01-01 00:03:40 UTC ~ Gregorian Epoch
     00:70:00:00:00:00 // 1970-01-07 00:06:20 UTC ~ Unix Epoch
     01:14:00:00:00:00 // 2014-01-01 00:03:40 UTC
+<!--06:00:00:00:00:00 // 2500-01-01 00:02:30 UTC-->
 
 <!--
 ## Changelog
 
-- 0.2.1 - 1511472799
+- 0.2.2 (1527075430)
+  - Rewrite title and introduction
+- 0.2.1 (1511472799)
   - Fix mistake taking the last quarter moon on Unix epoch for a new moon
-- 0.2.0 - 1490006543
+- 0.2.0 (1490006543)
   - Second draft of this document
-- 0.1.0 - 1429401491
+- 0.1.0 (1429401491)
   - First draft of this document
 -->
