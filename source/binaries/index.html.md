@@ -4,12 +4,12 @@ title: Binaries
 
 # Binaries
 
-## LittleWing
+## Little Wing
 
-- https://vinc.cc/binaries/littlewing/littlewing-v0.4.0.tar.gz
-- https://vinc.cc/binaries/littlewing/littlewing-v0.3.0.tar.gz
-- https://vinc.cc/binaries/littlewing/littlewing-v0.2.0.tar.gz
-- https://vinc.cc/binaries/littlewing/sha1sums.txt
+- [littlewing-v0.5.0](/binaries/littlewing-v0.5.0)
+- [littlewing-v0.4.0](/binaries/littlewing-v0.4.0)
+- [littlewing-v0.3.0](/binaries/littlewing-v0.3.0)
+- [littlewing-v0.2.0](/binaries/littlewing-v0.2.0)
 
 ## See Also
 

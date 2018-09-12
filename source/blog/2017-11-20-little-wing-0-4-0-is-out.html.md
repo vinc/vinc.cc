@@ -49,8 +49,7 @@ search side for now.
 ## Links
 
 - https://github.com/vinc/littlewing
-- https://vinc.cc/binaries/littlewing/littlewing-v0.4.0.tar.gz
-- https://vinc.cc/binaries/littlewing/sha1sums.txt
-- https://docs.rs/littlewing/0.4.0/littlewing/
+- https://vinc.cc/binaries/littlewing-v0.4.0
+- https://docs.rs/littlewing/0.4.0/littlewing
 
 [1]: https://github.com/vinc/littlewing

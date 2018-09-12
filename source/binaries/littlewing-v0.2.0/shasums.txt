@@ -1,0 +1,2 @@
+d11dd8090cdbed324ac6bee452786b00abde4033  littlewing-v0.2.0-linux-x86.gz
+9576540ec1cc0ace11bbfe4d7dbd59331cf3215a  littlewing-v0.2.0-windows-x86.exe.gz
