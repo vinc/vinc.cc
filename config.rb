@@ -1,5 +1,5 @@
 set :markdown_engine, :redcarpet
-set :markdown, fenced_code_blocks: true, smartypants: true, autolink: true
+set :markdown, fenced_code_blocks: true, smartypants: true, autolink: true, tables: true
 
 page "/*.xml", layout: false
 page "/*.json", layout: false
