@@ -200,9 +200,9 @@ human population, more than enough crops area is available to replace all
 animal products with vegetable products.
 
 Plant-based diets have a [long history][4.0] around the world and the modern
-widespread availability of dietary supplements (vitamins B12 and D most
-notably) means that a strict vegan diet, [properly planned][4.1], can be as
-healthy as any omnivore diets.
+widespread availability of dietary supplements (vitamin B12 most notably)
+means that a strict vegan diet, [properly planned][4.1], can be as healthy as
+any omnivore diets.
 
 ![Cattle in a pasture](/images/cattle-pasture.jpg)
 *Cattle in a pasture, Alps, France ([Google Maps](https://goo.gl/maps/mHNTFQjumom))*
