@@ -1,22 +1,22 @@
 <footer>
-  <span>Made with &hearts; in 2012-2018</span>
+  <span>Made with &hearts; in 2012-2019</span>
   <span class="sep">|</span>
-  <span>Switch to <button id="switch-theme" type="button" class="btn">light</button> theme</span>
+  <span>Switch to <button id="switch-theme" type="button" class="btn">dark</button> theme</span>
 </footer>
 
 <script>
   // Switch theme
-  var theme = localStorage.getItem("theme") || "dark";
-  if (theme === "light") {
-    document.getElementById("switch-theme").innerHTML = "dark";
-    document.documentElement.classList.remove("dark"); 
-    document.documentElement.classList.add("light"); 
+  var theme = localStorage.getItem("theme") || "light";
+  if (theme === "dark") {
+    document.getElementById("switch-theme").innerHTML = "light";
+    document.documentElement.classList.remove("light");
+    document.documentElement.classList.add("dark");
   }
   document.getElementById("switch-theme").addEventListener("click", function() {
     document.getElementById("switch-theme").innerHTML = theme;
-    document.documentElement.classList.remove(theme); 
+    document.documentElement.classList.remove(theme);
     theme = theme === "dark" ? "light" : "dark";
-    document.documentElement.classList.add(theme); 
+    document.documentElement.classList.add(theme);
     localStorage.setItem("theme", theme);
   });
 
