@@ -1,0 +1,3 @@
+baf7bd9883e60a3b5b458fda634e42516a4403b4  littlewing-v0.6.0-android-armv7.gz
+25ce357a01e5f74456cf969f3557cc9942a8c4c8  littlewing-v0.6.0-linux-x86.gz
+1b9345e57d8858e46760dcaf4eb258b83b25b066  littlewing-v0.6.0-windows-x86.exe.gz

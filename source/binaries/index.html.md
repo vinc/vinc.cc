@@ -6,6 +6,7 @@ title: Binaries
 
 ## Little Wing
 
+- [littlewing-v0.6.0](/binaries/littlewing-v0.6.0)
 - [littlewing-v0.5.0](/binaries/littlewing-v0.5.0)
 - [littlewing-v0.4.0](/binaries/littlewing-v0.4.0)
 - [littlewing-v0.3.0](/binaries/littlewing-v0.3.0)
