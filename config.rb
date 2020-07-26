@@ -42,8 +42,8 @@ configure :build do
   activate :minify_javascript
 end
 
-# Run `touch source/projects/.sync` to update this directory
-if File.exist?("source/projects/.sync")
+# Run `touch source/software/.sync` to update this directory
+if File.exist?("source/software/.sync")
   projects = %w[
     clock.geodate.org
     closh
@@ -69,7 +69,7 @@ if File.exist?("source/projects/.sync")
     url = "https://raw.githubusercontent.com/vinc/#{project}/master/README.md"
     puts "Fetching '#{url}' ..."
     name = project.tr(".", "-")
-    path = "source/projects/#{name}.html.md"
+    path = "source/software/#{name}.html.md"
     open(path, "w") do |f|
       open(url) do |io|
         f.write("---\ntitle: #{project.capitalize}\n---\n")
@@ -77,16 +77,41 @@ if File.exist?("source/projects/.sync")
       end
     end
   end
-  File.unlink("source/projects/.sync")
+  File.unlink("source/software/.sync")
 end
 
 redirect "bin/index.html", to: "/binaries"
 redirect "biography.html", to: "/about"
 redirect "blog/index.html", to: "/news"
-Dir["source/news/*.html.md"].each do |path|
-  path.sub!(/source\/news\/(201\d)-(\d\d)-(\d\d)-(.*).html.md/, "\\1/\\2/\\3/\\4")
-  redirect "blog/#{path}.html", to: "/news/#{path}"
-end
+redirect "essays.html", to: "/pages"
+redirect "essays/geocalendar.html", to: "/units/geodate"
+redirect "essays/changing-our-diet-for-a-wilder-world.html", to: "/ecology/changing-our-diet-for-a-wilder-world"
+redirect "blog/2017/10/01/hello-world.html", to: "/news/2017-10-01-hello-world"
+redirect "blog/2017/10/17/paperclips.html", to: "/news/2017-10-17-paperclips"
+redirect "blog/2017/10/26/most-common-destination-squares-from-one-million-chess-games.html", to: "/news/2017-10-26-most-common-destination-squares-from-one-million-chess-games"
+redirect "blog/2017/11/05/alphago-zero.html", to: "/news/2017-11-05-alphago-zero"
+redirect "blog/2017/11/06/recording-terminal-sessions-with-asciinema.html", to: "/news/2017-11-06-recording-terminal-sessions-with-asciinema"
+redirect "blog/2017/11/18/20-years-global-biosphere.html", to: "/news/2017-11-18-20-years-global-biosphere"
+redirect "blog/2017/11/20/little-wing-0-4-0-is-out.html", to: "/news/2017-11-20-little-wing-0-4-0-is-ou"
+redirect "blog/2017/11/29/vinua-com-reloaded.html", to: "/news/2017-11-29-vinua-com-reloaded"
+redirect "blog/2017/12/18/combining-satellite-spectral-bands-imagemagick.html", to: "/news/2017-12-18-combining-satellite-spectral-bands-imagemagick"
+redirect "blog/2017/12/19/rebuilding-imagemagick-jpeg2000-ubuntu.html", to: "/news/2017-12-19-rebuilding-imagemagick-jpeg2000-ubuntu"
+redirect "blog/2018/01/01/launching-extinct-life.html", to: "/news/2018-01-01-launching-extinct-life"
+redirect "blog/2018/02/25/oil-palm-plantations-indonesia.html", to: "/ecology/oil-palm-plantations-indonesia"
+redirect "blog/2018/04/03/forecaster-1-0-0-released.html", to: "/news/2018-04-03-forecaster-1-0-0-released"
+redirect "blog/2018/04/22/hakituri-news-redesigned.html", to: "/news/2018-04-22-hakituri-news-redesigned"
+redirect "blog/2018/07/18/little-wing-0-5-0-released.html", to: "/news/2018-07-18-little-wing-0-5-0-released"
+redirect "blog/2019/12/22/little-wing-0-6-0-released.html", to: "/news/2019-12-22-little-wing-0-6-0-released"
+redirect "projects/index.html", to: "/software"
+redirect "projects/pkg.html", to: "/software/pkg"
+redirect "projects/closh.html", to: "/software/closh"
+redirect "projects/forecaster.html", to: "/software/forecaster"
+redirect "projects/geodate.html", to: "/software/geodate"
+redirect "projects/littlewing.html", to: "/software/littlewing"
+redirect "projects/purplehaze.html", to: "/software/purplehaze"
+redirect "projects/memorious.html", to: "/software/memorious"
+redirect "projects/oximon.html", to: "/software/oximon"
+redirect "projects/dasort.html", to: "/software/dasort"
 
 ready do
   sitemap.resources.each do |resource|

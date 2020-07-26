@@ -6,5 +6,5 @@ title: Vinc
 
 - [About](/about)
 - [News](/news)
-- [Essays](/essays)
+- [Pages](/pages)
 - [Contact](/contact)

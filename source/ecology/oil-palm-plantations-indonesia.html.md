@@ -1,7 +1,6 @@
 ---
 title: Oil palm plantations in Indonesia
 date: 2018-02-25
-tags: satellite, deforestation, palm oil
 ---
 
 # Oil palm plantations in Indonesia
