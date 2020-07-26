@@ -12,19 +12,19 @@ activate :directory_indexes
 activate :breadcrumbs, separator: " / "
 
 activate :blog do |blog|
-  blog.prefix = "blog"
+  blog.prefix = "news"
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
   # blog.sources = "{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
-  blog.layout = "layouts/blog"
+  blog.layout = "layouts/news"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"
   # blog.month_link = "{year}/{month}.html"
   # blog.day_link = "{year}/{month}/{day}.html"
   # blog.default_extension = ".markdown"
-  blog.tag_template = "blog/tag.html"
-  blog.calendar_template = "blog/calendar.html"
+  blog.tag_template = "news/tag.html"
+  blog.calendar_template = "news/calendar.html"
   blog.paginate = true
   # blog.per_page = 10
   # blog.page_link = "page/{num}"
@@ -81,7 +81,12 @@ if File.exist?("source/projects/.sync")
 end
 
 redirect "bin/index.html", to: "/binaries"
-redirect "biography.html", to: "about.html"
+redirect "biography.html", to: "/about"
+redirect "blog/index.html", to: "/news"
+Dir["source/news/*.html.md"].each do |path|
+  path.sub!(/source\/news\/(201\d)-(\d\d)-(\d\d)-(.*).html.md/, "\\1/\\2/\\3/\\4")
+  redirect "blog/#{path}.html", to: "/news/#{path}"
+end
 
 ready do
   sitemap.resources.each do |resource|
