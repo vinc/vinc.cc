@@ -1,16 +1,17 @@
 ---
-title: Geocalendar
+title: Geodate
 ---
 
-# Geocalendar: a system of date and time closer to nature
+# Geodate: a geocentric expression of a point in time
 
-This essay describes a geocalendar, an Earth based lunisolar calendar
-with decimal time, designed to help being closer to nature.
+This essay describes the concept of a geodate, defined as a geocentric
+expression of a point in time, using an Earth based lunisolar calendar with
+decimal time, and designed to help us being closer to nature.
 
 
 ## 1. Notation
 
-Its units are the year, month, day, centiday, and dimiday. A date is
+The units of a geodate are the year, month, day, centiday, and dimiday. It is
 represented by a series of two digits for each unit separated by colons:
 
     YY:MM:DD:CC:BB (LAT, LON)
