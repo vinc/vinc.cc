@@ -6,11 +6,11 @@ tags: news
 
 # Website update
 
-I started this personal website with the idea to have a blog where I would
-write short posts, and an essays section where I would write in a more longer
-form, but I don't really like the pressure to produce content they both create.
-This resulted in a lot of procrastination and often months goes by without any
-updates.
+I started the current iteration of this personal website with the idea to have
+a blog where I would write short posts, and an essays section where I would
+write in a more longer form, but I don't really like the pressure to produce
+content they both create. This resulted in a lot of procrastination and often
+months goes by without any updates.
 
 So I decided instead to simply have [pages](/pages) where I would write content
 whenever I feel like it, and I am now in the process of moving everything
