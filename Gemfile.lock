@@ -121,7 +121,7 @@ PLATFORMS
 
 DEPENDENCIES
   builder (~> 3.0)
-  middleman (~> 4.2)
+  middleman (~> 4.3)
   middleman-blog
   middleman-breadcrumbs!
   middleman-deploy (~> 2.0.0.pre.alpha)
