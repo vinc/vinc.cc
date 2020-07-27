@@ -4,17 +4,17 @@ title: About
 
 # About
 
-I came to this world `449 947 500` seconds after Unix Epoch at `48.500` degrees
-of latitude and `-2.753` of longitude in Brittany. I spent my childhood between
-the sea and the forest, and I remain, more than a gigasecond later when
-writing the first draft of this text, most at peace when I am surrounded by
-nature.
+I took my first breath in this world about `449 947 500` seconds after Unix
+Epoch at `48.500` degrees of latitude and `-2.753` of longitude in Brittany. My
+childhood was spent between the sea and the forest, and I remain, more than a
+gigasecond later when writing the first draft of this text, most at peace when
+I am surrounded by nature.
 
 
 ## Education
 
-At some point in my childhood, I also discovered another world made of silicon
-and binary numbers, and it immediately clicked for me as I was typing my first
+At some point in my childhood, I discovered another world made of silicon and
+binary numbers, and it immediately clicked for me as I was typing my first
 commands in the console of a computer.
 
 I made my first personal website for fun in the year 1996 of the Gregorian
@@ -35,11 +35,10 @@ sane during the weekend and the rail network to explore the forests and
 mountains of Europe a few weeks every years. But that wasn't enough for me, I
 needed the presence of the wilderness in my daily life.
 
-So I took a plane to the other side of the world and spent two years traveling
-around in Aotearoa, Samoa, and Australia while working remotely on
-[Reader.fr][1]. During this time I explored some of the most stunning
-wilderness of the planet and met wonderful people living out of the grid in
-sustainable communities.
+So I flied to the other side of the world and spent two years traveling around
+in Aotearoa, Samoa, and Australia while working remotely on [Reader.fr][1].
+During this time I explored some of the most stunning wilderness of the planet
+and met wonderful people living out of the grid in sustainable communities.
 
 This experience reinforced in me the belief that there are a lot of things we
 can do today to fix the disconnect between ourselves and nature, and take
