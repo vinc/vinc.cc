@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Software
 ---
 
-# Projects
+# Software
 
 This page lists some my personal programming software, but many more are
 published on [GitHub](https://github.com/vinc).
@@ -10,15 +10,18 @@ published on [GitHub](https://github.com/vinc).
 
 ## Apps
 
-- [pkg](/software/pkg.html)
-- [closh](/software/closh.html)
-- [forecaster](/software/forecaster.html)
-- [geodate](/software/geodate.html)
-- [littlewing](/software/littlewing.html)
-- [purplehaze](/software/purplehaze.html)
-- [memorious](/software/memorious.html)
-- [oximon](/software/oximon.html)
-- [dasort](/software/dasort.html)
+- [moros](/software/moros.html) - MOROS: Obscure Rust Operating System
+- [littlewing](/software/littlewing.html) - Chess engine written in Rust
+- [purplehaze](/software/purplehaze.html) - Chess engine written in C++
+- [ned](/software/ned.html) - Ned is the new standard text editor
+- [pkg](/software/pkg.html) - Wrapper around package managers
+- [closh](/software/closh.html) - Get a shell running in the cloud in seconds
+- [geodate](/software/geodate.html) - CLI to display the time in a geocentric date format 
+- [geocal](/software/geocal.html) - CLI to display a calendar and ephemeris of a geodate
+- [timetable](/software/timetable.html) - Construct timetables from the GTF Specification
+- [memorious](/software/memorious.html) - Minimalist command line password manager
+- [forecaster](/software/forecaster.html) - Read data directly from the GFS
+- [oximon](/software/oximon.html) - Record data from pulse oximeters
 
 
 ## Websites

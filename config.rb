@@ -1,3 +1,5 @@
+require "open-uri"
+
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, smartypants: true, autolink: true, tables: true
 
@@ -45,24 +47,18 @@ end
 # Run `touch source/software/.sync` to update this directory
 if File.exist?("source/software/.sync")
   projects = %w[
-    clock.geodate.org
-    closh
-    forecaster
-    geodate
-    geodate.org
-    goelo.eu
+    moros
     littlewing
-    memorious
-    news.vinc.cc
-    oximon
-    paste.vinc.cc
-    pi.ctu.re
-    pkg
-    pollen.vinc.cc
-    provisioning.sh
-    provisioning.rb
     purplehaze
-    rgb.vinc.c
+    ned
+    pkg
+    closh
+    geodate
+    geocal
+    timetable
+    forecaster
+    memorious
+    oximon
   ]
 
   projects.each do |project|
