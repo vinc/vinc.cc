@@ -1,5 +1,5 @@
 ---
-title: Olea europaea #1 - Bonsai
+title: Olea europaea #1
 ---
 
 # Olea europaea #1
@@ -26,9 +26,9 @@ to the trunk and develop the secondary ramification.
 ## 2007-05 Very slowly
 ![](/bonsai/2007-05-19-olea-europaea-1.jpg)
 
-This tree was quite slow to grow, despite good watering and feeding.
-The location is probably too much north for them, they don't grow in the wild
-around here.
+This tree was quite slow to grow, despite good watering and feeding. The
+location may be too much north for olive trees as they don't grow in the
+wild around here.
 
 ## 2010-05 Second styling
 ![](/bonsai/2010-08-01-olea-europaea-1.jpg)
@@ -57,3 +57,6 @@ There is very little to show for 15 years in the garden but the trunk was nice
 to begin with and got even nicer. The two successive branches at the top did
 a good job at improving the tapering. Now, as it was at the beginning, the tree
 only need some good lateral branches.
+
+## 2020-08 Basic styling
+![](/bonsai/2020-07-31-olea-europaea-1.jpg)

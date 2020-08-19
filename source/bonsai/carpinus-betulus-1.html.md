@@ -1,5 +1,5 @@
 ---
-title: Carpinus betulus #1 - Bonsai
+title: Carpinus betulus #1
 ---
 
 # Carpinus betulus #1
