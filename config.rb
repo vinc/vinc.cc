@@ -108,6 +108,13 @@ redirect "projects/purplehaze.html", to: "/software/purplehaze"
 redirect "projects/memorious.html", to: "/software/memorious"
 redirect "projects/oximon.html", to: "/software/oximon"
 redirect "projects/dasort.html", to: "/software/dasort"
+redirect "bonsai/juniperus-chinensis-itoigawa-1.html", to: "/bonsai/collection/uniperus-chinensis-itoigawa-1"
+redirect "bonsai/juniperus-chinensis-itoigawa-2.html", to: "/bonsai/collection/juniperus-chinensis-itoigawa-2"
+redirect "bonsai/juniperus-chinensis-itoigawa-6.html", to: "/bonsai/collection/juniperus-chinensis-itoigawa-6"
+redirect "bonsai/carpinus-betulus-1.html", to: "/bonsai/collection/carpinus-betulus-1"
+redirect "bonsai/olea-europaea-1.html", to: "/bonsai/collection/olea-europaea-1"
+redirect "bonsai/prunus-spinosa-1.html", to: "/bonsai/collection/prunus-spinosa-1"
+redirect "bonsai/quercus-robur-1.html", to: "/bonsai/collection/quercus-robur-1"
 
 ready do
   sitemap.resources.each do |resource|
