@@ -66,5 +66,5 @@ by guy-wires. Two new branches got wired. Some back budding happened on the
 biggest branches along with the development of a secondary ramification,
 although a bit too far from the trunk.
 
-Heavy pruning will be needed soon but first the tree need to gather strenght
-and be repotted next year at a new angle.
+Heavy pruning is needed to compact the tree but first it will be repotted next
+year in Spring at a new angle.

@@ -22,14 +22,14 @@ tiny leaves.
   - young branches can be wired
   - repot in spring before the buds begin to swell, every two or three years and remove about a third of the roots
   - use a well draining soil mix
-- https://www.mistralbonsai.com/en/olive-bonsai-care-guide-the-secret-to-take-care-of-your-olea-bonsai-step-by-step (ES)
+- https://www.mistralbonsai.com/en/olive-bonsai-care-guide-the-secret-to-take-care-of-your-olea-bonsai-step-by-step (based in Spain)
   - can be wired throughout the year
   - pruning in early March (before spring begins)
   - pinching can be done between April and October
   - can be re-potted every 3 or 4 years
   - use 70% Akadama and 30% Pomice
   - fertilise them from March to October
-- https://www.kaizenbonsai.com/bonsai-tree-care-information/heart-of-the-mediterranean-the-olive-tree-as-bonsai (UK)
+- https://www.kaizenbonsai.com/bonsai-tree-care-information/heart-of-the-mediterranean-the-olive-tree-as-bonsai (based in the UK)
   - old is not our worst enemy
   - the big problem is the combination of cold and wet
   - trees that are overwintered in the dry will grow much more strongly in summer

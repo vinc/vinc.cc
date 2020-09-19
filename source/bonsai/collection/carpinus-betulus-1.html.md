@@ -65,7 +65,7 @@ During that time this tree got a bit forgotten in the garden, with an
 occasional hedge cut when it got noticed for getting too big. It received
 some water but no feeding.
 
-## Jully 2020
+## July 2020
 
 ![2020-07](/images/bonsai/2020-07-17-carpinus-betulus-1.jpg)
 
@@ -74,5 +74,6 @@ another few years my life stabilized enough to move the trees that managed to
 stay alive during that period into my own garden.
 
 This one managed pretty well, especially this year after an emergency
-transplantation into a new container. It will now receive regular feeding and
-lots of water and we'll see how it'll react to its new environment.
+transplantation into a new container. It will now receive regular feedings and
+lots of water during the growing season, then a structural pruning in winter,
+and be repotted in spring.

@@ -15,23 +15,23 @@ and Western Europe, and classic Asian bonsai species.
 - Malus domestica (apple)
 - Prunus avium (wild cherry)
 - Prunus spinosa (blackthorn)
-- Quercus robur (oak)
+- [Quercus robur](/bonsai/species/quercus-robur) (oak)
 - Taxus baccata (yew)
 
 ## Western Europe
 
 - [Olea europaea](/bonsai/species/olea-europaea) (olive)
 - Prunus mahaleb (mahaleb cherry)
-- Carpinus betulus (hornbeam)
-- Pyracantha coccinea (firethorn)
+- [Carpinus betulus](/bonsai/species/carpinus-betulus) (hornbeam)
+- [Pyracantha coccinea](/bonsai/species/pyracantha-coccinea) (firethorn)
 
 ## Eastern Asia
 
-- Acer palmatum
-- Acer buergerianum
-- Juniperus chinensis
-- Wisteria sinensis
-- Zelkova serrata
+- Acer palmatum (Japanese maple)
+- Acer buergerianum (trident maple)
+- Juniperus chinensis (Chinese juniper)
+- Wisteria sinensis (Chinese wisteria)
+- Zelkova serrata (Japanese elm)
 
 ## Southeastern Asia
 
@@ -39,4 +39,4 @@ and Western Europe, and classic Asian bonsai species.
 
 ## South America
 
-- Berberis buxifolia
+- Berberis buxifolia (box-leaved barberry)
