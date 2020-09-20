@@ -50,3 +50,12 @@ convenient to remove wires from a tree.
 
 ## Wires
 ![Wires](/images/bonsai/tools/wires.jpg)
+
+The rule is thumb to wire a branch is to use a wire size that is about 1/3 its
+diameter for copper and 1/2 for aluminium.
+
+Various sizes are needed to bend small trunks, or primary, secondary, and
+tertiary ramification. For aluminium wire a good range would be 4.0mm, 3.0mm,
+2.0mm, and 1.5mm. A wire can be doubled when a bigger size is not available.
+In this picture I also have 1.0mm wire but I sheldom use it for bending and
+more as guy wire.
