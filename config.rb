@@ -1,7 +1,7 @@
 require "open-uri"
 
 set :markdown_engine, :redcarpet
-set :markdown, fenced_code_blocks: true, smartypants: true, autolink: true, tables: true
+set :markdown, fenced_code_blocks: true, smartypants: false, autolink: true, tables: true
 
 page "/*.xml", layout: false
 page "/*.json", layout: false
