@@ -4,7 +4,7 @@ title: Quercus robur (oak)
 
 # Quercus robur (oak)
 
-## Guides
+## Links
 
 - http://www.bonsai4me.com/SpeciesGuide/Quercus.html
   - full sun and good air circulation

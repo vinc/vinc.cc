@@ -7,7 +7,7 @@ title: Carpinus betulus (hornbeam)
 ![Carpinus betulus #1](/images/bonsai/2020-07-17-carpinus-betulus-1.jpg)
 [Carpinus betulus #1](/bonsai/collection/carpinus-betulus-1)
 
-## Guides
+## Links
 
 - https://www.bonsaiempire.com/tree-species/hornbeam-beech
   - must be watered as soon as the soil gets dry
@@ -31,7 +31,7 @@ title: Carpinus betulus (hornbeam)
   - the second year is good for structural pruning or collection because of the new fine roots
   - the third year prune both in winter and in June to allow light inside the tree
   - when chopping the tree to select a new leader, remove all the buds above it in August
-  - air layering is possible to create a new nebari: remove a 5mm ring of bark in February, let it dry a few days in a cold house, place a wire of the same size and use akadama + moss
+  - air layering is possible to create a new nebari: remove a 5mm ring of bark in February, let it dry a few days in a cold room, place a wire of the same size and use akadama + moss
   - when cutting a big root, create a drop shape on the trunk going up to form a better scar
   - when growing in a pot, contrary to the ground, wait until the end of winter to repot and cut roots
   - drastic root pruning is possible but keep enough buds on the tree, they will all be needed

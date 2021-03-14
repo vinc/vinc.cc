@@ -28,5 +28,9 @@ were infected by powdered mildew, as most oaks are around here, but a potassium
 bicarbonate treatment it received in July was effective and the tree produced a
 big third flush in August.
 
+## October 2020
+
+![Quercus robus #1](/images/bonsai/2020-10-10-quercus-robur-1.jpg)
+
 The plan is to let it grow for a while and reduce the remaining taproot during
 the next repotting while cutting back the trunk.

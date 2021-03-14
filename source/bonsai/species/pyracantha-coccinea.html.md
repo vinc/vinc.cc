@@ -4,7 +4,15 @@ title: Pyracantha coccinea (firethorn)
 
 # Pyracantha coccinea (firethorn)
 
-## Guides
+![Pyracantha coccinea #1](/images/bonsai/2020-09-21-pyracantha-coccinea-1.jpg)
+[Pyracantha coccinea #1](/bonsai/collection/pyracantha-coccinea-1)
+
+When repotting this species we have to remain aware that removing a big root at
+once can cause a portion of the trunk or entire branches to die. To avoid this
+a root should first be weakened by cutting a notch half way through it the
+first time before being completely removed the next.
+
+## Links
 
 - https://www.bonsaiempire.com/tree-species/pyracantha
   - keep the rootball slightly moist

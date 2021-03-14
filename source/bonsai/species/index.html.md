@@ -9,17 +9,17 @@ and Western Europe, and classic Asian bonsai species.
 
 ## Brittany
 
-- Buxus sempervirens (box)
-- Crataegus monogyna (hawthorn)
+- [Crataegus monogyna](/bonsai/species/crataegus-monogyna) (hawthorn)
 - Fagus salvatica (beech)
 - Malus domestica (apple)
 - Prunus avium (wild cherry)
-- Prunus spinosa (blackthorn)
+- [Prunus spinosa](/bonsai/species/prunus-spinosa) (blackthorn)
 - [Quercus robur](/bonsai/species/quercus-robur) (oak)
 - Taxus baccata (yew)
 
 ## Western Europe
 
+- Buxus sempervirens (box)
 - [Olea europaea](/bonsai/species/olea-europaea) (olive)
 - Prunus mahaleb (mahaleb cherry)
 - [Carpinus betulus](/bonsai/species/carpinus-betulus) (hornbeam)
@@ -27,11 +27,15 @@ and Western Europe, and classic Asian bonsai species.
 
 ## Eastern Asia
 
-- Acer palmatum (Japanese maple)
-- Acer buergerianum (trident maple)
-- Juniperus chinensis (Chinese juniper)
+- [Acer buergerianum](/bonsai/species/acer-buergerianum) (trident maple)
+- [Acer palmatum](/bonsai/species/acer-palmatum) (Japanese maple)
+- Chaenomeles japonica (Japanese quince)
+- Ginkgo biloba
+- Pinus thunbergii (Japanese black pine)
+- Rhododendron indicum satsuki (satsuki azalea)
 - Wisteria sinensis (Chinese wisteria)
-- Zelkova serrata (Japanese elm)
+- [Juniperus chinensis](/bonsai/species/juniperus-chinensis) (Chinese juniper)
+- [Zelkova serrata](/bonsai/species/zelkova-serrata) (Japanese elm)
 
 ## Southeastern Asia
 

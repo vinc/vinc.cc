@@ -7,13 +7,25 @@ title: Olea europaea (olive)
 ![Olea europaea #1](/images/bonsai/2020-07-31-olea-europaea-1.jpg)
 [Olea europaea #1](/bonsai/collection/olea-europaea-1)
 
-## Guides
+Olea europaea is a good species for beginners. Wild olives, Olea europaea
+sylvestris, are particularly suited to bonsai due to their smaller leaves.
 
 There are a variety of guides on the internet with contradictory informations
-on how to grow olive trees as bonsai. I'd suggest dismissing every guide that
-recommends bringing the trees inside heated houses during the winter, and to
-look for the ones that mention Olea europaea sylvestris, the wild variety with
-tiny leaves.
+on how to grow the olive as bonsai, probably due to the differences in climate
+from its Mediterranean native region. A good rule of thumbs is to dismiss
+guides advising to bring the trees inside heated houses during winter.
+
+This species has a peculiar fine root system that grows slowly and don't need
+frequent repotting, as a consequence the substrate must be very stable to avoid
+compacting with time. It must also be very draining because the trees don't
+like the combination of cold and wet soil. Therefor a mix of pumice and
+pozzolan is well suited. There is less consensus for the best time for
+repotting, some advise to do it just before spring begin and some prefer the
+end of spring or early summer when the trees are already growing. The latter
+opinion seem correlated to locations in colder climates.
+
+
+## Links
 
 - https://www.bonsaiempire.com/tree-species/olive
   - strong pruning in late winter

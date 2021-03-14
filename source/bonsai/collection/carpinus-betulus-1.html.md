@@ -77,3 +77,7 @@ This one managed pretty well, especially this year after an emergency
 transplantation into a new container. It will now receive regular feedings and
 lots of water during the growing season, then a structural pruning in winter,
 and be repotted in spring.
+
+## November 2020
+
+![2020-11](/images/bonsai/2020-11-03-carpinus-betulus-1.jpg)

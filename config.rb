@@ -115,6 +115,7 @@ redirect "bonsai/carpinus-betulus-1.html", to: "/bonsai/collection/carpinus-betu
 redirect "bonsai/olea-europaea-1.html", to: "/bonsai/collection/olea-europaea-1"
 redirect "bonsai/prunus-spinosa-1.html", to: "/bonsai/collection/prunus-spinosa-1"
 redirect "bonsai/quercus-robur-1.html", to: "/bonsai/collection/quercus-robur-1"
+redirect "bonsai/collection/malus-domestica-1.html", to: "bonsai/collection/malus-domestica-2"
 
 ready do
   sitemap.resources.each do |resource|
