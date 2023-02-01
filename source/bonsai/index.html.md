@@ -5,7 +5,7 @@ title: Bonsai
 # Bonsai
 
 
-- Journals: [2020](/bonsai/journal/2020), [2021](/bonsai/journal/2021)
+- Journals: [2020](/bonsai/journal/2020), [2021](/bonsai/journal/2021), [2022](/bonsai/journal/2022)
 - [Biography](/bonsai/biography)
 - [Collection](/bonsai/collection)
 - [Tools](/bonsai/tools)
@@ -13,8 +13,14 @@ title: Bonsai
 
 ## Some trees in formation
 
-![Acer buergerianum #1](/images/bonsai/2021-02-28-acer-buergerianum-1.jpg)
+![Acer buergerianum #1](/images/bonsai/2021-11-12-acer-buergerianum-1.jpg)
 [Acer buergerianum #1](/bonsai/collection/acer-buergerianum-1)
+
+![Acer palmatum #1](/images/bonsai/2022-03-04-acer-palmatum-1.jpg)
+[Acer palmatum #1](/bonsai/collection/acer-palmatum-1)
+
+![Rhododendron indicum hanazono #1](/images/bonsai/2021-11-17-rhododendron-indicum-hanazono-1.jpg)
+[Rhododendron indicum hanazono #1](/bonsai/collection/rhododendron-indicum-hanazono-1)
 
 ![Carpinus betulus #1](/images/bonsai/2020-07-17-carpinus-betulus-1.jpg)
 [Carpinus betulus #1](/bonsai/collection/carpinus-betulus-1)

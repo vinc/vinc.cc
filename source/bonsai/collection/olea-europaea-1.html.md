@@ -66,5 +66,23 @@ by guy-wires. Two new branches got wired. Some back budding happened on the
 biggest branches along with the development of a secondary ramification,
 although a bit too far from the trunk.
 
-Heavy pruning is needed to compact the tree but first it will be repotted next
-year in Spring at a new angle.
+## Mars 2021
+![](/images/bonsai/2021-03-15-olea-europaea-1.jpg)
+
+In March the tree already restarted growing in the greenhouse so I repotted it
+in 100% pumice in a pond basket. It was the first time in at least a decade
+that it was repotted, but this and some serious cold snaps in the following
+months stunned its grow and led it to drop some leaves.
+
+Next time I'll repot in early summer.
+
+## June 2021
+![](/images/bonsai/2021-06-21-olea-europaea-1.jpg)
+
+In June the tree was growing well again.
+
+## July 2021
+![](/images/bonsai/2021-07-10-olea-europaea-1-after.jpg)
+
+In July some branches were cut but the tree was mainly left to grow and gather
+strength for next year when it'll be ready to be styled.
