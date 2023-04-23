@@ -10,6 +10,7 @@ published on [GitHub](https://github.com/vinc).
 
 ## Apps
 
+- [chatai](/software/chatai.html) - A simple CLI for ChatGPT made in Ruby (2023)
 - [closh](/software/closh.html) - Get a shell running in the cloud in seconds (2017-2018)
 - [forecaster](/software/forecaster.html) - Read data directly from the GFS (2015-2020)
 - [geocal](/software/geocal.html) - CLI to display a calendar and ephemeris of a geodate (2019-2020)
