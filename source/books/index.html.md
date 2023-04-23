@@ -30,4 +30,4 @@ I extracted the list here.
 - [2019](/books/2019) (30 books)
 - [2020](/books/2020) (25 books)
 - [2021](/books/2021) (7 books)
-- [2022](/books/2022) (2 books)
+- [2022](/books/2022) (3 books)
