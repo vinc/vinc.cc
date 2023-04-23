@@ -15,8 +15,8 @@ great escape to everyday life. I also enjoy some fantasy books.
 When I'm traveling my mind is more free so I prefer philosophical, political,
 or environmental books.
 
-- [20xx](/books/20xx) (96 books)
-- [2012](/books/2012) (20 books)
+- [20xx](/books/20xx) (95 books)
+- [2012](/books/2012) (19 books)
 - [2013](/books/2013) (18 books)
 - [2014](/books/2014) (30 books)
 - [2015](/books/2015) (36 books)
