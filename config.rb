@@ -47,18 +47,19 @@ end
 # Run `touch source/software/.sync` to update this directory
 if File.exist?("source/software/.sync")
   projects = %w[
-    moros
-    littlewing
-    purplehaze
-    ned
-    pkg
+    chatai
     closh
-    geodate
-    geocal
-    timetable
     forecaster
+    geocal
+    geodate
+    littlewing
     memorious
+    moros
+    ned
     oximon
+    pkg
+    purplehaze
+    timetable
   ]
 
   projects.each do |project|

@@ -99,4 +99,4 @@ the seasons:
 License
 -------
 
-Copyright (c) 2019 Vincent Ollivier. Released under the MIT License.
+Copyright (c) 2019-2020 Vincent Ollivier. Released under the MIT License.
