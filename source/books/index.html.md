@@ -19,7 +19,7 @@ or environmental books.
 Between 2012 and 2020 I tried to put everything I read on Goodreads and in 2023
 I extracted the list here.
 
-- [20xx](/books/20xx) (99 books)
+- [20xx](/books/20xx) (101 books)
 - [2012](/books/2012) (19 books)
 - [2013](/books/2013) (20 books)
 - [2014](/books/2014) (30 books)
