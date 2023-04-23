@@ -1,10 +1,10 @@
 ---
-title: Hakituri News redesigned
+title: Redesigning Hakituri News
 date: 2018-04-22
 tags: news, code
 ---
 
-# Hakituri News redesigned
+# Redesigning Hakituri News
 
 [![Hakituri News](/images/hakituri-news-background.jpg)][3]
 

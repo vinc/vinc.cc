@@ -1,10 +1,10 @@
 ---
-title: Little Wing 0.4.0 is out!
+title: Releasing Little Wing 0.4.0
 date: 2017-11-20
 tags: news, littlewing, chess
 ---
 
-# Little Wing 0.4.0 is out!
+# Releasing Little Wing 0.4.0
 
 After a month of intense work, the new version 0.4.0 of [Little Wing][1], a
 bitboard chess engine written in Rust, is out!

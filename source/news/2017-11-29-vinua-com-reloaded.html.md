@@ -1,10 +1,10 @@
 ---
-title: Vinua.com reloaded
+title: Reloading Vinua.com
 date: 2017-11-29
 tags: news
 ---
 
-# Vinua.com reloaded
+# Reloading Vinua.com
 
 Today I put some content on [vinua.com][1], the website of my web consulting
 business. I was about time, I've been freelancing full time since 2015 but

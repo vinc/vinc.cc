@@ -1,10 +1,10 @@
 ---
-title: MOROS 0.9.0
+title: Releasing MOROS 0.9.0
 date: 2022-11-11
 tags: news, moros, osdev
 ---
 
-# MOROS 0.9.0
+# Releasing MOROS 0.9.0
 
 ![MOROS 0.9.0](moros-0-9-0.png)
 

@@ -1,10 +1,10 @@
 ---
-title: MOROS 0.7.0
+title: Releasing MOROS 0.7.0
 date: 2021-12-12
 tags: news, moros, osdev
 ---
 
-# MOROS 0.7.0
+# Releasing MOROS 0.7.0
 
 MOROS is a text-based hobby operating system targeting computers with a x86-64
 architecture and a BIOS. It is inspired by Unix and ITS but is closer to a

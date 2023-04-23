@@ -1,10 +1,10 @@
 ---
-title: Little Wing 0.5.0
+title: Releasing Little Wing 0.5.0
 date: 2018-07-18
 tags: news, littlewing, chess
 ---
 
-# Little Wing 0.5.0
+# Releasing Little Wing 0.5.0
 
 After a few weeks of work and 8 months since the [last release][1] of
 [Little Wing][2], a chess engine written in Rust, the new version 0.5.0 is

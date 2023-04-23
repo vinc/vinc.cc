@@ -1,10 +1,10 @@
 ---
-title: Forecaster 1.0.0
+title: Releasing Forecaster 1.0.0
 date: 2018-04-03
 tags: news, code
 ---
 
-# Forecaster 1.0.0
+# Releasing Forecaster 1.0.0
 
 This weekend I finally published on [rubygems.org][1] the [changes][2] that have
 been accumulating over the past two years in the [repository][3] of Forecaster.

@@ -1,10 +1,10 @@
 ---
-title: Website update
+title: Updating the website
 date: 2020-07-27
 tags: news
 ---
 
-# Website update
+# Updating the website
 
 I started the current iteration of this personal website with the idea to have
 a blog where I would write short posts, and an essays section where I would

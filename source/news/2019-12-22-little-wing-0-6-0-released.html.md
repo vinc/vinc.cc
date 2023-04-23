@@ -1,10 +1,10 @@
 ---
-title: Little Wing 0.6.0
+title: Releasing Little Wing 0.6.0
 date: 2019-12-22
 tags: news, littlewing, chess
 ---
 
-# Little Wing 0.6.0
+# Releasing Little Wing 0.6.0
 
 [Little Wing][1] is a chess engine written in Rust with a command line
 interface (CLI) and support for UCI and Xboard protocols. 
