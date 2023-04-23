@@ -6,7 +6,7 @@ title: Contact
 
 You can email me at this domain with its first letter for the username.
 
-I'm also on [GitHub][0], [Twitter][1] and [Instagram][2].
+I'm also on [GitHub][0], [Mastodon][1], [Twitter][2] and [Instagram][3].
 
 ## GPG
 
@@ -52,5 +52,6 @@ I'm also on [GitHub][0], [Twitter][1] and [Instagram][2].
 
 
 [0]: https://github.com/vinc
-[1]: https://twitter.com/vinc686
-[2]: https://instagram.com/vinc686
+[1]: https://mastodon.social/@vinc
+[2]: https://twitter.com/vinc686
+[3]: https://instagram.com/vinc686

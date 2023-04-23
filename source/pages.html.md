@@ -9,7 +9,10 @@ links about a variety of topics organized as follow:
 
 - [Bonsai](/bonsai)
 - [Chess](/chess)
-- [Diary](/diary)
 - [Ecology](/ecology)
 - [Software](/software)
 - [Units](/units)
+
+<!--
+- [Diary](/diary)
+-->
