@@ -60,6 +60,7 @@ if File.exist?("source/software/.sync")
     pkg
     purplehaze
     timetable
+    ytdl
   ]
 
   projects.each do |project|

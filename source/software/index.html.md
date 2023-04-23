@@ -23,6 +23,7 @@ published on [GitHub](https://github.com/vinc).
 - [pkg](/software/pkg.html) - Wrapper around package managers (2017-2018)
 - [purplehaze](/software/purplehaze.html) - Chess engine written in C++ (2009-2012)
 - [timetable](/software/timetable.html) - Timetables from GTF files (2017-2019)
+- [ytdl](/software/ytdl.html) - YouTube video downloader (2020)
 
 
 ## Websites
