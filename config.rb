@@ -1,5 +1,7 @@
 require "open-uri"
 
+set :source, "src"
+
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, smartypants: false, autolink: true, tables: true
 
@@ -45,8 +47,8 @@ configure :build do
   activate :minify_javascript
 end
 
-# Run `touch source/software/.sync` to update this directory
-if File.exist?("source/software/.sync")
+# Run `touch src/software/.sync` to update this directory
+if File.exist?("src/software/.sync")
   projects = %w[
     chatai
     closh
@@ -68,7 +70,7 @@ if File.exist?("source/software/.sync")
     url = "https://raw.githubusercontent.com/vinc/#{project}/master/README.md"
     puts "Fetching '#{url}' ..."
     name = project.tr(".", "-")
-    path = "source/software/#{name}.html.md"
+    path = "src/software/#{name}.html.md"
     open(path, "w") do |f|
       open(url) do |io|
         f.write("---\ntitle: #{project.capitalize}\n---\n")
@@ -76,7 +78,7 @@ if File.exist?("source/software/.sync")
       end
     end
   end
-  File.unlink("source/software/.sync")
+  File.unlink("src/software/.sync")
 end
 
 redirect "bin/index.html", to: "/binaries"
