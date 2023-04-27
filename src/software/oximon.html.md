@@ -9,7 +9,7 @@ It has been tested with a CMS-50E but should work with any CMS-50x. The textual
 output of Oximon can then be used by `gnuplot` to produce graphical
 visualisation.
 
-![gnuplot sample result](/img/gnuplot.png?raw=true)
+![gnuplot sample result](https://raw.githubusercontent.com/vinc/oximon/master//img/gnuplot.png?raw=true)
 
 
 Installation

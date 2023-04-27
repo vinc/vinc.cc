@@ -5,7 +5,7 @@ title: Chatai
 
 A simple CLI for ChatGPT written in Ruby
 
-![chatai](chatai.png)
+![chatai](https://raw.githubusercontent.com/vinc/chatai/master/chatai.png)
 
 ## Setup
 

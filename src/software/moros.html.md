@@ -3,7 +3,7 @@ title: Moros
 ---
 # MOROS: Obscure Rust Operating System
 
-![screenshot](doc/moros.png)
+![screenshot](https://raw.githubusercontent.com/vinc/moros/master/doc/moros.png)
 
 MOROS is a hobby operating system written in Rust by [Vincent Ollivier](https://vinc.cc).
 
@@ -36,12 +36,12 @@ This project started from the [seventh post][1] of the second edition of
 - [x] RTL8139 network card
 - [x] AMD PCNET network card
 - [x] DHCP/IP/TCP/UDP/DNS/HTTP network protocols (using [smoltcp](https://crates.io/crates/smoltcp))
-- [x] Basic [filesystem](doc/filesystem.md)
-- [x] Basic [shell](doc/shell.md)
-- [x] Basic [text editor](doc/editor.md)
-- [x] Basic [lisp](doc/lisp.md) interpreter
+- [x] Basic [filesystem](https://raw.githubusercontent.com/vinc/moros/master/doc/filesystem.md)
+- [x] Basic [shell](https://raw.githubusercontent.com/vinc/moros/master/doc/shell.md)
+- [x] Basic [text editor](https://raw.githubusercontent.com/vinc/moros/master/doc/editor.md)
+- [x] Basic [lisp](https://raw.githubusercontent.com/vinc/moros/master/doc/lisp.md) interpreter
 - [x] Basic userspace for NASM and Rust programs without alloc
-- [x] Some file and [network](doc/network.md) commands
+- [x] Some file and [network](https://raw.githubusercontent.com/vinc/moros/master/doc/network.md) commands
 - [x] Some games
 - [ ] Multitasking
 - [ ] C standard library port
@@ -49,7 +49,7 @@ This project started from the [seventh post][1] of the second edition of
 
 ## Documentation
 
-Documentation is available [here](doc/index.md)
+Documentation is available [here](https://raw.githubusercontent.com/vinc/moros/master/doc/index.md)
 
 
 ## Setup

@@ -4,7 +4,7 @@ title: Geocal
 Geocal
 ======
 
-A command line tool displaying a calendar and ephemeris of a [geodate](geodate.org).
+A command line tool displaying a calendar and ephemeris of a [geodate](https://geodate.org).
 
 
 Installation
@@ -29,7 +29,7 @@ Usage
 -----
 
 Run this tool with a latitude, a longitude, and optionally a timestamp,
-to get a calendar representation of a [geodate](geodate.org):
+to get a calendar representation of a [geodate](https://geodate.org):
 
     $ geocal 51.1789 -1.8262 1403333333
 

@@ -67,14 +67,15 @@ if File.exist?("src/software/.sync")
   ]
 
   projects.each do |project|
-    url = "https://raw.githubusercontent.com/vinc/#{project}/master/README.md"
+    base = "https://raw.githubusercontent.com/vinc/#{project}/master"
+    url = "#{base}/README.md"
     puts "Fetching '#{url}' ..."
     name = project.tr(".", "-")
     path = "src/software/#{name}.html.md"
     open(path, "w") do |f|
       open(url) do |io|
         f.write("---\ntitle: #{project.capitalize}\n---\n")
-        f.write(io.read)
+        f.write(io.read.gsub(/\[(.*)\]\(((?!http).*)\)/, "[\\1](#{base}/\\2)"))
       end
     end
   end
