@@ -37,6 +37,7 @@ activate :deploy do |deploy|
   deploy.host          = "root@zifre.org"
   deploy.path          = "/home/user-data/www/vinc.cc"
   deploy.user          = "root"
+  deploy.flags         = "-avz --delete"
 end
 
 configure :build do
