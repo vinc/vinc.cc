@@ -14,6 +14,7 @@ links about a variety of topics organized as follow:
 - [Ecology](/ecology)
 - [Software](/software)
 - [Units](/units)
+- [Values](/values)
 
 <!--
 - [Diary](/diary)
