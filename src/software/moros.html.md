@@ -3,7 +3,7 @@ title: Moros
 ---
 # MOROS: Obscure Rust Operating System
 
-![screenshot](https://raw.githubusercontent.com/vinc/moros/master/doc/moros.png)
+![screenshot](https://raw.githubusercontent.com/vinc/moros/master/doc/images/moros.png)
 
 MOROS is a hobby operating system written in Rust by [Vincent Ollivier](https://vinc.cc).
 
@@ -20,31 +20,29 @@ This project started from the [seventh post][1] of the second edition of
 
 ## Features
 
-- [x] External bootloader (using [bootloader](https://github.com/rust-osdev/bootloader))
-- [x] x86 CPU support (using [x86_64](https://crates.io/crates/x86_64))
-- [x] Hardware interrupts (using [pic8259](https://crates.io/crates/pic8259))
-- [x] PS/2 Keyboard with customizable layout (using [pc-keyboard](https://crates.io/crates/pc-keyboard))
-- [x] VGA Text mode with customizable font and color palette
-- [x] Serial output (using [uart_16550](https://crates.io/crates/uart_16550))
-- [x] Paging
-- [x] Heap allocation (using [linked_list_allocator](https://crates.io/crates/linked_list_allocator))
-- [x] ACPI shutdown (using [acpi](https://crates.io/crates/acpi) and [aml](https://crates.io/crates/aml))
-- [x] RTC clock
-- [x] PCI devices
-- [x] ATA PIO mode
-- [x] Random number generator (using [rand_hc](https://crates.io/crates/rand_hc))
-- [x] RTL8139 network card
-- [x] AMD PCNET network card
-- [x] DHCP/IP/TCP/UDP/DNS/HTTP network protocols (using [smoltcp](https://crates.io/crates/smoltcp))
-- [x] Basic [filesystem](https://raw.githubusercontent.com/vinc/moros/master/doc/filesystem.md)
-- [x] Basic [shell](https://raw.githubusercontent.com/vinc/moros/master/doc/shell.md)
-- [x] Basic [text editor](https://raw.githubusercontent.com/vinc/moros/master/doc/editor.md)
-- [x] Basic [lisp](https://raw.githubusercontent.com/vinc/moros/master/doc/lisp.md) interpreter
-- [x] Basic userspace for NASM and Rust programs without alloc
-- [x] Some file and [network](https://raw.githubusercontent.com/vinc/moros/master/doc/network.md) commands
-- [x] Some games
-- [ ] Multitasking
-- [ ] C standard library port
+- External bootloader (using [bootloader](https://github.com/rust-osdev/bootloader))
+- x86 CPU support (using [x86_64](https://crates.io/crates/x86_64))
+- Hardware interrupts (using [pic8259](https://crates.io/crates/pic8259))
+- PS/2 Keyboard with customizable layout (using [pc-keyboard](https://crates.io/crates/pc-keyboard))
+- VGA Text mode with customizable font and color palette
+- Serial output (using [uart_16550](https://crates.io/crates/uart_16550))
+- Paging
+- Heap allocation (using [linked_list_allocator](https://crates.io/crates/linked_list_allocator))
+- ACPI shutdown (using [acpi](https://crates.io/crates/acpi) and [aml](https://crates.io/crates/aml))
+- RTC clock
+- PCI devices
+- ATA PIO mode
+- Random number generator (using [rand_hc](https://crates.io/crates/rand_hc))
+- RTL8139 network card
+- AMD PCNET network card
+- DHCP/IP/TCP/UDP/DNS/HTTP network protocols (using [smoltcp](https://crates.io/crates/smoltcp))
+- Basic [filesystem](https://raw.githubusercontent.com/vinc/moros/master/doc/filesystem.md)
+- Basic [shell](https://raw.githubusercontent.com/vinc/moros/master/doc/shell.md)
+- Basic [text editor](https://raw.githubusercontent.com/vinc/moros/master/doc/editor.md)
+- Basic [lisp](https://raw.githubusercontent.com/vinc/moros/master/doc/lisp.md) interpreter
+- Basic userspace for NASM and Rust programs
+- Some file and [network](https://raw.githubusercontent.com/vinc/moros/master/doc/network.md) commands
+- Some [games](https://raw.githubusercontent.com/vinc/moros/master/doc/games.md)
 
 
 ## Documentation
