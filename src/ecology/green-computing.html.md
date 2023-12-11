@@ -1,4 +1,6 @@
---- title: Green Computing ---
+---
+title: Green Computing
+---
 
 # Green Computing
 

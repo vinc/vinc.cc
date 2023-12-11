@@ -20,7 +20,8 @@ In parallel to that system work I improved the documentation, I added
 hexadecimal and binary numbers support to the Lisp interpreter, and I added a
 `hash` command to compute file digests with SHA256.
 
-I also added a Gruvbox light theme to the [website][4].
+I also added a Gruvbox light theme to [moros.cc][4], the website hosting the
+documentation.
 
 [0]: https://github.com/vinc/moros
 [1]: https://github.com/vinc/moros/pull/454
