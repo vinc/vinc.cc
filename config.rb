@@ -17,29 +17,10 @@ activate :breadcrumbs, separator: " / "
 
 activate :blog do |blog|
   blog.prefix = "news"
-  # blog.permalink = "{year}/{month}/{day}/{title}.html"
-  # blog.sources = "{year}-{month}-{day}-{title}.html"
-  # blog.taglink = "tags/{tag}.html"
   blog.layout = "layouts/news"
-  # blog.summary_separator = /(READMORE)/
-  # blog.summary_length = 250
-  # blog.year_link = "{year}.html"
-  # blog.month_link = "{year}/{month}.html"
-  # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
   blog.tag_template = "news/tag.html"
   blog.calendar_template = "news/calendar.html"
   blog.paginate = true
-  # blog.per_page = 10
-  # blog.page_link = "page/{num}"
-end
-
-activate :deploy do |deploy|
-  deploy.deploy_method = :rsync
-  deploy.host          = "root@zifre.org"
-  deploy.path          = "/home/user-data/www/vinc.cc"
-  deploy.user          = "root"
-  deploy.flags         = "-avz --delete"
 end
 
 configure :build do
@@ -72,8 +53,8 @@ if File.exist?("src/software/.sync")
     puts "Fetching '#{url}' ..."
     name = project.tr(".", "-")
     path = "src/software/#{name}.html.md"
-    open(path, "w") do |f|
-      open(url) do |io|
+    File.open(path, "w") do |f|
+      URI.open(url) do |io|
         f.write("---\ntitle: #{project.capitalize}\n---\n")
         f.write(io.read.gsub(/\[(.*)\]\(((?!http).*)\)/, "[\\1](#{base}/\\2)"))
       end
