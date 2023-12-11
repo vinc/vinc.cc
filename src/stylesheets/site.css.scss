@@ -23,19 +23,6 @@
        url("../fonts/inconsolata-bold.ttf") format("truetype");
 }
 
-a, a:visited {
-  color: $blue;
-  transition: 0.1s ease;
-  text-decoration-color: rgba($blue, 0.2);
-  text-decoration-thickness: 3px;
-  text-underline-offset: 3px;
-}
-
-a:hover, a:active {
-  color: $cyan;
-  text-decoration-color: rgba($cyan, 0.2);
-}
-
 body, code {
   font-family: "Inconsolata", monospace;
 }
@@ -51,34 +38,30 @@ pre code {
   font-size: 0.9em;
 }
 
-img {
-  max-width: 100%;
-}
+body.index {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
-.container {
-  margin: 0 auto;
-  max-width: calc(640px + 4em);
-  padding: 1em;
-  overflow-x: hidden;
-}
-
-@media (max-width: 600px) {
-  body {
-    font-size: 18px;
+  article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  h1 {
+    line-height: initial;
+    font-size: 10em;
+    margin: 0;
+  }
+  ul {
+    margin: 0;
+    margin-left: 1em;
+    margin-top: 0.5em;
   }
   footer {
-    span {
-      display: block;
-    }
+    display: none;
   }
-}
-
-h1, h2, h3, h4, h5 {
-  font-size: 1em;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin-top: 2em;
-  margin-bottom: 1em;
 }
 
 body:not(.index) {
@@ -91,6 +74,38 @@ body:not(.index) {
   h3::before {
     content: "### ";
   }
+}
+
+h1, h2, h3 {
+  font-size: 1em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+a, a:visited {
+  color: $blue;
+  transition: 0.1s ease;
+  text-decoration-color: rgba($blue, 0.2);
+  text-decoration-thickness: 3px;
+  text-underline-offset: 3px;
+}
+
+a:hover, a:active {
+  color: $cyan;
+  text-decoration-color: rgba($cyan, 0.2);
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: calc(640px + 4em);
+  padding: 1em;
+  overflow-x: hidden;
 }
 
 ul li {
@@ -128,32 +143,6 @@ footer {
   padding: 1em;
 }
 
-body.index {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  article {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  h1 {
-    line-height: initial;
-    font-size: 10em;
-    margin: 0;
-  }
-  ul {
-    margin: 0;
-    margin-left: 1em;
-    margin-top: 0.5em;
-  }
-  footer {
-    display: none;
-  }
-}
-
 hr {
   border: none;
   height: 1px;
@@ -172,6 +161,17 @@ th, td {
 
 th {
   text-align: left;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 18px;
+  }
+  footer {
+    span {
+      display: block;
+    }
+  }
 }
 
 @media (prefers-color-scheme: dark) {
