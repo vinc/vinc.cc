@@ -85,6 +85,25 @@ h1, h2, h3, h4, h5 {
   margin-bottom: 1em;
 }
 
+body:not(.index) {
+  h1::before {
+    content: "# ";
+  }
+  h2::before {
+    content: "## ";
+  }
+  h3::before {
+    content: "### ";
+  }
+}
+
+ul li {
+  list-style: none;
+  &::before {
+    content: "* ";
+  }
+}
+
 p {
   margin: 1em 0;
 }
@@ -106,55 +125,36 @@ pre {
 
 ul {
   padding-left: 0;
-  margin-left: 1em;
 }
-
-/*
-li li {
-  padding-left: 1em;
-}
-*/
 
 footer {
   text-align: center;
   padding: 1em;
 }
 
-button {
-  background: none;
-  border: none;
-  margin: 0;
-  padding: 0;
-  outline: none;
-}
-
-body.index,
-body.index .container,
-body.index .container article {
+body.index {
   display: flex;
   flex-direction: column;
-  flex: 1;
   justify-content: center;
   align-items: center;
-}
-body.index .container,
-body.index .container article {
-  flex-direction: row;
+
+  article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   h1 {
+    line-height: initial;
     font-size: 10em;
-    margin: 0 0 8px;
+    margin: 0;
   }
   ul {
-    margin-left: 2em;
+    margin: 0;
+    margin-left: 1em;
+    margin-top: 0.5em;
   }
-}
-@media (max-width: 600px) {
-  body.index .container {
-    h1 {
-      width: 0.5em;
-      overflow: hidden;
-      line-height: 1em;
-    }
+  footer {
+    display: none;
   }
 }
 

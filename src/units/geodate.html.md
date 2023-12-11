@@ -9,7 +9,7 @@ expression of a point in time, using an Earth based lunisolar calendar with
 decimal time, and designed to help us being closer to nature.
 
 
-## 1. Notation
+## Notation
 
 The units of a geodate are the year, month, day, centiday, and dimiday. It is
 represented by a series of two digits for each unit separated by colons:
@@ -19,7 +19,7 @@ represented by a series of two digits for each unit separated by colons:
 Every date should be accompanied by a set of geographic coordinates.
 
 
-## 2. Example
+## Example
 
     84:03:03:71:59 (48.5136, -2.7653)
 
@@ -30,13 +30,13 @@ The notation can be split in two parts: this first one representing the date
 of a day, `14:03:03` in the example, and the second one, `71:51`, the time.
 
 
-## 3. Lunisolar calendar
+## Lunisolar calendar
 
 This section describes the units representing the date of a day in the
 calendar.
 
 
-### 3.1. Day
+### Day
 
 At the moment most human beings still live on the surface of Earth, the
 third planet orbiting the Sun.
@@ -83,7 +83,7 @@ To perform time comparisons between different locations we should therefor
 revert to a universal time system.
 
 
-### 3.2. Month
+### Month
 
 The Earth has a natural satellite orbiting 1.25 light seconds away, the Moon,
 that is almost a third of its size. Its apparent diameter in the sky varies
@@ -122,7 +122,7 @@ months, will be 30 days long, while others, the hollow months, will only last
 29 days.
 
 
-### 3.3. Year
+### Year
 
 A solar year is defined by the duration of one orbit of the Earth around the
 Sun, or about 365.24 days on average.
@@ -164,21 +164,21 @@ of more regular calendars based on algorithms like the Metonic cycle of 19
 years, which is a common multiple of the solar year and the synodic lunar month.
 
 
-### 3.4. Century
+### Century
 
 One additional unit, the century or hectoyear, is available to keep the year
 on two digits. A century is 100 years. It can be omitted and deduced from
 context easily.
 
 
-## 4. Decimal time
+## Decimal time
 
 Shorter units than the day are required to mark the passage of time. This
 calendar uses decimal time represented by a fraction of the day to keep it as
 simple as possible.
 
 
-### 4.1. Centiday
+### Centiday
 
 A hundredth of a day, or centiday, has been chosen over a ten or a thousandth
 of a day to provide enough discrete time intervals for precise precise time
@@ -197,7 +197,7 @@ For example, it will show 50 at local noon because it occurs 50 centidays or
 half a day after midnight.
 
 
-### 4.2. Dimiday
+### Dimiday
 
 Shorter units of time would be useful for more precise measurements so we can
 divide the day again to get a hundredth of a centiday (8.64 seconds) or a even
@@ -216,7 +216,7 @@ equivalent to decimilliday (or centicentiday). It is known as "fen" in some
 Chinese calendars.
 
 
-## 5. Epoch
+## Epoch
 
 The day `00:00:00` of this calendar corresponds to `1900-01-01` of the
 Gregorian calendar, because on that day occurred the first new moon since the
@@ -240,13 +240,13 @@ Age.
 One last interesting date is the day of the first new moon since the solstice
 of December 2014, which occurred while this calendar was being conceived.
 
-    00:00:00:00:00:00 // 1900-01-01 00:03:40 UTC ~ Gregorian Epoch
-    00:70:00:00:00:00 // 1970-01-07 00:06:20 UTC ~ Unix Epoch
-    01:14:00:00:00:00 // 2014-01-01 00:03:40 UTC
-<!--06:00:00:00:00:00 // 2500-01-01 00:02:30 UTC-->
+    00:00:00:00:00:00 # 1900-01-01 00:03:40 UTC -> Gregorian Epoch
+    00:70:00:00:00:00 # 1970-01-07 00:06:20 UTC -> Unix Epoch
+    01:14:00:00:00:00 # 2014-01-01 00:03:40 UTC -> Geodate Epoch
+<!--06:00:00:00:00:00 # 2500-01-01 00:02:30 UTC-->
 
 <!--
-## 6. Changelog
+## Changelog
 
 - 0.2.2 (1527075430)
   - Rewrite title and introduction

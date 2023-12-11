@@ -20,7 +20,8 @@ $green:     #859900;
   pre code { color: $rebase0 }
   footer, p code, li code { color: $rebase01 }
   pre { background-color: $rebase02 }
-  h1, h2, h3, h4, h5, h6 { color: $rebase1; border-color: $rebase0 }
+  h1, h2, h3, h4, h5, h6 { color: $rebase1; border-color: $rebase0; &::before { color: $orange } }
+  ul li::before { color: $orange }
 }
 
 @media (prefers-color-scheme: light) {
