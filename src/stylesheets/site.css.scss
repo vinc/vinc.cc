@@ -36,10 +36,6 @@ a:hover, a:active {
   text-decoration-color: rgba($cyan, 0.2);
 }
 
-a.no-border {
-  border: none;
-}
-
 body, code {
   font-family: "Inconsolata", monospace;
 }
@@ -176,10 +172,6 @@ th, td {
 
 th {
   text-align: left;
-}
-
-button {
-  cursor: pointer;
 }
 
 @media (prefers-color-scheme: dark) {
