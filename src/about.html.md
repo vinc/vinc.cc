@@ -17,8 +17,8 @@ At some point in my childhood, I discovered another world made of silicon and
 binary numbers, and it immediately clicked for me as I was typing my first
 commands in the console of a computer.
 
-I made my first personal website for fun in the year 1996 of the Gregorian
-calendar at the age of 12 years old, and the first one for profit 2 years
+I made my first personal website for fun in the year 1998 of the Gregorian
+calendar at the age of 14 years old, and the first one for profit 2 years
 later.
 
 Since then the internet got bigger and a lot more complex, but I'm still
@@ -32,13 +32,13 @@ of Rennes I, and a love for efficient and elegant code.
 After graduating from the university, I moved to Paris to work for
 [Slate.fr][0] and I was thankful for the forest of Fontainebleau to keep me
 sane during the weekend and the rail network to explore the forests and
-mountains of Europe a few weeks every years. But that wasn't enough for me, I
+mountains of Europe a few weeks every year. But that wasn't enough for me, I
 needed the presence of the wilderness in my daily life.
 
-So I flied to the other side of the world and spent two years traveling around
+So I flew to the other side of the world and spent two years traveling around
 in Aotearoa, Samoa, and Australia while working remotely on [Reader.fr][1].
 During this time I explored some of the most stunning wilderness of the planet
-and met wonderful people living out of the grid in sustainable communities.
+and met wonderful people living off the grid in sustainable communities.
 
 This experience reinforced in me the belief that there are a lot of things we
 can do today to fix the disconnect between ourselves and nature, and take
