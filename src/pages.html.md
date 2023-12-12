@@ -12,6 +12,7 @@ links about a variety of topics organized as follow:
 - [Books](/books)
 - [Chess](/chess)
 - [Ecology](/ecology)
+- [Links](/links)
 - [Software](/software)
 - [Units](/units)
 - [Values](/values)
