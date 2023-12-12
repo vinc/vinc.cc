@@ -20,7 +20,6 @@ activate :blog do |blog|
   blog.layout = "layouts/news"
   blog.tag_template = "news/tag.html"
   blog.calendar_template = "news/calendar.html"
-  blog.paginate = true
 end
 
 configure :build do
