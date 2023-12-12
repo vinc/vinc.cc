@@ -1,0 +1,60 @@
+$bg0:     #282828;
+$bg1:     #3c3836;
+$fg0:     #fbf1c7;
+$fg1:     #ebdbb2;
+$fg2:     #d5c4a1;
+$fg3:     #bdae93;
+$red:     #fb4934;
+$green:   #b8bb26;
+$yellow:  #fabd2f;
+$blue:    #83a598;
+$magenta: #d3869b;
+$cyan:    #8ec07c;
+$white:   #ebdbb2;
+$orange:  #d65d0e;
+
+body { background-color: $bg0; color: $fg1 }
+nav, footer { color: $fg3 }
+pre code, p code, li code { background-color: $bg1; color: $fg3 }
+pre { background-color: $bg1 !important }
+h1, h2, h3, h4, h5, h6 { color: $fg0; &::before { color: $orange } }
+ul li::marker { color: $orange }
+body.index { h1 { color: $orange } }
+
+a, a:visited {
+  color: $blue;
+  text-decoration-color: rgba($blue, 0.2);
+}
+a:hover, a:active {
+  color: $cyan;
+  text-decoration-color: rgba($cyan, 0.2);
+}
+
+@media (prefers-color-scheme: light) {
+  $bg0:     #fbf1c7;
+  $bg1:     #ebdbb2;
+  $fg0:     #282828;
+  $fg1:     #3c3836;
+  $fg2:     #504945;
+  $fg3:     #665c54;
+  $blue:    #458588;
+  $cyan:    #689d6a;
+  $orange:  #d65d02;
+
+  body { background-color: $bg0; color: $fg1 }
+  nav, footer { color: $fg3 }
+  pre code, p code, li code { background-color: $bg1; color: $fg3 }
+  pre { background-color: $bg1 !important }
+  h1, h2, h3, h4, h5, h6 { color: $fg0; &::before { color: $orange } }
+  ul li::marker { color: $orange }
+  body.index { h1 { color: $orange } }
+
+  a, a:visited {
+    color: $blue;
+    text-decoration-color: rgba($blue, 0.2);
+  }
+  a:hover, a:active {
+    color: $cyan;
+    text-decoration-color: rgba($cyan, 0.2);
+  }
+}

@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 @import "normalize";
-@import "solarized";
+@import "gruvbox";
 
 @font-face {
   font-family: "Inconsolata";
@@ -35,7 +35,17 @@ body {
 }
 
 pre code {
-  font-size: 0.9em;
+  //font-size: 97%;
+}
+p code, li code {
+  padding: 0.1em 0.2em;
+  border-radius: 5px;
+}
+pre {
+  line-height: 1em;
+  overflow: auto;
+  padding: 1em;
+  border-radius: 5px;
 }
 
 body.index {
@@ -62,6 +72,15 @@ body.index {
   footer {
     display: none;
   }
+
+  @media (max-width: 600px) {
+    article {
+      flex-direction: column;
+    }
+    h1 {
+      font-size: 33vw;
+    }
+  }
 }
 
 body:not(.index) {
@@ -85,16 +104,9 @@ h1, h2, h3 {
 }
 
 a, a:visited {
-  color: $blue;
   transition: 0.1s ease;
-  text-decoration-color: rgba($blue, 0.2);
-  text-decoration-thickness: 3px;
+  text-decoration-thickness: 2px;
   text-underline-offset: 3px;
-}
-
-a:hover, a:active {
-  color: $cyan;
-  text-decoration-color: rgba($cyan, 0.2);
 }
 
 img {
@@ -108,9 +120,10 @@ img {
   overflow-x: hidden;
 }
 
-ul li {
-  list-style: none;
-  &::before {
+ul {
+  padding-left: 1em;
+
+  li::marker {
     content: "* ";
   }
 }
@@ -125,17 +138,6 @@ iframe {
 
 h1 {
   text-align: center;
-}
-
-pre {
-  line-height: 1em;
-  overflow: auto;
-  padding: 1em;
-  border-radius: 5px;
-}
-
-ul {
-  padding-left: 0;
 }
 
 footer {
@@ -167,18 +169,9 @@ th {
   body {
     font-size: 18px;
   }
-  footer {
-    span {
-      display: block;
-    }
-  }
 }
 
 @media (prefers-color-scheme: dark) {
-  h1, h2, h3, h4, h5 {
-    color: $orange;
-  }
-
   hr {
     background: rgba(255, 255, 255, 0.2);
   }
@@ -193,14 +186,6 @@ th {
 }
 
 @media (prefers-color-scheme: light) {
-  body {
-    background-color: white;
-  }
-
-  pre {
-    background-color: rgba($base2, 0.5);
-  }
-
   hr {
     background: rgba(0, 0, 0, 0.2);
   }
