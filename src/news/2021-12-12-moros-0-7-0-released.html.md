@@ -6,7 +6,7 @@ tags: news, moros, osdev
 
 # Releasing MOROS 0.7.0
 
-MOROS is a text-based hobby operating system targeting computers with a x86-64
+[MOROS](http://moros.cc) is a text-based hobby operating system targeting computers with a x86-64
 architecture and a BIOS. It is inspired by Unix and ITS but is closer to a
 modern DOS at the moment in term of features.
 
