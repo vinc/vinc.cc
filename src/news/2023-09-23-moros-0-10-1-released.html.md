@@ -14,7 +14,6 @@ modern DOS at the moment in term of features.
 
 ## What's new in MOROS 0.10.1?
 
-
 - Added network system calls
 - Increased drawing speed in VGA text mode
 - Fixed a filesystem bug preventing to allocate more than 512 blocks
