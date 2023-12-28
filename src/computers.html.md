@@ -16,23 +16,22 @@ around 10 years old and from then on I most often had more than one.
 
 This was the first computer I grew up with, it came from an uncle somewhere
 between 1994 and 1996. It was a heavy laptop with a black and white screen.
-It was running MS-DOS 4.0 originally.
+It was running MS-DOS 4.0 originally. I still have its manual.
 
 I played Prince of Persia a lot on it. It moved to my bedroom at some point and
 I remember coding games and some TUI things with [QBasic][1]
 
 [1]: https://en.wikipedia.org/wiki/QBasic
 
-### IBM PS/2 Model 35-SX (1991)
+### IBM PS/1 2121 (1991)
 
 - CPU: Intel 386 SX (20 MHz)
 - RAM: 2 MB
 - HDD: 40 MB (Maxtor 7040AI)
 
 I'm not completely sure about the [model][2] but I still have the 40 MB hard
-drive and the keyboard. I remember it to be a 386 SX and to have only one
-floppy drive and a screen that was not part of the desktop case. So logically
-it was the 35-SX. I think we upgraded it to 4 MB of memory at some point.
+drive and the manual with a note saying "Type 2121". I vaguely remember the
+processor to be the 20 MHz model but it could have been 16 MHz.
 
 It was our first desktop computer with a color screen. It came from a friend of
 my father at work I think. We probably got it around 1996. It was running
@@ -43,7 +42,7 @@ Discovering Prince of Persia in color with a better sound was incredible.
 I remember fondly playing Another World many times, and Wolfenstein 3D a bit
 later, but maybe it was on the next computer.
 
-[2]: https://en.wikipedia.org/wiki/List_of_IBM_PS/2_models
+[2]: https://en.wikipedia.org/wiki/IBM_PS/1#Model_2121
 
 ### Epson Equity 386DX/25
 
