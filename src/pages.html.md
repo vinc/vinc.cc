@@ -11,6 +11,7 @@ links about a variety of topics organized as follow:
 - [Bonsai](/bonsai)
 - [Books](/books)
 - [Chess](/chess)
+- [Computers](/computers)
 - [Ecology](/ecology)
 - [Links](/links)
 - [Software](/software)
