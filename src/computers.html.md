@@ -74,7 +74,7 @@ better games SimCity 2000 and maybe Syndicate. I don't remember much about it.
 I have a picture from 2003 where I can see an AOpen Computer Mainboard box for
 what could be the motherboard for this computer.
 
-I bought an external CDROM drive for it or for the next computer to read CDs
+I bought an external CD-ROM drive for it or for the next computer to read CDs
 from magazines. I also bought a Creative [Sound Blaster][10] Vibra 16 (CT4180)
 that was [released in 1997][11].
 
@@ -97,7 +97,7 @@ I have a picture from 2002 of a computer case that might have housed this kit,
 or the 486. But I can see the motherboard at another location in the bedroom
 on the picture.
 
-### Packard Bell Multimedia (1998)
+### Packard Bell Multimedia XL 2413 (1998)
 
 - CPU: Intel Pentium II (233 MHz)
 - GPU: ATI 3D Rage Pro
@@ -106,25 +106,14 @@ on the picture.
 - CDR: 32x (NEC CDR-28B)
 - Mobo: Intel AL440LX
 
-I'm not sure about the exact model because the few I could find online were
-[similar][3] [but][4] [not][5] [quite][6] matching:
-
-- Packard Bell MultiMedia XLE 2411 (wrong HDD, wrong gpu, right modem, wrong cdrom)
-- Packard Bell Multimedia XL 2413 (right HDD, right gpu, no modem, wrong cdrom)
-- Packard Bell Multimedia XLE 2417 (wrong HDD, right gpu, wrong modem, right cdrom)
-
-[3]: http://passion-pb.fr/documents/PDF/Gamme_MultiMedia_Document_1997_6801130202.pdf
-[4]: http://passion-pb.fr/model_multimedia_xl_2413.php
-[5]: http://moi-ocy.blogspot.com/2007/09/un-pentium-ii-233-mmx-dans-un-packard.html
-[6]: https://www.abandonware-magazines.org/affiche_mag.php?mag=140&num=16681&album=oui
-
 This was the first computer my father bought from a store in March 1998. It was
 a big deal, it was running Windows 95 and we could play incredible games on it
 like Age of Empire or Half-Life at the end of the year. There was a lot of
 software bundled with it so we discovered a lot of new things at once.
 
-We got a 56k modem with it and used AOL CDs to connect to the Internet.
-In the summer of 1998 I published my first website and announced it on Usenet.
+We got a 33k modem for it and used AOL CDs to connect to the Internet. We soon
+upgraded to a 56k modem. And in the summer of 1998 I published my first website
+and announced it on Usenet.
 
 Although I think I did the actual coding in my bedroom from another computer.
 I remember vividly coding my website when France won the soccer world cup and
@@ -133,21 +122,19 @@ listening to the noise from the window.
 We replaced or added another hard drive to the PC around 1999 but I can't
 remember which one of the following drives:
 
-- 4.3 GB (WD Caviar 14300 / 1999-03-30)
+- <s>4.3 GB (WD Caviar 14300 / 1999-03-30)</s>
 - 6.4 GB (WD Caviar 26400 / 1998-11-25)
 - 13 GB (Seagate Medalist 13032 / 9950)
 
-I remember the first more than the others but that would not be a big jump in
-capacity. Some similar Packard Bell models have a 4.3 GB drive but this one was
-made one year after the computer so we didn't start with it. My best guess
-would be the 13 GB drive because I can see it next to the CD ROM drive in most
-pictures after 2003. Edit: the 4.3 GB drive come from a group of old Pentium
-166 MHz I got where I experimented with the various BSD operating systems in
-2006.
+My best guess would be the 13 GB drive because I can see it next to the CD-ROM
+drive in most pictures after 2003. Edit: the 4.3 GB drive comes from a group of
+old Pentium 166 MHz I got to experimented with the various BSD operating
+systems in 2006.
 
 In 2003 I got this computer in my bedroom and promptly extracted it from its
 case, it became my full time Linux computer with Mandrake 9.1 at first and
-Debian after that.
+Debian after that. When it was the family computer it ran successively
+Windows 95, Windows 98, and Windows XP.
 
 I wrote somewhere that I boosted it to 384 MB of RAM and that I had a 3dfx
 Voodoo graphic card on it but that might have been on the Epox BX6 because I
@@ -183,13 +170,13 @@ I also managed a pretty nice overclocking on my graphic card with a voltage mod
 to push it from 175/166 to 275/266 MHz but it didn't last long at that
 frequency and the card died.
 
-I had to change the 40 GB IBM hard drive twice because they keep dying after a
+I had to change the 40 GB IBM hard drive twice because they kept dying after a
 while. I learned the importance of doing backups after this.
 
 I was able to run Quake III on this computer, that was a big deal. I also
 played Half-Life a lot and we did LAN parties with the Packard Bell and many
-bots. I remember other games like SimeCity 3000, the Civilization series, and
-more until I stopped around 2003 when I switched to Linux.
+bots. I remember other games like SimCity 3000, the Civilization series, and
+more until I stopped around 2003-2005 when I switched from Windows XP to Linux.
 
 In 2004 I got a Pentium III 700 for this computer and it became my file server
 for many years when it moved with me for studying at the university from 2005
