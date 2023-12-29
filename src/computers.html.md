@@ -8,6 +8,9 @@ This page list the computers I used during my life. It's quite personal and
 might not be really useful to anyone else. I had no computers until I was
 around 10 years old and from then on I most often had more than one.
 
+**Status:** I'm gathering information to complement the hazy memories I have of
+the early days.
+
 ### Epson PC AX Portable / Equity LT-256 (1990)
 
 - CPU: Intel 286 (8-12 MHz)
@@ -31,7 +34,7 @@ I remember coding games and some TUI things with [QBasic][1]
 
 I'm not completely sure about the [model][2] but I still have the 40 MB hard
 drive and the manual with a note saying "Type 2121". I vaguely remember the
-processor to be the 20 MHz model but it could have been 16 MHz.
+processor to run at 20 MHz but it could have been 16 MHz.
 
 It was our first desktop computer with a color screen. It came from a friend of
 my father at work I think. We probably got it around 1996. It was running
@@ -44,45 +47,48 @@ later, but maybe it was on the next computer.
 
 [2]: https://en.wikipedia.org/wiki/IBM_PS/1#Model_2121
 
-### Epson Equity 386DX/25
+### ??
 
 - CPU: Intel 386 DX (25? MHz)
 - RAM: 8 MB
 - HDD: 43 MB (Seagate ST351A/X)
 
 Our third computer, I remember it even less except that it was a 386 DX. It was
-a bit more powerful with more memory. I think it was this [model][3] because I
-still got the keyboard (N860-4871-T004 / 9347) that might have come with it.
-Although it is from the end of 1993 which is a bit late. My earliest picture
-of this keyboard is from 2003.
+a bit more powerful with more memory.
+
+I've had an Epson keyboard (N860-4871-T004 / 9347) for a very long time that
+might have come from it but it's from 1993 and has a PS/2 connector which would
+probably not fit.
 
 It might have been running Windows 3.11 but I'm not sure.
 
-[3]: https://en.wikipedia.org/wiki/Epson_Equity
-
-### ??
+### Custom PC 1 (1997?)
 
 - CPU: Intel 486 DX (33? MHz)
 - HDD: 340 MB (Conner CFA-340A)
+- Mobo: AOpen ??
 
-My father got me this computer from his workplace, and it allowed me to play
-better games like Syndicate and SimCity 2000. I don't remember much about it.
-
-I got an external CDROM drive for this or another computer to read CDs from
-magazines.
+My father got me a kit from his workplace I think, and it allowed me to play
+better games SimCity 2000 and maybe Syndicate. I don't remember much about it.
 
 I have a picture from 2003 where I can see an AOpen Computer Mainboard box for
-what could be the motherboard for this computer, which would mean it was just a
-kit?
+what could be the motherboard for this computer.
 
-### Custom PC 1
+I bought an external CDROM drive for it or for the next computer to read CDs
+from magazines. I also bought a Creative [Sound Blaster][10] Vibra 16 (CT4180)
+that was [released in 1997][11].
+
+[10]: https://en.wikipedia.org/wiki/Sound_Blaster_16
+[11]: http://www.dosdays.co.uk/topics/sb_vibra.php
+
+### Custom PC 2 (1998?)
 
 - CPU: Intel Pentium (75 MHz)
 - RAM: 16 MB
 - Mobo: Intel Advanced/ZP
 
 My uncle gifted me the CPU+RAM+Mobo kit at some point and it was my main
-computer for a few years. I'm not sure about which hard drive it got.
+computer for some time. I'm not sure about which hard drive it got.
 
 There was a dip switch on the motherboard to select the CPU, and mine could
 work with the 90 MHz setting. That was my first overclocking.
@@ -117,11 +123,12 @@ a big deal, it was running Windows 95 and we could play incredible games on it
 like Age of Empire or Half-Life at the end of the year. There was a lot of
 software bundled with it so we discovered a lot of new things at once.
 
-We got a 56k modem with it and used AOL CDs to connect to the Internet. I built
-my first website during the summer and announced it on Usenet from that
-computer. Although the actual coding was done in my bedroom from another
-computer. I remember vividly coding my website when France won the soccer
-world cup and listening to the noise from the window.
+We got a 56k modem with it and used AOL CDs to connect to the Internet.
+In the summer of 1998 I published my first website and announced it on Usenet.
+
+Although I think I did the actual coding in my bedroom from another computer.
+I remember vividly coding my website when France won the soccer world cup and
+listening to the noise from the window.
 
 We replaced or added another hard drive to the PC around 1999 but I can't
 remember which one of the following drives:
@@ -132,25 +139,28 @@ remember which one of the following drives:
 
 I remember the first more than the others but that would not be a big jump in
 capacity. Some similar Packard Bell models have a 4.3 GB drive but this one was
-made one year after the computer so we didn't started with it. My best guess
+made one year after the computer so we didn't start with it. My best guess
 would be the 13 GB drive because I can see it next to the CD ROM drive in most
-pictures after 2003.
+pictures after 2003. Edit: the 4.3 GB drive come from a group of old Pentium
+166 MHz I got where I experimented with the various BSD operating systems in
+2006.
 
 In 2003 I got this computer in my bedroom and promptly extracted it from its
-case, it became my Linux computer with Mandrake 9.1 at first and Debian after
-that.
+case, it became my full time Linux computer with Mandrake 9.1 at first and
+Debian after that.
 
 I wrote somewhere that I boosted it to 384 MB of RAM and that I had a 3dfx
 Voodoo graphic card on it but that might have been on the Epox BX6 because I
-still have a 64+256 MB of RAM on the motherboard. But this Packard Bell could
-indeed accept 384 MB of RAM (3x128 MB).
+still have a 64+256 MB of RAM on the motherboard. Although this Packard Bell
+could indeed accept 384 MB of RAM (3x128 MB).
 
 ![Picture of the computer in May 2003](dither/computer-2003-05-06.jpg)
 
-### Custom PC 2 (2001)
+### Custom PC 3 (2001)
 
 - CPU: Intel Celeron II (600 MHz)
 - GPU: GeForce2 MX
+- HDD: 40 GB (IBM)
 - Mobo: Abit BE6-II
 
 I replaced the motherboard once, then switched to an Abit BF6, and ended on
@@ -164,18 +174,22 @@ The processor on this computer was incredible. It could be overclocked from
 go higher like 1053 MHz at 2.05 V but it was not stable at that frequency.
 
 I was fascinated by the idea of pushing the processor to its limit and got
-someone to build me an aluminum bloc to setup a watercooling system. I managed
-to push it to 1098 MHz at 2.30 V with this system. I could have went further
-because I bought a 172 W Peltier module for that but it didn't manage to power
-it successfully. Instead the module went to my previous Pentium 75 system.
+someone to build me an aluminum waterbloc to setup a watercooling system. I
+managed to push it to 1098 MHz at 2.30 V. I could have went further because I
+bought a 172 W peltier module but I didn't manage to power it properly. Instead
+the module was experimented on my previous Pentium 75 PC.
 
 I also managed a pretty nice overclocking on my graphic card with a voltage mod
-to push it from 175/166 to 275/266 but it didn't last long at that frequency.
+to push it from 175/166 to 275/266 MHz but it didn't last long at that
+frequency and the card died.
+
+I had to change the 40 GB IBM hard drive twice because they keep dying after a
+while. I learned the importance of doing backups after this.
 
 I was able to run Quake III on this computer, that was a big deal. I also
-played a lot at the older Half-Life and we did LAN parties with the Packard
-Bell and many bots. I remember other games like SimeCity 3000, the Civilization
-series, and more until I stopped around 2003 when I switched to Linux.
+played Half-Life a lot and we did LAN parties with the Packard Bell and many
+bots. I remember other games like SimeCity 3000, the Civilization series, and
+more until I stopped around 2003 when I switched to Linux.
 
 In 2004 I got a Pentium III 700 for this computer and it became my file server
 for many years when it moved with me for studying at the university from 2005
@@ -185,10 +199,11 @@ running anything.
 
 ![Picture of the computer in May 2003](dither/computer-2003-05-05.jpg)
 
-### Custom PC 3 (2005)
+### Custom PC 4 (2005)
 
 - CPU: AMD Athlon XP Palomino 2000+ (1667 MHz)
 - RAM: 512 MB
+- HDD: 80 GB (Seagate)
 - Mobo: ASRock K7VT6
 
 I built another PC to go in my apartment while I was studying Computer Science
@@ -202,22 +217,23 @@ Athlon XP 2300+ that was never commercialized.
 
 ![Picture of my room in November 2005](dither/computer-2005-11-08.jpg)
 
-### Custom PC 4 (2006)
+### Custom PC 5 (2006)
 
 - CPU: AMD Athlon XP Barton 2500+ (1833 MHz)
 - RAM: 1 GB
+- HDD: 120 GB (Seagate)
 - Mobo: ASUS A7N8X-X
 
-The previous PC died suddenly which ended my two years career playing OGame
-online at a high level. It was very frustrating the day it happened and
+The previous motherboard died suddenly which ended my two years career playing
+OGame online at a high level. It was very frustrating the day it happened and
 liberating soon after to be free from having to connect all the time to the
-game. A friend sold me his old processor and motherboard so I could upgrade my
-PC at a low cost. I was a good PC and lasted until I finished studying at the
-university in 2010 but the lack of 64 bit support and dual-core ended up
+game. A friend sold me his old motherboard with a processor so I could upgrade
+my PC at a low cost. I was a good PC and lasted until I finished studying at
+the university in 2010 but the lack of 64 bit support and dual-core ended up
 limiting.
 
 The processor could be overclocked to 2200 MHz easily to become equivalent to
-an Athlon XP 3200+ that was more expensive. A year later I boosted mine further
+an Athlon XP 3200+ that was more expensive. A year later I boosted it further
 to 2442 MHz.
 
 ### Asus Eee PC 1005HA-H (2009)
