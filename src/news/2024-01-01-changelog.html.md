@@ -1,10 +1,10 @@
 ---
-title: Updates for December 2023
+title: Reviewing December 2023
 date: 2024-01-01
 tags: news, nyx, moros, osdev
 ---
 
-# Updates for December 2023
+# Reviewing December 2023
 
 I started December by participating in the [Advent of Code][0] for the first
 week until I didn't have enough time before breakfast to continue. I did the

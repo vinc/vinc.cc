@@ -1,10 +1,10 @@
 ---
-title: Updates for November 2023
+title: Reviewing November 2023
 date: 2023-12-01
 tags: news, moros, osdev
 ---
 
-# Updates for November 2023
+# Reviewing November 2023
 
 In November I mostly used my spare time to work on my hobby operating system
 [MOROS][0].

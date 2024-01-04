@@ -1,10 +1,10 @@
 ---
-title: Updates for September 2023
+title: Reviewing September 2023
 date: 2023-10-01
 tags: news
 ---
 
-# Updates for September 2023
+# Reviewing September 2023
 
 This month I started working on [Geonde](https://geonde.com), an environmental
 platform for green computing.

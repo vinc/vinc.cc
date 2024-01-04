@@ -1,10 +1,10 @@
 ---
-title: Updates for October 2023
+title: Reviewing October 2023
 date: 2023-11-01
 tags: news
 ---
 
-# Updates for October 2023
+# Reviewing October 2023
 
 This month I finished the prototype for [Geonde](https://geonde.com), an
 environmental platform for green computing that I started last month.
