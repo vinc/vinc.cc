@@ -39,7 +39,7 @@ from my favorite corners of the web.
 - [Permacomputing](https://permacomputing.net/)
 
 ## Pubnixes
-- [Raw Text Club](https://rawtext.club/)
+- [RTC](https://rawtext.club/)
 - [SDF](http://sdf.org/)
 - [Tilde Town](https://tilde.town/)
 
