@@ -19,6 +19,7 @@ or environmental books.
 Between 2012 and 2020 I tried to put everything I read on Goodreads and in 2023
 I extracted the list here.
 
+- [2024](/books/2024) (1 book)
 - [2023](/books/2023) (14 books)
 - [2022](/books/2022) (3 books)
 - [2021](/books/2021) (7 books)
