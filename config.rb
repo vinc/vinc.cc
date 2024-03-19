@@ -102,6 +102,10 @@ redirect "bonsai/olea-europaea-1.html", to: "/bonsai/collection/olea-europaea-1"
 redirect "bonsai/prunus-spinosa-1.html", to: "/bonsai/collection/prunus-spinosa-1"
 redirect "bonsai/quercus-robur-1.html", to: "/bonsai/collection/quercus-robur-1"
 redirect "bonsai/collection/malus-domestica-1.html", to: "bonsai/collection/malus-domestica-2"
+redirect "computers.html", to: "hardware/computers"
+redirect "archeology/index.html", to: "history"
+redirect "archeology/brittany-prehistory.html", to: "history/brittany-prehistory"
+redirect "archeology/menez-bre-megaliths.html", to: "history/menez-bre-megaliths"
 
 ready do
   sitemap.resources.each do |resource|

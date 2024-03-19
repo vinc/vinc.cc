@@ -7,14 +7,14 @@ title: Pages
 This [personal website](/about) contains a collection of essays, notes, and
 links about a variety of topics organized as follow:
 
-- [Archeology](/archeology)
+- [Links](/links)
+- [Software](/software)
+- [Hardware](/hardware)
 - [Bonsai](/bonsai)
 - [Books](/books)
 - [Chess](/chess)
-- [Computers](/computers)
 - [Ecology](/ecology)
-- [Links](/links)
-- [Software](/software)
+- [History](/history)
 - [Units](/units)
 - [Values](/values)
 

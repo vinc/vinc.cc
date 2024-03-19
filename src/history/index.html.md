@@ -1,10 +1,10 @@
 ---
-title: Archeology
+title: History
 ---
 
-# Archeology
+# History
 
-Collection of notes about various topics related to archeology.
+Collection of notes about various topics related to history.
 
 - [Prehistory of Brittany](/archeology/brittany-prehistory)
 - [Megaliths of Menez Bré](/archeology/menez-bre-megaliths)
