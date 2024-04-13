@@ -5,11 +5,12 @@ title: Computers
 # Computers
 
 This page list the computers I used during my life. It's quite personal and
-might not be really useful to anyone else. I had no computers until I was
-around 10 years old and from then on I most often had more than one.
+might not be really useful to anyone else.
 
 **Status:** I'm gathering information to complement the hazy memories I have of
-the early days.
+the early days. I was around 10 years old when our family got its first
+computer.
+
 
 ### Epson PC AX Portable / Equity LT-256 (1990)
 
@@ -21,8 +22,8 @@ This was the first computer I grew up with, it came from an uncle somewhere
 between 1994 and 1996. It was a heavy laptop with a black and white screen.
 It was running MS-DOS 4.0 originally. I still have its manual.
 
-I played Prince of Persia a lot on it. It moved to my bedroom at some point and
-I remember coding games and some TUI things with [QBasic][1]
+I played Prince of Persia a lot on it. It moved to my bedroom when we got the
+next one. I remember coding games and some TUI things with [QBasic][1].
 
 [1]: https://en.wikipedia.org/wiki/QBasic
 
@@ -37,13 +38,13 @@ drive and the manual with a note saying "Type 2121". I vaguely remember the
 processor to run at 20 MHz but it could have been 16 MHz.
 
 It was our first desktop computer with a color screen. It came from a friend of
-my father at work I think. We probably got it around 1996. It was running
-Windows 3.1 and I played many games on it. I remember the many installation
-disks needed for the system.
+my father at work I think. We probably got it around September 1996. It was
+running Windows 3.1 and I played many games on it. I remember the many
+installation disks needed for the system.
 
-Discovering Prince of Persia in color with a better sound was incredible.
-I remember fondly playing Another World many times, and Wolfenstein 3D a bit
-later, but maybe it was on the next computer.
+Discovering Prince of Persia in color was incredible. I remember fondly playing
+Another World many times, and Wolfenstein 3D a bit later, but maybe it was on
+the next computer.
 
 [2]: https://en.wikipedia.org/wiki/IBM_PS/1#Model_2121
 
@@ -62,7 +63,7 @@ probably not fit.
 
 It might have been running Windows 3.11 but I'm not sure.
 
-### Custom PC 1 (1997?)
+### Custom PC 1 (1997)
 
 - CPU: Intel 486 DX (33? MHz)
 - HDD: 340 MB (Conner CFA-340A)
@@ -71,6 +72,11 @@ It might have been running Windows 3.11 but I'm not sure.
 My father got me a kit from his workplace I think, and it allowed me to play
 better games SimCity 2000 and maybe Syndicate. I don't remember much about it.
 
+I found a floppy that I read in 2024 containing logos I made between January
+1996 and August 1997 with Banner Mania. They were all in black and white until
+August 1997 which mean that they were made on our first Epson computer until I
+installed the software on another computer. I think it was this one.
+
 I have a picture from 2003 where I can see an AOpen Computer Mainboard box for
 what could be the motherboard for this computer.
 
@@ -78,10 +84,13 @@ I bought an external CD-ROM drive for it or for the next computer to read CDs
 from magazines. I also bought a Creative [Sound Blaster][10] Vibra 16 (CT4180)
 that was [released in 1997][11].
 
+I think it was on this computer that I rediscovered again Prince of Persia with
+a much better sound. I remember well hearing the intro music.
+
 [10]: https://en.wikipedia.org/wiki/Sound_Blaster_16
 [11]: http://www.dosdays.co.uk/topics/sb_vibra.php
 
-### Custom PC 2 (1998?)
+### Custom PC 2 (1998)
 
 - CPU: Intel Pentium (75 MHz)
 - RAM: 16 MB
@@ -97,12 +106,12 @@ I have a picture from 2002 of a computer case that might have housed this kit,
 or the 486. But I can see the motherboard at another location in the bedroom
 on the picture.
 
-### Packard Bell Multimedia XL 2413 (1998)
+### Packard Bell Multimedia XLE 2417 (1998)
 
 - CPU: Intel Pentium II (233 MHz)
 - GPU: ATI 3D Rage Pro
 - RAM: 32 MB
-- HDD: 3.2 GB (Quantum Fireball SE)
+- HDD: 4.3 GB
 - CDR: 32x (NEC CDR-28B)
 - Mobo: Intel AL440LX
 
@@ -112,12 +121,12 @@ like Age of Empire or Half-Life at the end of the year. There was a lot of
 software bundled with it so we discovered a lot of new things at once.
 
 We got a 33k modem for it and used AOL CDs to connect to the Internet. We soon
-upgraded to a 56k modem. And in the summer of 1998 I published my first website
-and announced it on Usenet.
+upgraded to a 56k modem.
 
+In August 1998 I published my first website and announced it on Usenet.
 Although I think I did the actual coding in my bedroom from another computer.
 I remember vividly coding my website when France won the soccer world cup and
-listening to the noise from the window.
+listening to the noise from the window in July 1998.
 
 We replaced or added another hard drive to the PC around 1999 but I can't
 remember which one of the following drives:
