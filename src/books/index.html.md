@@ -4,8 +4,6 @@ title: Books
 
 # Books
 
-![mdjrny-v4 a bookshelf full of books in the forest, digital painting, matte painting, concept art, greg rutkowski](books.png)
-
 In the first decade of this century I mostly read classic science fiction books
 and the next decade I arrived at contemporary books. This category is what I
 like the most to read while at home, a bright or dark vision of future is a
