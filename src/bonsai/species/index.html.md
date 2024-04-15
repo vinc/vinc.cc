@@ -31,7 +31,7 @@ and Western Europe, and classic Asian bonsai species.
 - [Acer palmatum](/bonsai/species/acer-palmatum) (Japanese maple)
 - Chaenomeles japonica (Japanese quince)
 - Ginkgo biloba
-- Pinus thunbergii (Japanese black pine)
+- [Pinus thunbergii](/bonsai/species/pinus-thunbergii) (Japanese black pine)
 - Rhododendron indicum satsuki (satsuki azalea)
 - Wisteria sinensis (Chinese wisteria)
 - [Juniperus chinensis](/bonsai/species/juniperus-chinensis) (Chinese juniper)
