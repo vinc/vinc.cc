@@ -4,6 +4,14 @@ title: Acer palmatum (Japanese maple)
 
 # Acer palmatum (Japanese maple)
 
+## Varieties
+
+- Deshojo
+- Katsura
+- Kiyohime
+- Kotohime
+- Shishigashira
+
 ## Seed Germination
 
 - Soak in warm water for 2 days

@@ -17,6 +17,10 @@ Mount Kurohime in the island of Sado and its qualities soon lead to a very high
 demand causing its disapearance from the area. But it is possible to find trees
 in nurseries that initially came from cuttings of those collected specimens.
 
+## Varieties
+
+- Itoigawa
+- Kishu
 
 ## Links
 
