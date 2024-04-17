@@ -4,7 +4,8 @@ title: Retro
 
 # Retro
 
-Here are some screenshots from DOS games I had when I was a kid.
+Here are some screenshots from DOS games I had when I was a kid around 1996
+that I could extract from a box of old floppies in 2024.
 
 ## Wolfenstein 3D (1992)
 
@@ -46,9 +47,7 @@ Here are some screenshots from DOS games I had when I was a kid.
 
 ## Grand Prix Circuit (1988)
 
-![Grand Prix Circuit](/images/software/retro/gp-00.png)
 ![Grand Prix Circuit](/images/software/retro/gp-01.png)
-![Grand Prix Circuit](/images/software/retro/gp-04.png)
 ![Grand Prix Circuit](/images/software/retro/gp-05.png)
 ![Grand Prix Circuit](/images/software/retro/gp-07.png)
 ![Grand Prix Circuit](/images/software/retro/gp-10.png)
