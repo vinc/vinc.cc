@@ -4,6 +4,8 @@ title: Biography
 
 # Biography
 
+NOTE: last updated in 2021
+
 - Location: Brittany (Zone 9b)
 - Experience: Intermediate, 20+ years, 30+ trees in formation
 

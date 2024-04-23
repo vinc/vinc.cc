@@ -17,3 +17,8 @@ title: Links
 ## Ficus species
 
 - https://borneoficus.info/2018/10/04/ficus-retusa-ficus-microcarpa-confusion/
+
+## Hardiness zone
+
+- https://en.wikipedia.org/wiki/Hardiness_zone
+- https://www.plantmaps.com/interactive-france-plant-hardiness-zone-map-celsius.php

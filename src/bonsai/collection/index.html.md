@@ -4,6 +4,8 @@ title: Collection
 
 # Collection
 
+NOTE: last updated in 2021
+
 - [Acer buergerianum #1](/bonsai/collection/acer-buergerianum-1)
 - [Acer palmatum #1](/bonsai/collection/acer-palmatum-1)
 - [Acer palmatum kotohime #1](/bonsai/collection/acer-palmatum-kotohime-1)

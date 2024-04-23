@@ -48,7 +48,7 @@ the next computer.
 
 [2]: https://en.wikipedia.org/wiki/IBM_PS/1#Model_2121
 
-### ??
+### Epson ??
 
 - CPU: Intel 386 DX (25? MHz)
 - RAM: 8 MB
