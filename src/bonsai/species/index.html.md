@@ -41,7 +41,7 @@ and Western Europe, and classic Asian bonsai species.
 
 ## Southeastern Asia
 
-- Ficus retusa
+- Ficus microcarpa (Chinese banyan)
 
 ## South America
 
