@@ -19,7 +19,7 @@ title: Chaenomeles japonica (Japanese quince)
 - https://crataegus.com/2020/11/20/focus-on-fall-pruning-chojubai/
   - Loves fertilizer! And early. Should be one of the first plants fertilized in the garden.
   - Loves water! Don't let it get too dry, and use a deeper pot.
-- https://bonsaitonight.com/2020/08/28/summer-repotting-dwarf-flowering-quince/
+- https://bonsaitonight.com/2017/10/27/repotting-chojubai-fall/
 - https://bonsaitonight.com/2022/01/28/developing-chojubai-tips-from-left-coast-bonsai/
 - https://www.bonsainut.com/threads/when-is-the-best-time-to-take-chojubai-cuttings.33534/
   - The best time for cuttings is just after the new leaves have hardened off.

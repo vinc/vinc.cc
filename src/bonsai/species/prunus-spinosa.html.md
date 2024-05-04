@@ -7,8 +7,9 @@ title: Prunus spinosa (blackthorn)
 ![](/images/bonsai/2020-07-31-prunus-spinosa-1.jpg)
 Prunus spinosa #1
 
+## Propagation
 
-## Seed Germination
+### Seed
 
 - Pick berries in fall
 - Mash berries to extract seeds

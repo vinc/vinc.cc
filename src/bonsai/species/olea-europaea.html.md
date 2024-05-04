@@ -24,7 +24,6 @@ repotting, some advise to do it just before spring begin and some prefer the
 end of spring or early summer when the trees are already growing. The latter
 opinion seem correlated to locations in colder climates.
 
-
 ## Links
 
 - https://www.bonsaiempire.com/tree-species/olive

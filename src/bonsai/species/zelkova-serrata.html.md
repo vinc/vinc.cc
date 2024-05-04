@@ -4,7 +4,9 @@ title: Zelkova serrata (Japanese elm)
 
 # Zelkova serrata (Japanese elm)
 
-## Seed Germination
+## Propagation
+
+### Seed
 
 - Soak in warm water for 2 days
 - Store 2-3 months at 5C

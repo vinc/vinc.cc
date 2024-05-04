@@ -119,16 +119,20 @@ img {
   overflow-x: hidden;
 }
 
+p {
+  margin: 1em 0;
+}
+
 ul {
   padding-left: 1em;
 
   li::marker {
     content: "* ";
   }
-}
 
-p {
-  margin: 1em 0;
+  p {
+    margin: 0;
+  }
 }
 
 iframe {

@@ -4,9 +4,10 @@ title: Bonsai
 
 # Bonsai
 
-- [Biography](/bonsai/biography)
-- [Collection](/bonsai/collection)
+- [About](/bonsai/about)
 - [Species](/bonsai/species)
+- [Calendar](/bonsai/calendar)
+- [Collection](/bonsai/collection)
 
 ## Journals
 
