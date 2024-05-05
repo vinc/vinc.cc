@@ -37,6 +37,11 @@ specimens.
 - Mist once or twice a day
 - Repot the cuttings into separate containers next spring
 
+## Notes
+
+The foliage may turn brown following a frost but will revert to green with the
+arrival of spring.
+
 ## Links
 
 - https://www.bonsaitreegardener.net/bonsai-trees/species/juniper

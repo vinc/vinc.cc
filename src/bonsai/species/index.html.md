@@ -30,7 +30,7 @@ in summer and in the greenhouse in winter.
 
 - [Acer buergerianum](/bonsai/species/acer-buergerianum) (trident maple)
 - [Acer palmatum](/bonsai/species/acer-palmatum) (Japanese maple)
-- Carpinus turczaninovii (Korean hornbeam)
+- Carpinus turczaninowii (Korean hornbeam)
 - [Chaenomeles japonica](/bonsai/species/chaenomeles-japonica) (Japanese quince)
 - Ficus microcarpa (Chinese banyan)
 - [Juniperus chinensis](/bonsai/species/juniperus-chinensis) (Chinese juniper)
