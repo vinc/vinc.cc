@@ -93,6 +93,7 @@ redirect "bonsai/juniperus-chinensis-itoigawa-6.html", to: "/bonsai/collection/j
 redirect "bonsai/olea-europaea-1.html", to: "/bonsai/collection/olea-europaea-1"
 redirect "bonsai/prunus-spinosa-1.html", to: "/bonsai/collection/prunus-spinosa-1"
 redirect "bonsai/quercus-robur-1.html", to: "/bonsai/collection/quercus-robur-1"
+redirect "bonsai/collection/olea-europaea-1.html", to: "/bonsai/collection/olea-europaea-sylvestris-1"
 redirect "computers.html", to: "hardware/computers"
 redirect "essays.html", to: "/pages"
 redirect "essays/changing-our-diet-for-a-wilder-world.html", to: "/ecology/changing-our-diet-for-a-wilder-world"

@@ -19,6 +19,12 @@ buds begin to swell which is dependent on environmental factors.
   - Substrates (Akadama, Pumice, Lava, Kanuma)
   - Wire (1.5 mm, 2.0 mm, 3.0 mm, 4.0 mm)
 
+- Stratification
+  - Acer buergerianum: beginning of the month
+  - Acer palmatum: beginning of the month
+  - Pseudocydonia sinensis: beginning of the month
+  - Zelkova serrata : end of the month
+
 ## February
 
 - Repotting
@@ -50,12 +56,15 @@ buds begin to swell which is dependent on environmental factors.
 - Moving
   - Olea europaea: from the greenhouse to outside
 
+- Stratification
+  - Pinus thunbergii: beginning of the month
+
 - Propagating
-  - Acer buergerianum: beginning of month (seeds)
-  - Acer palmatum: beginning of month (seeds)
-  - Pinus thunbergii: middle of month (seeds)
-  - Pseudocydonia sinensis: beginning of month (seeds)
-  - Zelkova Serrata: beginning of month (seeds)
+  - Acer buergerianum: beginning of month (from seeds)
+  - Acer palmatum: beginning of month (from seeds)
+  - Pinus thunbergii: middle of month (from seeds)
+  - Pseudocydonia sinensis: beginning of month (from seeds)
+  - Zelkova Serrata: beginning of month (from seeds)
 
 ## May
 
@@ -90,8 +99,9 @@ buds begin to swell which is dependent on environmental factors.
   - Rhododendron indicum: after flowering
 
 - Propagating
-  - Rhododendron indicum: after flowering (cuttings)
-  - Chaenomeles japonica chojubai: end of month (cuttings)
+  - Acer palmatum: end of the month (from cuttings)
+  - Chaenomeles japonica chojubai: end of month (from cuttings)
+  - Rhododendron indicum: after flowering (from cuttings)
 
 ## July
 
@@ -112,9 +122,9 @@ buds begin to swell which is dependent on environmental factors.
   - Ficus microcarpa: beginning of month
 
 - Propagating
-  - Olea europaea: beginning of month (cuttings)
-  - Ficus microcarpa: beginning of month (cuttings)
-  - Juniperus chinensis: beginning of month (cuttings)
+  - Olea europaea: beginning of month (from cuttings)
+  - Ficus microcarpa: beginning of month (from cuttings)
+  - Juniperus chinensis: beginning of month (from cuttings)
 
 ## August
 
@@ -152,6 +162,7 @@ buds begin to swell which is dependent on environmental factors.
 ## November
 
 - Ordering
+  - Seeds
   - Trees
 
 ## December

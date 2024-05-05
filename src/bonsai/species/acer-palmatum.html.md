@@ -6,11 +6,11 @@ title: Acer palmatum (Japanese maple)
 
 ## Varieties
 
-- Deshojo
-- Katsura
-- Kiyohime
-- Kotohime
-- Shishigashira
+- Deshojo (red spring foliage)
+- Katsura (yellow-orange spring foliage)
+- Kiyohime (small leaves, basal dominance)
+- Kotohime (very small leaves, compact foliage)
+- Shishigashira (small leaves, very compact foliage)
 
 ## Propagation
 

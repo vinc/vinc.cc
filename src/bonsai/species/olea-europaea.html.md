@@ -4,11 +4,11 @@ title: Olea europaea (olive)
 
 # Olea europaea (olive)
 
-![Olea europaea #1](/images/bonsai/2020-07-31-olea-europaea-1.jpg)
-[Olea europaea #1](/bonsai/collection/olea-europaea-1)
+![Olea europaea sylvestris #1](/images/bonsai/2020-07-31-olea-europaea-1.jpg)
+[Olea europaea sylvestris #1](/bonsai/collection/olea-europaea-sylvestris-1)
 
-Olea europaea is a good species for beginners. Wild olives, Olea europaea
-sylvestris, are particularly suited to bonsai due to their smaller leaves.
+Olea europaea is a good species for beginners. Olea europaea sylvestris (wild
+olive) is particularly suited to bonsai due to their smaller leaves.
 
 There are a variety of guides on the internet with contradictory informations
 on how to grow the olive as bonsai, probably due to the differences in climate
@@ -41,7 +41,7 @@ opinion seem correlated to locations in colder climates.
   - use 70% Akadama and 30% Pomice
   - fertilise them from March to October
 - https://www.kaizenbonsai.com/bonsai-tree-care-information/heart-of-the-mediterranean-the-olive-tree-as-bonsai (based in the UK)
-  - old is not our worst enemy
+  - cold is not our worst enemy
   - the big problem is the combination of cold and wet
   - trees that are overwintered in the dry will grow much more strongly in summer
   - if you do have to re-pot an olive the ONLY time to do this is mid-summer
