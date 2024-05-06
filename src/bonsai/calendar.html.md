@@ -16,7 +16,7 @@ buds begin to swell which is dependent on environmental factors.
 
 - Ordering
   - Fertilizer
-  - Substrates (Akadama, Pumice, Lava, Kanuma)
+  - Substrates (Akadama, Kanuma, Lava, Pumice)
   - Wire (1.5 mm, 2.0 mm, 3.0 mm, 4.0 mm)
 
 - Stratification
