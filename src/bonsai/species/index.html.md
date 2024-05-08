@@ -34,6 +34,7 @@ in summer and in the greenhouse in winter.
 - [Chaenomeles japonica](/bonsai/species/chaenomeles-japonica) (Japanese quince)
 - Ficus microcarpa (Chinese banyan)
 - [Juniperus chinensis](/bonsai/species/juniperus-chinensis) (Chinese juniper)
+- [Pinus parviflora](/bonsai/species/pinus-parviflora) (Japanese white pine)
 - [Pinus thunbergii](/bonsai/species/pinus-thunbergii) (Japanese black pine)
 - [Pseudocydonia sinensis](/bonsai/species/pseudocydonia-sinensis) (Chinese quince)
 - [Rhododendron indicum](/bonsai/species/rhododendron-indicum) (Satsuki azalea)
