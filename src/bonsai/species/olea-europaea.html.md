@@ -4,25 +4,31 @@ title: Olea europaea (olive)
 
 # Olea europaea (olive)
 
-![Olea europaea sylvestris #1](/images/bonsai/2020-07-31-olea-europaea-1.jpg)
-[Olea europaea sylvestris #1](/bonsai/collection/olea-europaea-sylvestris-1)
+There are numerous guides on the internet with contradictory information on how
+to grow olive trees as a bonsai, likely due to the differences in climate
+between its native Mediterranean region and colder, wetter areas.
 
-Olea europaea is a good species for beginners. Olea europaea sylvestris (wild
-olive) is particularly suited to bonsai due to their smaller leaves.
+This species has a peculiar fine root system that grows slowly and
+doesn't require frequent repotting. As a result, the substrate must be
+very stable to avoid compacting over time. It also needs to be highly
+draining because these trees do not tolerate the combination of cold
+and wet soil. Therefore, a mix of pumice and lava is well-suited.
 
-There are a variety of guides on the internet with contradictory informations
-on how to grow the olive as bonsai, probably due to the differences in climate
-from its Mediterranean native region. A good rule of thumbs is to dismiss
-guides advising to bring the trees inside heated houses during winter.
+There is less consensus regarding the best time for repotting. Some
+guides recommend doing it just before spring begins, while others
+prefer the end of spring or early summer when the trees are already
+growing. The latter opinion seems to be more common in colder climates.
 
-This species has a peculiar fine root system that grows slowly and don't need
-frequent repotting, as a consequence the substrate must be very stable to avoid
-compacting with time. It must also be very draining because the trees don't
-like the combination of cold and wet soil. Therefor a mix of pumice and
-pozzolan is well suited. There is less consensus for the best time for
-repotting, some advise to do it just before spring begin and some prefer the
-end of spring or early summer when the trees are already growing. The latter
-opinion seem correlated to locations in colder climates.
+Pruning can happen in spring prior to the push of growth and after post-flush
+hardening to induce a second flush of growth in early to mid-summer, which is
+later than on deciduous trees due to the thicker cuticle and more durable leaf
+mass which making them slower to respond to environmental conditions (similar
+to conifers). As a broadleaf evergreen there's no leaf drop in fall and no
+pruning at this time.
+
+## Varieties
+
+- Sylvestris (wild olive)
 
 ## Links
 

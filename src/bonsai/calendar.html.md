@@ -4,13 +4,21 @@ title: Calendar
 
 # Calendar
 
-This calendar can only be relevant for the same [climate](/bonsai/about) and
-[species](/bonsai/species) that I'm growing, it must be adapted for local
-conditions.
+This calendar is tailored to the specific [climate](/bonsai/about) and
+[species](/bonsai/species) of bonsai that I'm growing, and it should be
+adjusted to fit local conditions.
 
-The precise timing of the actions varies from year to year. For example
-repotting a deciduous tree in late winter or early spring is best done when its
-buds begin to swell which is dependent on environmental factors.
+The precise timing of activities may vary each year based on environmental
+factors. However, there are some key events in the annual cycle of a tree:
+
+- Bud push in early to mid spring is the time of the year when the tree reaches
+  its maximum energy storage, making it the ideal time for repotting, and a
+  very good time for structural pruning if the species is not prone to bleeding.
+- Post-flush harden in late spring to early summer is a good time for pruning
+  (with partial defoliation for some species) or decandling (for black pines)
+  to encourage a second flush of growth and back budding.
+- Leaf drop in fall is a good time to prune species that are at risk of
+  bleeding if pruned in spring.
 
 ## January
 
@@ -43,6 +51,7 @@ buds begin to swell which is dependent on environmental factors.
   - Acer buergerianum: beginning of month
   - Pinus thunbergii: middle of month
   - Malus domestica: end of month
+  - Rhododendron indicum: end of month
   - Prunus spinosa: after flowering
 
 ## April
@@ -77,9 +86,6 @@ buds begin to swell which is dependent on environmental factors.
 - Repotting
   - Juniperus chinensis: beginning of month
 
-- Decandling
-  - Pinus thunbergii: end of month (cold climate)
-
 ## June
 
 - Fertilizing
@@ -92,8 +98,8 @@ buds begin to swell which is dependent on environmental factors.
 - Moving
   - Ficus microcarpa: from inside to the greenhouse
 
-- Repotting
-  - Rhododendron indicum: after flowering
+- Decandling
+  - Pinus thunbergii: beginning of month (cold climate)
 
 - Pruning
   - Rhododendron indicum: after flowering

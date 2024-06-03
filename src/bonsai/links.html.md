@@ -4,6 +4,16 @@ title: Links
 
 # Links
 
+## People
+
+- https://bjornbjorholm.com (Bjorn Bjorholm)
+- https://bonsaify.com (Eric Schrader)
+- https://bonsaimirai.com (Ryan Neil)
+- https://bonsaitonight.com (Jonas Dupuich)
+- https://crataegus.com (Michael Hagedorn)
+- https://saruyama.co.uk (Peter Warren)
+- https://walter-pall.de (Walter Pall)
+
 ## Ebihara technique
 
 - https://bonsaitonight.com/2009/02/14/ebihara/

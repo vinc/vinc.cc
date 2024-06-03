@@ -6,19 +6,24 @@ title: Juniperus chinensis (Chinese juniper)
 
 ## Varieties
 
-- Itoigawa
-- Kishu
-
 One of the most popular variety of Juniperus chinensis is known as shimpaku
 juniper. It was discovered around 1850 near Mount Ishizuchi in Japan, but it
 has been over-collected over the next half-century and became almost extinct in
 the wild.
+
+### Itoigawa
 
 A special kind of shimpaku called itoigawa was then discovered by a collector
 on Mount Kurohime near the city of Itoigawa in the first decade of 1900 and its
 qualities soon lead to a very high demand also causing its disappearance from
 the area. But it is possible to find trees in nurseries that initially came
 from cuttings of those collected specimens.
+
+### Kishu
+
+It is harder to find information about the kishu variety except that it's the
+name of a province where shimpaku are sold. It is much closer to regular
+shimpaku than itoigawa.
 
 ## Propagation
 
