@@ -51,3 +51,10 @@ that I could extract from a box of old floppies in 2024.
 ![Grand Prix Circuit](/images/software/retro/gp-05.png)
 ![Grand Prix Circuit](/images/software/retro/gp-07.png)
 ![Grand Prix Circuit](/images/software/retro/gp-10.png)
+
+## Test Drive (1987)
+
+![Test Drive](/images/software/retro/td-00.png)
+![Test Drive](/images/software/retro/td-01.png)
+![Test Drive](/images/software/retro/td-02.png)
+![Test Drive](/images/software/retro/td-03.png)
