@@ -6,7 +6,7 @@ tags: news, moros, osdev
 
 # Releasing MOROS 0.10.3
 
-![MOROS 0.10.2](moros-0-10-3.png)
+![MOROS 0.10.3](moros-0-10-3.png)
 
 [MOROS](http://moros.cc) is a text-based hobby operating system targeting
 computers with a x86-64 architecture and a BIOS. It is inspired by Unix and ITS
