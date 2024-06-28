@@ -79,11 +79,11 @@ following tables.
 | can     |          |          |             |          |            |
 | may     |          |          |             |          |            |
 | must    |          |          |             |          |            |
-| come    |          |          |             |          |            |
+| come    |          |          | naumai      |          |            |
 | move    |          | lue      | neke        | 'ahihi   |            |
 | give    |          |          | hoatu       |          |            |
 | take    |          | 'ave     | tari        | 'afa'i   | lawe       |
-| know    |          | iloa     |             |          | 'ike       |
+| know    |          | iloa     | mohio       |          | 'ike       |
 | have    |          |          | whai        |          |            |
 | want    |          | mana'o   | pirangi     | hina'aro | makemake   |
 | like    |          | fiafia   | rata        | au       |            |
@@ -110,7 +110,49 @@ following tables.
 | heavy   |          |          |             |          |            |
 | very    |          |          | tino        |          |            |
 
-Note: "old" should not be used with "person"
+The words for "old" above should not be used for people due to their
+negative connotations in their respective languages.
+
+### Pronouns
+
+| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| ------- | -------- | -------- | ----------- | -------- | ---------- |
+
+| me      | au       | a'u      | au          | au       | au         |
+| you     | koe      | 'oe      | koe         | 'oe      | 'oe        |
+| they    | koia     | ia       | ia          | 'oia     | 'o ia      |
+
+### Prepositions
+
+| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| ------- | -------- | -------- | ----------- | -------- | ---------- |
+| of      |          |          |             | 'ei      |            |
+| on      |          |          |             | 'ei      |            |
+| in      |          |          |             |          |            |
+| out     |          |          | waho        |          |            |
+| to      |          |          | ki          | 'ei      |            |
+| from    |          |          |             |          |            |
+| with    |          |          |             |          |            |
+| for     |          |          |             | 'ei      |            |
+
+### Logical Operators
+
+| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| ------- | -------- | -------- | ----------- | -------- | ---------- |
+| not     | kole     |          | kaore       | 'ore     | 'ole       |
+| and     |          |          |             |          |            |
+| xor     |          |          |             |          |            |
+| or      |          |          |             |          |            |
+
+### Quantifiers
+
+| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| ------- | -------- | -------- | ----------- | -------- | ---------- |
+| any     |          |          |             |          |            |
+| all     |          |          |             |          |            |
+| each    |          |          |             |          |            |
+| some    |          |          | wetahi      | fanu     | kekahi     |
+| many    | mano     | tele     | maha        | mano     | mano       |
 
 ### Numbers
 
@@ -144,35 +186,15 @@ Note: "old" should not be used with "person"
 
 | English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
-| of      |          |          |             | 'ei      |            |
-| on      |          |          |             | 'ei      |            |
-| in      |          |          |             |          |            |
-| out     |          |          | waho        |          |            |
-| to      |          |          | ki          | 'ei      |            |
-| from    |          |          |             |          |            |
-| with    |          |          |             |          |            |
-| for     |          |          |             | 'ei      |            |
-| me      |          |          | ahau        |          |            |
-| you     |          |          | koe         |          |            |
-| they    |          |          |             |          |            |
 | this    | tenei    | lenei    | tenei       | teie     | keia       |
-| that    | tera     | lena     | tera        | tera     | kela       |
+| that    | tera     | lela     | tera        | tera     | kela       |
 | place   |          |          |             |          |            |
 | thing   |          |          | mea         |          |            |
 | person  | tane     | tane     | tane        |          | kane       |
 | time    |          |          | wa          |          |            |
-| not     | kole     |          | kaore       | 'ore     | 'ole       |
-| and     |          |          |             |          |            |
-| xor     |          |          |             |          |            |
-| or      |          |          |             |          |            |
 | if      |          |          |             |          |            |
 | while   |          |          |             |          |            |
 | because |          |          |             |          |            |
-| any     |          |          |             |          |            |
-| all     |          |          |             |          |            |
-| each    |          |          |             |          |            |
-| some    |          |          | wetahi      | fanu     | kekahi     |
-| many    | mano     | tele     | maha        | mano     | mano       |
 | air     |          |          | hau         | mata'i   | ea         |
 | fire    | ahi      | afi      | ahi         | ahi      | ahi        |
 | land    | fenua    | fanua    | whenua      | fenua    | 'aina      |
@@ -188,7 +210,7 @@ Note: "old" should not be used with "person"
 | plant   | tupu     | 'ava     | tupu        | tupu     | la'au      |
 | grass   |          | vao      | patiti      | aaia     | mau'u      |
 | tree    | lakau    | la'au    | rakau       | ra'au    | la'au      |
-| root    |          |          |             |          |            |
+| root    |          |          | paiaka      |          |            |
 | trunk   | tumu     |          | tiwai       | tumu     | kumu       |
 | branch  |          |          | peka        | 'ama'a   | lala       |
 | leaf    | lau      | lau      | rau         | hi'ata   | lau        |
@@ -219,6 +241,10 @@ Note: "old" should not be used with "person"
 | boat    | saka     | vaa      | waka        | va'a     | wa'a       |
 | cycle   | hura     |          | huringa     | 'ohura'a |            |
 | half    | hafa     | afa      | hawhe       | 'afa     | hapalua    |
+
+The words for "person" above mean "man" or "male" and not a genderless person.
+There is a specific word for that, but those are shorter and they also mean the
+name of a god which is interesting.
 
 [1]: https://en.m.wikipedia.org/wiki/Polynesian_languages
 [2]: https://en.wikipedia.org/wiki/Proto-Polynesian_language
