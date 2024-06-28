@@ -55,6 +55,27 @@ ocean from two sea-faring cultures at the opposite sides of the home planet.
 | Fricative   |   f    |    s     |   x   |    h    |
 | Approximant |        |    l     |       |         |
 
+### Morphology
+
+In this language, words are formed by compounding root words.
+
+### Syntax
+
+I was tempted to have a VSO (verb-subject-object) word order for this language
+given its Polynesian and Celtic influence but I'm starting with a classic SVO
+(subject-verb-object) for simplicity.
+
+A noun-phrase and a verb-phrase always have a modifiers-noun and modifier-verb
+order.
+
+### Examples
+
+See [here](/conlangs/examples/).
+
+### Lexicon
+
+See [here](/conlangs/lexicon/).
+
 ## L2
 
 L2 is a more complex conlang inspired by Lojban with a vocabulary derived from
