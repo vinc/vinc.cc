@@ -47,6 +47,12 @@ pre {
   padding: 1em;
   border-radius: 5px;
 }
+blockquote {
+  border-left-width: 3px;
+  border-left-style: solid;
+  margin-left: 0;
+  padding-left: 1em;
+}
 
 body.index {
   display: flex;

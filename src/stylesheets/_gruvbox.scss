@@ -20,6 +20,7 @@ pre { background-color: $bg1 !important }
 h1, h2, h3, h4, h5, h6 { color: $fg0; &::before { color: $orange } }
 ul li::marker { color: $orange }
 body.index { h1 { color: $orange } }
+blockquote { border-left-color: $orange }
 
 a, a:visited {
   color: $blue;
