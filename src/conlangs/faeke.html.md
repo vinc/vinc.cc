@@ -70,7 +70,7 @@ A longer example:
 
 - koe mata-kite tela lakau me mano kula hua ?
 - au fia saha-kite kula hua .
-- au tahito-tane ma koe le-tahito-tane .
+- au tahito-tane ma koe kole-tahito-tane .
 - koe haele luxa tela lakau .
 - koe lase lua kula hua .
 - koe kai tahi kula hua .
@@ -166,7 +166,7 @@ negative connotations in their respective languages.
 
 | English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
-| not     | le       | le       | kaore       | 'ore     | 'ole       |
+| not     | kole     | le       | kaore       | 'ore     | 'ole       |
 | and     | ma       | ma       | ma          | ho'i     | a          |
 | xor     |          |          |             |          |            |
 | or      |          | po       |             |          |            |
