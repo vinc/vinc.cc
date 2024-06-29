@@ -60,6 +60,14 @@ modifiers-noun and modifier-verb order.
 
 ## Examples
 
+Some expressions:
+
+- ola (alive / hello)
+- pai-kai (good-eat / enjoy your meal)
+- malie-moe (calm-sleep / good night)
+
+A longer example:
+
 - koe mata-kite tela lakau me mano kula hua ?
 - au fia saha-kite kula hua .
 - au tahito-tane ma koe kole-tahito-tane .
@@ -103,6 +111,7 @@ following tables.
 | do      |          | fai      | mahi        | fa'a     |            |
 | go      | haele    | alu      | haere       | haere    | haele      |
 | use     |          |          |             |          |            |
+| sit     | noho     | nofo     | noho        | noho     | noho       |
 | eat     | kai      | 'ai      | kai         | 'ai/'amu | 'ai        |
 | try     |          |          |             |          |            |
 | can     |          |          |             |          |            |
@@ -124,11 +133,12 @@ following tables.
 
 | English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
+| good    | pai      | lelei    | pai         | maita'i  | maika'i    |
+| calm    | malie    | malu     | marie       | hau      | malie      |
 | big     |          | tele     | rahi        |          |            |
 | hot     | sela     | vevela   | wera        | ahuahu   | wela       |
 | old     | tahito   | matua    | tahito      | tahito   | kahiko     |
 | wet     | maku     | susu     | maku        | ma'u     | ma'u       |
-| good    | pai      | lelei    | pai         | maita'i  | maika'i    |
 | fast    |          | tope     | tere        | hiuao    |            |
 | long    | loa      |          | roa         | roa      | loa        |
 | tall    |          |          | teitei      | teitei   | ki'eki'e   |
@@ -183,8 +193,8 @@ negative connotations in their respective languages.
 | five    | lima     | lima     | rima        | pae      | lima       |
 | six     | ono      | ono      | ono         | ono      | ono        |
 | seven   | fitu     | fitu     | whitu       | hitu     | hiku       |
-| eight   | valu     | valu     | waru        | va'u     | walu       |
-| nine    | iva      | iva      | iwa         | iva      | iwa        |
+| eight   | salu     | valu     | waru        | va'u     | walu       |
+| nine    | isa      | iva      | iwa         | iva      | iwa        |
 
 ### Colors
 
