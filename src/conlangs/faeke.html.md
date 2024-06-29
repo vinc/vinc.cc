@@ -1,12 +1,12 @@
 ---
-title: Lalolelo
+title: Faeke
 ---
 
-# Lalolelo
+# Faeke
 
-Lalolelo is a constructed language inspired [Polynesian languages][1].  It is a
-work in progress. Its temporary name is formed by "lalo" and "lelo" which mean
-"talk" and "world" respectively.
+Faeke is a constructed language inspired [Polynesian languages][1].
+
+It is a work in progress.
 
 ## Phonology
 
@@ -30,13 +30,13 @@ The syllable structure is (C)V(V(V)).
 | Approximant |        |    l     |       |         |
 
 Compared to [Proto-Polynesian][2], the velar nasal `/ŋ/` that became a glottal
-stop `/ʔ/` in Tahitian is a velar fricative `/x/` in Lalolelo, and the labial
+stop `/ʔ/` in Tahitian is a velar fricative `/x/` in Faeke, and the labial
 approximant `/w/` that became a labiodental fricative `/v/` in Samoan and
-Tahitian is an alveolar fricative `/s/` in Lalolelo.
+Tahitian is an alveolar fricative `/s/` in Faeke.
 
 | Proto-Polynesian | p |  t  | k | ʔ | m | n | ŋ |  w  |   f   | s | h | l | r |
 | ---------------- | - | --- | - | - | - | - | - | --- | ----- | - | - | - | - |
-| Lalolelo         | p |  t  | k | Ø | m | n | x |  s  |   f   | h | Ø | l | l |
+| Faeke            | p |  t  | k | Ø | m | n | x |  s  |   f   | h | Ø | l | l |
 | Samoan           | p | t~k | ʔ | Ø | m | n | ŋ |  v  |   f   | s | Ø | l | l |
 | Maori            | p |  t  | k | Ø | m | n | ŋ |  w  |  ɸ/h  | h | Ø | r | r |
 | Tahitian         | p |  t  | ʔ | Ø | m | n | ʔ |  v  | f/v/h | h | Ø | r | r |
@@ -70,7 +70,7 @@ A longer example:
 
 - koe mata-kite tela lakau me mano kula hua ?
 - au fia saha-kite kula hua .
-- au tahito-tane ma koe kole-tahito-tane .
+- au tahito-tane ma koe le-tahito-tane .
 - koe haele luxa tela lakau .
 - koe lase lua kula hua .
 - koe kai tahi kula hua .
@@ -98,7 +98,7 @@ following tables.
 
 ### Pronouns
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
 | me      | au       | a'u      | au          | au       | au         |
 | you     | koe      | 'oe      | koe         | 'oe      | 'oe        |
@@ -106,7 +106,7 @@ following tables.
 
 ### Verbs
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
 | do      |          | fai      | mahi        | fa'a     |            |
 | go      | haele    | alu      | haere       | haere    | haele      |
@@ -131,7 +131,7 @@ following tables.
 
 ### Modifiers
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
 | good    | pai      | lelei    | pai         | maita'i  | maika'i    |
 | calm    | malie    | malu     | marie       | hau      | malie      |
@@ -153,7 +153,7 @@ negative connotations in their respective languages.
 
 ### Prepositions
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
 | of      | o        | o        | o           | o        | o          |
 | on      | i        | i        | i           | i        | i          |
@@ -164,16 +164,16 @@ negative connotations in their respective languages.
 
 ### Logical Operators
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
-| not     | kole     | le       | kaore       | 'ore     | 'ole       |
+| not     | le       | le       | kaore       | 'ore     | 'ole       |
 | and     | ma       | ma       | ma          | ho'i     | a          |
 | xor     |          |          |             |          |            |
 | or      |          | po       |             |          |            |
 
 ### Quantifiers
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
 | any     |          |          |             |          |            |
 | all     | katoa    | atoa     | katoa       | ato'a    | apau       |
@@ -183,22 +183,25 @@ negative connotations in their respective languages.
 
 ### Numbers
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
-| ------- | -------- | -------- | ----------- | -------- | ---------- |
-| zero    | kole     | 'o       | kore        | aore     | 'ole       |
-| one     | tahi     | tasi     | tahi        | tahi     | kahi       |
-| two     | lua      | lua      | rua         | piti     | lua        |
-| three   | tolu     | tolu     | toru        | toru     | kolu       |
-| four    | fa       | fa       | wha         | maha     | ha         |
-| five    | lima     | lima     | rima        | pae      | lima       |
-| six     | ono      | ono      | ono         | ono      | ono        |
-| seven   | fitu     | fitu     | whitu       | hitu     | hiku       |
-| eight   | salu     | valu     | waru        | va'u     | walu       |
-| nine    | isa      | iva      | iwa         | iva      | iwa        |
+The numbers have a strong influence from the Lojban language and zero was
+already loaned from English or French in post-contact Polynesia.
+
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   | Lojban |
+| ------- | -------- | -------- | ----------- | -------- | ---------- | ------ |
+| zero    | no       | sero     | kore        | ero      | 'ole       | no     |
+| one     | ta       | tasi     | tahi        | tahi     | kahi       | pa     |
+| two     | le       | lua      | rua         | piti     | lua        | re     |
+| three   | ti       | tolu     | toru        | toru     | kolu       | ci     |
+| four    | fo       | fa       | wha         | maha     | ha         | vo     |
+| five    | mu       | lima     | rima        | pae      | lima       | mu     |
+| six     | xa       | ono      | ono         | ono      | ono        | xa     |
+| seven   | ke       | fitu     | whitu       | hitu     | hiku       | ze     |
+| eight   | pi       | valu     | waru        | va'u     | walu       | bi     |
+| nine    | so       | iva      | iwa         | iva      | iwa        | so     |
 
 ### Colors
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
 | white   |          | pa'epa'e | ma          | tea      | ke'oke'o   |
 | red     | kula     | mumu/ula | whero/kura  | 'ura     | 'ula       |
@@ -211,7 +214,7 @@ negative connotations in their respective languages.
 
 ### WIP
 
-| English | Lalolelo | Samoan   | Maori       | Tahitian | Hawaiian   |
+| English | Faeke    | Samoan   | Maori       | Tahitian | Hawaiian   |
 | ------- | -------- | -------- | ----------- | -------- | ---------- |
 | sacred  | tapu     | sa       | tapu        | tapu     | kapu       |
 | power   | mana     | mana     | mana        | mana     | mana       |
@@ -234,9 +237,8 @@ negative connotations in their respective languages.
 | heaven  | laxi     | lagi     | rangi       | ra'i     | lani       |
 | sun     | la       | la       | ra          | ra       | la         |
 | moon    | mahina   | masina   | mahina      | mahina   | mahina     |
-| world   | lalo     | lalolagi | ao          | ao       | ao         |
 | stone   |          | ma'a     | pohatu      | 'ofa'i   | pohaku     |
-| soil    | repo     | 'ele'ele | oneone      | repo     | lepo       |
+| soil    | lepo     | 'ele'ele | oneone      | repo     | lepo       |
 | animal  |          |          | kararehe    |          |            |
 | plant   | tupu     | 'ava     | tupu        | tupu     | la'au      |
 | grass   |          | vao      | patiti      | aaia     | mau'u      |
