@@ -8,6 +8,8 @@ This [personal website](/about) contains a collection of essays, notes, and
 links about a variety of topics organized as follow:
 
 - [Now](/now)
+- [Uses](/uses)
+- [Ideas](/ideas)
 - [Links](/links)
 - [Software](/software)
 - [Hardware](/hardware)
