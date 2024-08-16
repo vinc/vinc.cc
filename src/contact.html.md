@@ -48,8 +48,7 @@ I'm also on [GitHub][0], [Mastodon][1], [Twitter][2] and [Instagram][3].
 
 ## See Also
 
-[Home](/), [About](/about.html), [Projects](/projects/)
-
+[Home](/), [About](/about.html), [Software](/software/)
 
 [0]: https://github.com/vinc
 [1]: https://mastodon.social/@vinc

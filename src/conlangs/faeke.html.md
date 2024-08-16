@@ -4,7 +4,7 @@ title: Faeke
 
 # Faeke
 
-Faeke is a constructed language inspired [Polynesian languages][1].
+Faeke is a constructed language inspired by [Polynesian languages][1].
 
 It is a work in progress.
 
