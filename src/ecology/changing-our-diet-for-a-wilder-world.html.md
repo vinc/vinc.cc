@@ -4,8 +4,6 @@ title: Changing our diet for a wilder world
 
 # Changing our diet for a wilder world
 
-**Status:** early draft
-
 This short essay explores how a [plant-based][0.0] or [vegan][0.1] diet could
 drastically transform our [land use][0.2] to improve and protect biodiversity
 by allowing the creation of new wilderness areas.

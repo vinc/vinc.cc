@@ -9,7 +9,7 @@ title: Now
 - Building a web service to [stop wasting cloud resources][2]
 - Enjoying the summer weather
 
-Last updated: 2024-08-16
+Last updated: `2024-08-16`
 
 ## See Also
 
