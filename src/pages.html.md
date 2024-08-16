@@ -7,6 +7,7 @@ title: Pages
 This [personal website](/about) contains a collection of essays, notes, and
 links about a variety of topics organized as follow:
 
+- [Now](/now)
 - [Links](/links)
 - [Software](/software)
 - [Hardware](/hardware)
