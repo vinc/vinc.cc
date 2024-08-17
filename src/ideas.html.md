@@ -15,9 +15,9 @@ title: Ideas
 
 ## Food
 
-- Adopting a vegan diet in Europe could [double the amount of forests][2] and
-  create extensive wilderness areas, providing the necessary space to
-  effectively protect biodiversity.
+- Adopting a vegan diet accross Western Europe could [double forest coverage][2]
+  and create vast wilderness areas, providing the necessary space to effectively
+  protect biodiversity.
 
 - Using a wood gas stove fueled by garden twigs can be more efficient for
   cooking than using electrical induction stoves. A solar stove is even better
@@ -25,11 +25,11 @@ title: Ideas
 
 ## Space
 
-- Humans have always been technological, we've been burning the land and
-  hunting species to extinction since the beginning. The advent of industrial
-  society has only accelerated the process. Our best hope is to spread out
-  among the stars and bring the rest of the biosphere with us by maintaining
-  half of our habitats as protected wilderness.
+- Humans have always employed technology, from ancient practices of
+  land-burning and overhunting to the transformative agricultural and
+  industrial revolutions, each stage amplifying our impact on Earth. Our best
+  hope is to spread out among the stars and bring the rest of the biosphere
+  with us by designating half of our habitats as protected wilderness.
 
 Last updated: `2024-08-16`
 

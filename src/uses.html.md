@@ -14,7 +14,7 @@ title: Uses
 
 ## Operating Systems
 
-- [Arch Linux](https://archlinux.org/): laptop (2009)
+- [Arch](https://archlinux.org/): laptop (2009)
 - [Debian](https://www.debian.org/): web server (2004)
 - [OpenBSD](https://www.openbsd.org/): router (2006)
 - [OpenIndiana](https://www.openindiana.org/): file server (2010)
