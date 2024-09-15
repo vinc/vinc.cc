@@ -52,7 +52,7 @@ involved in climate activism through nonviolent civil disobedience actions
 because protesting the current system and proposing alternatives go hand in
 hand.
 
-I am occasionally available for remote work as a full-stack web developer. If
+I am currently available for remote work as a full-stack web developer. If
 you have an interesting and meaningful project in Ruby or Rust, I'd love to
 hear from you.
 
