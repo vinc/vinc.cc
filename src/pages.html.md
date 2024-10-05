@@ -16,6 +16,7 @@ links about a variety of topics organized as follow:
 - [Bonsai](/bonsai)
 - [Books](/books)
 - [Chess](/chess)
+- [Conlangs](/conlangs)
 - [Ecology](/ecology)
 - [History](/history)
 - [Units](/units)
