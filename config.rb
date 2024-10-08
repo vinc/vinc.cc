@@ -28,7 +28,7 @@ configure :build do
 end
 
 # Run `touch src/software/.sync` to update this directory
-if File.exist?("src/software/.sync")
+if File.exist?("src/software/projects/.sync")
   projects = %w[
     chatai
     closh
@@ -51,7 +51,7 @@ if File.exist?("src/software/.sync")
     url = "#{base}/README.md"
     puts "Fetching '#{url}' ..."
     name = project.tr(".", "-")
-    path = "src/software/#{name}.html.md"
+    path = "src/software/projects/#{name}.html.md"
     File.open(path, "w") do |f|
       URI.open(url) do |io|
         f.write("---\ntitle: #{project.capitalize}\n---\n")
@@ -59,7 +59,7 @@ if File.exist?("src/software/.sync")
       end
     end
   end
-  File.unlink("src/software/.sync")
+  File.unlink("src/software/projects/.sync")
 end
 
 redirect "archeology/brittany-prehistory.html", to: "history/brittany-prehistory"
@@ -98,6 +98,7 @@ redirect "computers.html", to: "hardware/computers"
 redirect "essays.html", to: "/pages"
 redirect "essays/changing-our-diet-for-a-wilder-world.html", to: "/ecology/changing-our-diet-for-a-wilder-world"
 redirect "essays/geocalendar.html", to: "/units/geodate"
+
 redirect "projects/closh.html", to: "/software/closh"
 redirect "projects/dasort.html", to: "/software/dasort"
 redirect "projects/forecaster.html", to: "/software/forecaster"
@@ -108,6 +109,21 @@ redirect "projects/memorious.html", to: "/software/memorious"
 redirect "projects/oximon.html", to: "/software/oximon"
 redirect "projects/pkg.html", to: "/software/pkg"
 redirect "projects/purplehaze.html", to: "/software/purplehaze"
+
+redirect "software/chatai.html", to: "/software/projects/chatai"
+redirect "software/closh.html", to: "/software/projects/closh"
+redirect "software/forecaster.html", to: "/software/projects/forecaster"
+redirect "software/geocal.html", to: "/software/projects/geocal"
+redirect "software/geodate.html", to: "/software/projects/geodate"
+redirect "software/littlewing.html", to: "/software/projects/littlewing"
+redirect "software/memorious.html", to: "/software/projects/memorious"
+redirect "software/moros.html", to: "/software/projects/moros"
+redirect "software/ned.html", to: "/software/projects/ned"
+redirect "software/oximon.html", to: "/software/projects/oximon"
+redirect "software/pkg.html", to: "/software/projects/pkg"
+redirect "software/purplehaze.html", to: "/software/projects/purplehaze"
+redirect "software/timetable.html", to: "/software/projects/timetable"
+redirect "software/ytdl.html", to: "/software/projects/ytdl"
 
 ready do
   sitemap.resources.each do |resource|

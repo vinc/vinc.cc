@@ -1,8 +1,8 @@
 ---
-title: Retro
+title: Retro Gaming
 ---
 
-# Retro
+# Retro Gaming
 
 Here are some screenshots from DOS games I had when I was a kid around 1996
 that I could extract from a box of old floppies in 2024.
