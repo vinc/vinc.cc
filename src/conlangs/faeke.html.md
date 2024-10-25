@@ -306,7 +306,7 @@ name of a god which is interesting.
 - few: not-many
 - every: each-and-all
 - always: each-and-all-time
-- never: no-time
+- never: not-some-time
 - now: this-time
 - here: this-place
 - there: that-place
