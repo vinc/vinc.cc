@@ -12,4 +12,4 @@ title: Software
 ## Old
 
 - [Archive](/software/archive)
-- [Retro Gaming](/software/retro-gaming)
+- [Gaming](/software/retro-gaming)
