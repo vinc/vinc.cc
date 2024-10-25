@@ -13,7 +13,7 @@ Last updated: `2024-10-08`
 
 ## See Also
 
-[Home](/), [About](/about.html), [News](/news/)
+[Home](/), [About](/about.html), [Ideas](/ideas.html)
 
 [1]: https://moros.cc
 [2]: https://stop.wasting.cloud
