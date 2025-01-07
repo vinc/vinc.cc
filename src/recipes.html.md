@@ -4,6 +4,22 @@ title: Recipes
 
 # Recipes
 
+## Water kefir
+
+- Pour 1 l of water in a jar
+- Add 50 g of light cane sugar and dissolve it
+- Add 50 g of kefir grain
+- Add 2 slices of lemon
+- Add 20 g of dried fig
+- Put the lid on without screwing it for the first fermentation
+- Let it rest at room temperature for 24 to 36 hours
+- Remove pieces of lemon and fig
+- Pour the liquid in a bottle through a strainer to collect the grains
+- Put the grains in the fridge with 200 ml of water and 15 g of sugar
+- Close the bottle for the second fermentation
+- Let it rest at room temperature for 24 to 36 hours
+- Put the bottle in the fridge and drink it
+
 ## Sencha (Japanese green tea)
 
 - Preheat a teapot and cups with hot water

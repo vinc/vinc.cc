@@ -38,7 +38,7 @@ title: Uses
 
 ## Stuff
 
-- [Amazon Kindle](https://en.wikipedia.org/wiki/Amazon_Kindle) + [Calibre](https://calibre-ebook.com/): ebook reader
+- [Amazon Kindle Paperwhite](https://en.wikipedia.org/wiki/Amazon_Kindle) + [Calibre](https://calibre-ebook.com/): ebook reader (2012)
 - [Canon EOS M](https://en.wikipedia.org/wiki/Canon_EOS_M) + [Magic Lantern](https://www.magiclantern.fm/): camera (2013)
 - Zoom H4n Pro: audio recorder (2018)
 - Audio-Technica ATH-M50X: studio headphones (2015)

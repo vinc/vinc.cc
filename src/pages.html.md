@@ -5,7 +5,7 @@ title: Pages
 # List of topics
 
 This [personal website](/about) contains a collection of essays, notes, and
-links about a variety of topics organized as follow:
+links about a variety of topics randomly organized as follow:
 
 - [Now](/now)
 - [Uses](/uses)
@@ -13,6 +13,7 @@ links about a variety of topics organized as follow:
 - [Links](/links)
 - [Software](/software)
 - [Hardware](/hardware)
+- [Recipes](/recipes)
 - [Bonsai](/bonsai)
 - [Books](/books)
 - [Chess](/chess)
@@ -24,4 +25,5 @@ links about a variety of topics organized as follow:
 
 <!--
 - [Diary](/diary)
+- [Meditation](/meditation)
 -->

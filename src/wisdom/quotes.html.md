@@ -19,7 +19,7 @@ https://ttc.tasuki.org/display:Code:gff,dl,uklg
 
 > Empty yourself of everything.
 > Let the mind become still.
-> The ten thousand things rise and fall while the self watches their return.
+> The ten thousand things arise together and we watch their return.
 > They grow and flourish and then return to the source.
 > Returning to the source is stillness, which is the way of nature.
 
@@ -29,8 +29,7 @@ https://ttc.tasuki.org/display:Code:gff,dl,uklg
 > High winds do not last all morning.
 > Heavy rain does not last all day.
 > Why is this? Heaven and earth!
-> If heaven and earth cannot make things eternal,
-> How is it possible for man? 
+> If heaven and earth cannot make things eternal, how is it possible for man?
 
 <!---->
 

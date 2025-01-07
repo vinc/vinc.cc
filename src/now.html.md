@@ -6,10 +6,9 @@ title: Now
 
 - Living on an old farm in a forest of Brittany since 2018
 - Playing with my [hobby operating system][1]
-- Building a web service to [stop wasting cloud resources][2]
-- Enjoying the automnal weather
+- Enjoying the winter weather
 
-Last updated: `2024-10-08`
+Last updated: `2025-01-01`
 
 ## See Also
 
