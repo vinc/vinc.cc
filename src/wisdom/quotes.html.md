@@ -302,3 +302,74 @@ Source:
 
 > Future generations are unlikely to condone our lack of prudent concern for
 > the integrity of the natural world that supports all life.
+
+## Anarchism
+
+### Mutual Aid by Peter Kropotkin (1902)
+
+> [Mutual aid] is the surest means for giving to each and to all the greatest
+> safety, the best guarantee of existence and progress, bodily, intellectual,
+> and moral.
+
+<!---->
+
+> In the animal world [..] the vast majority of species live in societies, and
+> [..] they find in association the best arms for the struggle for life.
+
+<!---->
+
+> In the practice of mutual aid, which we can retrace to the earliest
+> beginnings of evolution, we thus find the positive and undoubted origin of
+> our ethical conceptions.
+
+Source:
+
+- https://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution
+
+### Toward an Ecological Society by Murray Bookchin (1980)
+
+> Each ecosystem must be seen as a unique totality of diversified life forms in
+> its own right. Humans, too, belong to the whole, but only as one part of the
+> whole.
+
+<!---->
+
+> The ecological crisis of our time is testimony to the fact that the means of
+> production developed by hierarchical society and particularly by capitalism
+> have become too powerful to exist as means of domination.
+
+<!---->
+
+> As long as hierarchy persists, as long as domination organizes humanity
+> around a system of elites, the project of dominating nature will continue to
+> exist and inevitably lead our planet to ecological extinction.
+
+<!---->
+
+> The very concept of dominating nature stems from the domination of human by
+> human.
+
+<!---->
+
+> To harmonize our relationship with the natural world presupposes the
+> harmonization of the social world.
+
+<!---->
+
+> Utopia, which was once a mere dream in the preindustrial world, increasingly
+> became a possibility with the development of modern technology.
+
+<!---->
+
+> A technologically sophisticated utopia [..] could live in reverence for
+> nature and bring its consciousness to the service of life.
+
+<!---->
+
+> Utopia redeems the future. It recovers it for the generations to come and
+> restores it to them as a future which they can creatively form and thoroughly
+> emancipate.
+
+Source:
+
+- https://theanarchistlibrary.org/library/murray-bookchin-toward-an-ecological-society

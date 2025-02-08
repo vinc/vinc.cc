@@ -14,6 +14,7 @@ links about a variety of topics randomly organized as follow:
 - [Software](/software)
 - [Hardware](/hardware)
 - [Recipes](/recipes)
+- [Gardening](/gardening)
 - [Bonsai](/bonsai)
 - [Books](/books)
 - [Chess](/chess)

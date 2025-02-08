@@ -4,7 +4,7 @@ title: Calendar
 
 # Calendar
 
-This calendar is tailored to the specific [climate](/bonsai/about) and
+This calendar is tailored to the specific [climate](/gardening/climate) and
 [species](/bonsai/species) of bonsai that I'm growing, and it should be
 adjusted to fit local conditions.
 

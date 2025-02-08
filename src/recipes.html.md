@@ -7,7 +7,7 @@ title: Recipes
 This is my collection of simple and quick vegan recipes for a healthy diet
 inspired by various culinary traditions.
 
-## Dishes
+## Main dishes
 
 ### [Tabbouleh][tabbouleh]
 
@@ -16,7 +16,7 @@ inspired by various culinary traditions.
 - Add chopped parsley and mint
 - Add some lemon juice
 - Add some olive oil
-- Add the cooked bulgur
+- Add the cooked grains
 - Chill the bowl in refrigerator for 30 min before serving
 
 ### [Mujaddara][mujaddara] (lentils and rice)
@@ -33,8 +33,8 @@ inspired by various culinary traditions.
 
 ### Root hash
 
-- Chop an onion and half of clove of garlic
-- Dice some potatoes, sweet potatoes, and carrots
+- Add some diced potatoes, sweet potatoes, and carrots on a baking tray
+- Add a chopped onion and half of clove of garlic
 - Add rosemary, thyme, and oregano (herbes de provence)
 - Add smoked paprika, pepper, and salt
 - Add olive oil
@@ -92,7 +92,7 @@ TODO
 
 TODO
 
-### [Dal][dal]
+### [Dal Bhat][dal]
 
 - Fry a chopped onion in a pressure cooker with olive oil
 - Add cumin seeds
@@ -104,7 +104,7 @@ TODO
 - Add 2 cups of rinsed rice with 3 cups of water in an elevated bowl
 - Cook for 8 min with the lid
 
-### Couscous
+### [Couscous][couscous]
 
 TODO
 
@@ -148,7 +148,7 @@ TODO
 
 TODO
 
-## Sauces
+## Side dishes
 
 ### [Hummus][hummus]
 
@@ -172,6 +172,10 @@ TODO
 - Turn on the blender
 - Add 1/2 cup of olive oil progressively
 - Add salt and pepper
+
+### Kimchi
+
+TODO
 
 ## Desserts
 
@@ -255,8 +259,9 @@ TODO
 
 [bolognese]: https://en.wikipedia.org/wiki/Bolognese_sauce
 [chai]: https://en.wikipedia.org/wiki/Masala_chai
+[couscous]: https://en.wikipedia.org/wiki/Couscous
 [chili]: https://en.wikipedia.org/wiki/Chili_con_carne#Vegetarian_chili
-[dal]: https://en.wikipedia.org/wiki/Dal
+[dal]: https://en.wikipedia.org/wiki/Dal_bhat
 [hummus]: https://en.wikipedia.org/wiki/Hummus
 [kaletez]: https://en.wikipedia.org/wiki/Kaletez
 [mujaddara]: https://en.wikipedia.org/wiki/Mujaddara
