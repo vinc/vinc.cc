@@ -23,6 +23,7 @@ links about a variety of topics randomly organized as follow:
 - [History](/history)
 - [Units](/units)
 - [Values](/values)
+- [Wisdom](/wisdom)
 
 <!--
 - [Diary](/diary)
