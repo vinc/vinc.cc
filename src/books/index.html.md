@@ -12,6 +12,8 @@ great escape to everyday life. I also enjoy some fantasy books.
 When I'm traveling my mind is more free so I prefer philosophical, political,
 or environmental books.
 
+In 2025 started collecting [quotes](/books/quotes) from the books I'm reading.
+
 ## Books by year
 
 Between 2012 and 2020 I tried to put everything I read on Goodreads and in 2023
@@ -31,3 +33,4 @@ I extracted the list here.
 - [2022](/books/2022) (3 books)
 - [2023](/books/2023) (14 books)
 - [2024](/books/2024) (20 books)
+- [2025](/books/2025) (3 books)
