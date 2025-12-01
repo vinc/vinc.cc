@@ -12,6 +12,8 @@ It is a work in progress.
 
 The syllable structure is (C)V(V(V)).
 
+Stress typically falls on the penultimate syllable.
+
 #### Vowels
 
 |       | Front | Central | Back |
@@ -299,6 +301,10 @@ The words for "person" above mean "man" or "male" and not a genderless person.
 There is a specific word for that, but those are shorter and they also mean the
 name of a god which is interesting.
 
+### Reduplication
+
+- dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
+
 ### Compound Words
 
 - sixteen: one-six
@@ -325,7 +331,6 @@ name of a god which is interesting.
 - day: sun-turn (Maori and Hawaiian uses "ra" and "la" for "day" whereas Samoan and Tahitian uses "ao")
 - month: moon-turn
 - year: world-turn
-- dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
 
 [1]: https://en.m.wikipedia.org/wiki/Polynesian_languages
 [2]: https://en.wikipedia.org/wiki/Proto-Polynesian_language
