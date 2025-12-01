@@ -11,6 +11,7 @@ NOTE: last updated in 2021
 - [Acer palmatum kotohime #1](/bonsai/collection/acer-palmatum-kotohime-1)
 - [Carpinus betulus #1](/bonsai/collection/carpinus-betulus-1)
 - [Chaenomeles japonica chojubai #1](/bonsai/collection/chaenomeles-japonica-chojubai-1)
+- [Ficus microcarpa #1](/bonsai/collection/ficus-microcarpa-1)
 - [Juniperus chinensis itoigawa #1](/bonsai/collection/juniperus-chinensis-itoigawa-1)
 - [Juniperus chinensis itoigawa #2](/bonsai/collection/juniperus-chinensis-itoigawa-2)
 - [Juniperus chinensis itoigawa #6](/bonsai/collection/juniperus-chinensis-itoigawa-6)

@@ -8,8 +8,8 @@ title: Carpinus betulus #1
 
 ![2005-01](/images/bonsai/2005-01-03-carpinus-betulus-1.jpg)
 
-In the beginning of 2005, I acquired this young European hornbeam from a
-local garden nursery. I guess it to be between 4 and 5 years old at the time.
+I acquired this young European hornbeam from a local garden nursery in the
+beginning of 2005. I guess it to be between 4 and 5 years old at the time.
 
 A few weeks later, the trunk was cut after the third branch, while the second
 one was reduced, and the first branch was removed. In retrospect this was a
@@ -22,7 +22,7 @@ trunk with good tapering.
 ![2005-03](/images/bonsai/2005-03-28-carpinus-betulus-1.jpg)
 
 In spring the tree was then planted into the ground over a tile with some
-pozzolan added to the soil.
+lava added to the soil.
 
 ## May 2006
 
