@@ -13,6 +13,7 @@ links about a variety of topics randomly organized as follow:
 - [Links](/links)
 - [Software](/software)
 - [Hardware](/hardware)
+- [Backpacking](/backpacking)
 - [Recipes](/recipes)
 - [Gardening](/gardening)
 - [Bonsai](/bonsai)
