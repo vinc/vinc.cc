@@ -24,14 +24,19 @@ The population declined at the end of the neolithic.
 ## Herders (Western Steppe Herders)
 
 Some herders again mostly replaced the previous population around 2500 BCE in
-Britain.
+Britain. Appeared first in the Pontic–Caspian steppes with the Yamnaya culture
+then spread West with their Proto-Indo-European language as Corded Ware and
+Bell Beaker cultures.
 
 ### Bell Beaker culture
 
 - Early Bronze Age culture
-- Started from Portugal and spread from the sea to form enclaves inland, like
+- Steppes related ancestry
+- Started from Portugal (Maritime Bell Beaker)
+- Spread from the sea to form enclaves inland, like
   in the southern coast of Brittany
-- From 2400 BCE to 1800 BCE in Britain
+- From 2450 BCE to 1800 BCE in Britain, replaced 90% of the previous population
+- Single burial graves
 
 ### Unetice culture
 
@@ -39,7 +44,7 @@ Britain.
 
 - From 2200 BCE to 1400 BCE
 - Atlantic Bronze Age culture, recently proposed to be at the origin of
-  proto-Celtic
+  Proto-Celtic
 - 1200 BCE: Late Bronze Age collapse
 - From 1300 BCE to 800 BCE: migration from Gaul into southern Britain, perhaps
   bringing Celtic to the island
