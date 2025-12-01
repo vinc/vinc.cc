@@ -28,10 +28,10 @@ factors. However, there are some key events in the annual cycle of a tree:
   - Wire (1.5 mm, 2.0 mm, 3.0 mm, 4.0 mm)
 
 - Stratification
-  - Acer buergerianum: beginning of the month
-  - Acer palmatum: beginning of the month
-  - Pseudocydonia sinensis: beginning of the month
-  - Zelkova serrata : end of the month
+  - Acer buergerianum: beginning of month
+  - Acer palmatum: beginning of month
+  - Pseudocydonia sinensis: beginning of month
+  - Zelkova serrata : end of month
 
 ## February
 
@@ -42,21 +42,24 @@ factors. However, there are some key events in the annual cycle of a tree:
 
 ## March
 
-- Fertilizing
+- Fertilizing: begining of month
   - Pinus thunbergii
   - Chaenomeles japonica chojubai
 
 - Repotting
-  - Acer palmatum: beginning of month
-  - Acer buergerianum: beginning of month
-  - Pinus thunbergii: middle of month
+  - Acer palmatum: beginning of month (bud swelling)
+  - Acer buergerianum: beginning of month (bud swelling)
+  - Pinus thunbergii: middle of month (bud swelling)
   - Malus domestica: end of month
   - Rhododendron indicum: end of month
   - Prunus spinosa: after flowering
 
+- Stratification
+  - Pinus thunbergii: middle of month
+
 ## April
 
-- Fertilizing
+- Fertilizing: begining of month
   - Everything except recently repotted trees
 
 - Repotting
@@ -65,20 +68,17 @@ factors. However, there are some key events in the annual cycle of a tree:
 - Moving
   - Olea europaea: from the greenhouse to outside
 
-- Stratification
-  - Pinus thunbergii: beginning of the month
-
 - Propagating
   - Acer buergerianum: beginning of month (from seeds)
   - Acer palmatum: beginning of month (from seeds)
-  - Pinus thunbergii: middle of month (from seeds)
+  - Pinus thunbergii: beginning of month (from seeds)
   - Pseudocydonia sinensis: beginning of month (from seeds)
   - Zelkova Serrata: beginning of month (from seeds)
 
 ## May
 
-- Fertilizing
-  - Everything except recently repotted trees
+- Fertilizing: begining of month
+  - Everything except recently repotted trees and decandled pines
 
 - Treating
   - Everything: [nettle tea](/bonsai/nettle-tea)
@@ -86,10 +86,13 @@ factors. However, there are some key events in the annual cycle of a tree:
 - Repotting
   - Juniperus chinensis: beginning of month
 
+- Pruning
+  - Acer buergerianum: end of month (post harden)
+
 ## June
 
-- Fertilizing
-  - Everything
+- Fertilizing: begining of month
+  - Everything except decandled pines
 
 - Treating
   - Everything: [nettle tea](/bonsai/nettle-tea)
@@ -98,20 +101,20 @@ factors. However, there are some key events in the annual cycle of a tree:
 - Moving
   - Ficus microcarpa: from inside to the greenhouse
 
-- Decandling
+- Decandling (meriki / 芽切り)
   - Pinus thunbergii: beginning of month (cold climate)
 
 - Pruning
   - Rhododendron indicum: after flowering
 
 - Propagating
-  - Acer palmatum: end of the month (from cuttings)
+  - Acer palmatum: end of month (from cuttings)
   - Chaenomeles japonica chojubai: end of month (from cuttings)
   - Rhododendron indicum: after flowering (from cuttings)
 
 ## July
 
-- Fertilizing
+- Fertilizing: begining of month
   - Everything
 
 - Treating
@@ -134,7 +137,7 @@ factors. However, there are some key events in the annual cycle of a tree:
 
 ## August
 
-- Fertilizing
+- Fertilizing: begining of month
   - Everything
 
 - Treating
@@ -143,7 +146,7 @@ factors. However, there are some key events in the annual cycle of a tree:
 
 ## September
 
-- Fertilizing
+- Fertilizing: begining of month
   - Everything
 
 - Treating
@@ -158,9 +161,12 @@ factors. However, there are some key events in the annual cycle of a tree:
 
 ## October
 
+- Fertilizing: begining of month
+  - Pinus thunbergii
+
 - Pruning
-  - Acer palmatum: after leaf fall
-  - Acer buergerianum: after leaf fall
+  - Acer palmatum: after leaf drop
+  - Acer buergerianum: after leaf drop
 
 - Moving
   - Olea europaea: from outside to the greenhouse (to avoid the rain)
