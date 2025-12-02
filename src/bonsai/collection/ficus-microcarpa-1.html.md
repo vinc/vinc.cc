@@ -18,34 +18,33 @@ learned about akadama and biogold. I also applied my first wire to this tree.
 
 I asked for styling advice on an online forum. The result wasn't pretty, but at
 least I learned how to move branches. I had also defoliated the first branch
-about a month earlier.
+early in July.
 
 ![2004-08](/images/bonsai/2004-08-16-ficus-microcarpa-1.jpg)
 
-## July 2005
-
-Another defoliation and wiring session, one year later.
-
-![2005-07](/images/bonsai/2005-07-30-ficus-microcarpa-1.jpg)
-
 ## September 2005
 
-The tree responded quite well to this treatment.
+I cut back hard, defoliated, and wired the whole tree in the middle of June and
+it responded quite well during the summer.
 
 ![2005-09](/images/bonsai/2005-09-17-ficus-microcarpa-1.jpg)
 
+## June 2006
+
+At the end of June 2006 I only defolied and wired the first two branches and
+according to my notes it responded poorly this time.
+
+![2006-06](/images/bonsai/2006-06-30-ficus-microcarpa-1.jpg)
+
 ## April 2007
 
-I repotted the tree into a mix of 80% lava and 20% akadama too early in the
-season.
-
-The year before, I had defoliated the first two branches and let the upper ones
-grow, and according to my notes it responded poorly to the defoliation.
+I repotted the tree into a mix of 80% lava and 20% akadama, too early in the
+season. I put a layer of larger lava on top of the substrat for some reason.
 
 ![2007-04](/images/bonsai/2007-04-13-ficus-microcarpa-1.jpg)
 
 I defoliated it again in late August 2007, which was too late in the season,
-but it had a lot of natural indoor light so the reaction wasn't too bad.
+but it had a lot of natural light indoors so the reaction wasn't too bad.
 
 ## July 2010
 
@@ -57,7 +56,7 @@ July 2010.
 ## October 2011
 
 After five years of cultivation, the branches were looking pretty good. The
-trunk chop was almost invisible, but the lower part of the trunk hadn't
+trunk chop was almost invisible, but the lowest part of the trunk hadn't
 thickened much.
 
 ![2011-10](/images/bonsai/2011-10-02-ficus-microcarpa-1.jpg)
