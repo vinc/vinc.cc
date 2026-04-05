@@ -86,3 +86,23 @@ In June the tree was growing well again.
 
 In July some branches were cut but the tree was mainly left to grow and gather
 strength for next year when it'll be ready to be styled.
+
+## July 2022
+
+![](/images/bonsai/2022-07-10-olea-europaea-1.jpg)
+
+## July 2023
+
+![](/images/bonsai/2023-07-30-olea-europaea-1.jpg)
+
+## May 2024
+
+![](/images/bonsai/2024-05-05-olea-europaea-1.jpg)
+
+## July 2025
+
+![](/images/bonsai/2025-07-13-olea-europaea-1.jpg)
+
+## November 2023
+
+![](/images/bonsai/2025-11-30-olea-europaea-1.jpg)
