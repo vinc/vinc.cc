@@ -286,3 +286,44 @@ The screen is better but I don't need the higher resolution and my Linux
 configuration is not well adapted to it.
 
 ![Picture of the ThinkPads](dither/computer-2023-11-24.jpg)
+
+### Lenovo Thinkpad X270 (2017)
+
+- CPU: Intel Core i3-6100 (2300 MHz)
+- RAM: 8 GB
+
+In 2025 I got another used Thinkpad because I wanted a smaller one that was
+easier to travel with. It support charging via USB-C like the T480 which is
+pretty useful to share only one charger between the laptop and the phone while
+traveling. It can be upgraded to 32 GB of RAM. It is much better than my other
+netbook from the same year but it was probably much more expensive when it was
+new. 8 years later it was very cheap.
+
+### Custom PC 5
+
+- MB: MSI Z390-A PRO
+- GPU: Sapphire Pulse AMD Radeon RX 6700 XT Gaming (12 GB GDDR6)
+- CPU: Intel Core i3-8350K (4 cores / 4.0 GHz)
+- FAN: Noctua NH-U12S chromax.black
+- RAM: Corsair Vengeance LPX 8 GB DDR4 2666 MHz x 2
+- SSD: Samung SSD 850 PRO 256 GB
+- HDD: Seagate IronWolf 4 TB (SATA)
+- PSU: Corsair TX650M (650W / 80+ Gold)
+- Case: Fractal Design North Mesh
+- Screen: ASUS ProArt PA248QV (24" / 1920x1200 / 16:10)
+
+Later in 2025 I built a desktop PC from used parts that I acquired thorough the
+year just before the rampocalypse when the AI companies bought the global
+supply of chips that lead to dramatic prices increase. I targeted parts
+produced around 2018 to get them cheap with a GPU from 2021 to be powerful
+enough to try gaming on Steam from Arch Linux.
+
+It's a nice computer that allow me to catch up on two decades of games, and it
+replaced the Thinkpad T480 in term of usage, with the Thinkpad X270 allowing me
+to move around easily and SSH back to the main computer if I need more power.
+
+In the future I could upgrade to the following parts:
+
+- CPU: Intel Core i9-9900KS (8 cores / 4.0 -> 5.0 GHz)
+- FAN: Noctua NH-D15 chromax.black
+- RAM: Textorm DDR4 3200 MHz CL16 32 GB x 4
