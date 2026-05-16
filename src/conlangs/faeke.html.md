@@ -98,7 +98,7 @@ The lexicon is small and roughly based on the [Swadesh list][3] translated with
 the help of [Samoan][4], [Maori][5], [Tahitian][6], [Hawaiian][7] dictionaries.
 
 The velar nasal `/ŋ/` is represented by "g" in Samoan and "ng" in Maori in the
-following tables.
+following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 
 ### Pronouns
 
