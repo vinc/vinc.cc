@@ -12,7 +12,7 @@ the early days. I was around 10 years old when our family got its first
 computer.
 
 
-### Epson PC AX Portable / Equity LT-256 (1990)
+### Epson PC AX Portable / Equity LT-286 (1990)
 
 - CPU: Intel 286 (8-12 MHz)
 - RAM: 640 KB
@@ -256,7 +256,7 @@ was soldered on the motherboard, I hated that!
 - CPU: Intel Core i5-4300M (3300 MHz)
 - RAM: 4 GB
 
-This was my next laptop, In 2022 wanted something powerful, cheap, and fully
+This was my next laptop, in 2022 wanted something powerful, cheap, and fully
 repairable so instead of buying new I got this 9 years old laptop and it was
 perfect! It is only a dual-core but with 2 threads per core it's not an issue.
 
