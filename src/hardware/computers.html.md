@@ -171,7 +171,7 @@ go higher like 1053 MHz at 2.05 V but it was not stable at that frequency.
 
 I was fascinated by the idea of pushing the processor to its limit and got
 someone to build me an aluminum waterbloc to setup a watercooling system. I
-managed to push it to 1098 MHz at 2.30 V. I could have went further because I
+managed to push it to 1098 MHz at 2.30 V. I could have gone further because I
 bought a 172 W peltier module but I didn't manage to power it properly. Instead
 the module was experimented on my previous Pentium 75 PC.
 
