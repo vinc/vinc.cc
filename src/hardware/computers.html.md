@@ -102,6 +102,14 @@ computer for some time. I'm not sure about which hard drive it got.
 There was a dip switch on the motherboard to select the CPU, and mine could
 work with the 90 MHz setting. That was my first overclocking.
 
+On 1999-08-12 I posted on Usenet microsoft.public.fr.windows95 a thread about
+my SoundBlaster 16 PNP that caused an issue with Windows 95. It seems that I
+had just upgraded from Windows 3.1 and at the bottom of the post I mention that
+I had 24 MB of RAM on it.
+
+On 1999-08-20 I posted a reply about another booting issue after installing
+Adobe Shockwave.
+
 I have a picture from 2002 of a computer case that might have housed this kit,
 or the 486. But I can see the motherboard at another location in the bedroom
 on the picture.
@@ -123,10 +131,15 @@ software bundled with it so we discovered a lot of new things at once.
 We got a 33k modem for it and used AOL CDs to connect to the Internet. We soon
 upgraded to a 56k modem.
 
-In August 1998 I published my first website and announced it on Usenet.
+In 1998-08-02 I published my first website and announced it on Usenet from this
+computer using Outlook 4.
+
 Although I think I did the actual coding in my bedroom from another computer.
 I remember vividly coding my website when France won the soccer world cup and
 listening to the noise from the window in July 1998.
+
+In 1998-10-06 I posted on usenet microsoft.public.fr.start.informatique a
+question to understand what the percentage of systeme resources meant.
 
 We replaced or added another hard drive to the PC around 1999 but I can't
 remember which one of the following drives:
@@ -327,3 +340,39 @@ In the future I could upgrade to the following parts:
 - CPU: Intel Core i9-9900KS (8 cores / 4.0 -> 5.0 GHz)
 - FAN: Noctua NH-D15 chromax.black
 - RAM: Textorm DDR4 3200 MHz CL16 32 GB x 4
+
+<!--
+
+- 1982: 286 (12 MHz)
+- 1988: 386 SX (25 MHz)
+- 1990: 486 DX (33 MHz)
+- 1994: Pentium (75 @ 90 MHz)
+- 1997: Pentium II (233 Mhz)
+- 2000: Celeron II (600 @ 900 MHz)
+- 2003: Athlon XP 2500+ (1833 @ 2200 MHz)
+
+- 1985: 386 DX (25 MHz)
+- 1994: Pentium (100 MHz)
+- 1999: Pentium III (500 MHz)
+- 2000: Pentium III EB (1000 MHz)
+- 2003: AMD Athlon 64 3200+ (2000 MHz)
+- 2007: Intel Core 2 Duo E6850 (3000 MHz)
+- 2017: Intel Core i3-8350K (4000 MHz)
+
+- 1997: Creative Sound Blaster 16 PnP CT4180
+- 1997: Realtek RTL8139A
+- 1998: ABIT BH6
+- 1999: ABIT BE6
+- 1999: Realtek RTL8139B
+- 1999: EPoX EP-BX6
+- 1999: ABIT BE6-II
+- 1999: Realtek RTL8139C
+- 2001: Realtek RTL8139D
+- 2004: Intel PRO/1000 GT Desktop
+
+- 1999: ABIT BH6 + Intel Pentium III (0.5 GHz) + Realtek RTL8139B (PCI) + SB16 (ISA)
+- 2000: ABIT BE6-II + Intel Pentium III EB (1.0 GHz) + Realtek RTL8139B (PCI) + SB16 (ISA)
+- 2004: MSI RS482M + AMD Athlon 64 (2.0 GHz) + Realtek RTL8100C (integrated) + AC97 (integrated)
+- 2007: Asus P5K + Intel Core 2 Duo E6850 (3.0 GHz) + Intel PRO/1000 GT Desktop (PCI) + HDA (integrated)
+
+-->
